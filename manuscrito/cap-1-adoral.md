@@ -164,13 +164,29 @@ Aldair dejó la carpeta sobre la mesa de piedra, sin abrirla.
 
 Fue Jerah quien giró la cabeza, despacio, como un espadachín que calcula la distancia antes del paso.
 
-—No hay nada que interpretar.
+—No hay nada que interpretar. Una orden del rey deroga una orden anterior. Eso no es militar ni administrativo. Es la primera cosa que aprende un recluta el día que jura.
 
-—No he hablado de interpretación militar, capitán. —Aldair ni siquiera lo miró—. He hablado de aplicación administrativa. Son terrenos distintos. En uno manda usted. En el otro, me temo, manda el papel.
+—Yo no juré ante un recluta, capitán. —Aldair sostuvo la mirada sin alzar la voz—. Y usted tampoco, aunque a veces lo olvide.
 
-Darius levantó una mano antes de que el capitán respondiera.
+Algo cambió en el aire de la sala. Fue sutil, pero Darius lo notó, porque llevaba años esperándolo: aquel intercambio ya no trataba de carros ni de grano. Los dos hombres se habían encontrado antes, en otra mesa, en otros años, y lo que fuera que se dijeron entonces seguía sin saldarse.
+
+—Los controles del norte —continuó Aldair— los supervisa un oficial que usted mismo ascendió, capitán. Hace nueve años. ¿Lo recuerda? Le prendió la insignia con sus propias manos. Un hombre de la Corte Dorada, formado por la Corte Dorada, leal a la Corte Dorada. —hizo una pausa milimétrica—. Si hoy aplica un procedimiento que a usted le incomoda, quizá el problema no sea de qué casa recibe sus órdenes. Quizá sea que la Corte Dorada ya no es tan de una sola pieza como le gusta contarle al rey.
+
+Jerah no se movió. Pero Darius, que lo conocía como se conoce la propia mano, vio el músculo que se tensó bajo la mandíbula del capitán, y supo que Aldair acababa de tocar la herida con la precisión que solo da el conocimiento largo de un adversario.
+
+—Ese oficial —dijo Jerah, y la voz le salió más baja, más lenta, lo que en él era peor que un grito— era un buen soldado cuando le prendí la insignia. En lo que se haya convertido no tuvo nada que ver la Corte Dorada. Tuvo que ver quién le prometió tierras que la corona no le había dado.
+
+—Las tierras se ganan sirviendo.
+
+—Se ganan sirviendo a la corona. No a quien paga mejor por vestir el mismo uniforme.
+
+—Qué pintoresco. —el representante de Dravon esbozó algo que no era del todo una sonrisa—. Treinta años jurándole lealtad a un solo hombre, y todavía habla como si la lealtad fuese gratis. Algunos tenemos familias, capitán. Deudas. Hijos que no eligieron nacer donde nacieron. No todos podemos permitirnos su clase de pureza. —se recostó en el asiento—. Aunque, pensándolo bien, a usted la pureza le salió barata. Nunca tuvo nada que perder.
+
+Fue lo más cerca que estuvieron de desenvainar sin tocar el acero. Jerah abrió la boca, y por primera vez en treinta años Darius temió lo que su capitán pudiera decir delante de testigos.
 
 —Basta.
+
+Darius lo dijo sin levantar la voz, pero la mano que alzó cortó la sala en seco. En el silencio que siguió quedó flotando la certeza de que aquellos dos hombres habían librado esa misma batalla muchas veces —en antesalas, en patios de armas, en los márgenes de otros consejos como aquel—, y de que ninguna de las dos casas, ni la corona misma, sabría nunca del todo cuántos de los hombres de la Corte Dorada respondían ya al uniforme y cuántos a la bolsa que lo pagaba. Esa era la verdadera guerra de Adoral. No la del grano. La que se libraba, callada, dentro del único ejército en el que el rey aún creía poder confiar.
 
 La sala calló. El rey dejó que el silencio se asentara un instante, el tiempo justo para recordarles a todos quién seguía presidiendo aquella mesa, aunque fuera desde un asiento demasiado solo.
 
@@ -242,11 +258,15 @@ Podía ordenar su liberación. Tenía el poder —todavía lo tenía, en teoría
 
 Pero sabía lo que ocurriría si abría esa puerta.
 
-La gente de Dravon lo usaría al día siguiente como prueba de que el reino se ablandaba, de que hacía falta una mano más firme, una mano con guantelete. Los Cendrel maniobrarían para tenerlo cerca, controlado, convertido en una pieza más de su tablero infinito. Los Aurelvar echarían cuentas de cuánto costaba financiar a quienes lo seguían y cuánto a quienes lo querían muerto, y elegirían la columna con mejor margen. Y los hombres que ya habían aprendido a temer aquel nombre —porque había hombres que lo temían, y cada día más— terminarían convenciéndose de que la estabilidad del reino exigía que el muchacho, simplemente, dejara de existir.
+Pero eso no era lo peor. Eso era solo lo que ocurriría si las casas seguían viendo en él lo que creían ver: un agitador de los barrios del sur, un preso político con demasiada labia, una molestia que la corona, por alguna debilidad incomprensible, se negaba a ejecutar. Mientras lo creyeran eso, el muchacho estaba a salvo dentro de su peligro. Era una pieza del tablero, y a las piezas no se las destruye hasta saber a quién benefician.
 
-Por eso lo había encerrado. Para que no muriera.
+Lo que de verdad helaba a Darius —lo que lo despertaba algunas noches con el corazón desbocado— era la otra cosa. La que no estaba en ningún expediente. La que no compartía la administración penitenciaria, ni el capitán, ni el consejo, ni un solo ser vivo en toda Veridia salvo él mismo y, quizá, un hombre muerto hacía mucho que se había llevado el secreto a la tumba. Si las casas llegaran a saber *quién* era en realidad el muchacho de la celda —no lo que hacía, no lo que decía, sino lo que era, por sangre, por origen, por el vínculo que Darius había enterrado tan hondo que a veces conseguía fingir que no existía—, no habría control de Cendrel ni cálculo de Aurelvar ni guantelete de Dravon que lo salvara. Lo matarían antes del amanecer. Y después, con el tiempo y la paciencia que a Darius le faltaban, encontrarían la manera de hacer caer también al rey que lo había ocultado.
 
-La contradicción lo despertaba algunas noches con el corazón desbocado. Había enjaulado a un ser vivo para mantenerlo vivo. Había convertido el único acto de protección que le quedaba en la peor de las crueldades, y lo peor, lo que de verdad no lo dejaba dormir, era que seguía sin encontrar una alternativa que no terminara con el muchacho en una tumba sin nombre y Adoral en llamas.
+Por eso no estaba preso por lo que había hecho.
+
+Estaba preso por lo que era. Y la celda no era un castigo, sino el único escondite que a Darius se le había ocurrido lo bastante a la vista de todos como para que nadie pensara en mirar dentro. Un secreto enterrado en el lugar más ruidoso de la ciudad, bajo el disfraz de un expediente aburrido, custodiado por funcionarios que manejaban sus papeles con pinzas sin saber del todo por qué.
+
+La contradicción lo despertaba y no lo dejaba volver a dormir. Había enjaulado a un ser vivo no por lo que podía hacerle al reino, sino por lo que el reino le haría a él si lo descubría. Había convertido un acto de protección en una crueldad, y lo peor —lo que de verdad lo vaciaba— era que, por muchas noches que lo pensara, seguía sin hallar una sola alternativa que no terminara con el muchacho en una tumba sin nombre y con Adoral, tarde o temprano, en llamas.
 
 Porque esa era la otra mitad de la verdad, la que Darius solo se permitía pensar en noches como aquella, a solas, con la sopa fría y la ciudad encendiéndose al otro lado del cristal: que el muchacho tenía razón. Que había visto la misma Adoral que veía el rey —el sur sin nombres, el barro que heredaba el barro, la gente que no entraba en los mapas— y que, a diferencia del rey, se había negado a aprender a convivir con ella. Darius había pasado veinte años haciendo las paces con lo insoportable, llamándolo prudencia, llamándolo paciencia, llamándolo el precio de que no ardiera todo. El muchacho no había hecho esas paces. Y quizá —esa era la idea que más lo asustaba— quizá esa falta de paciencia fuera exactamente lo que hacía falta. Quizá el que podía salvar Adoral fuera, precisamente, el que estaba dispuesto a romperla.
 
@@ -257,6 +277,10 @@ Dobló la petición. La guardó bajo las otras dos, donde no tuviera que mirarla
 Se acercó a la ventana. Abajo, Adoral encendía sus luces una a una, y desde aquella altura no se distinguían los rostros de quienes caminaban por las calles, ni se oía si reían o maldecían, ni se sabía cuántos de ellos llegarían a una casa con comida y cuántos a una pared por la que entraba el frío. La distancia volvía ordenada la miseria. Siempre lo hacía. Y un rey que gobernaba desde la distancia podía corregir el orden de un reino entero sin tocar nunca a una sola de las personas que lo habitaban.
 
 Apagó una de las lámparas. Al día siguiente volvería al consejo, revisaría los nombramientos, perdería el tiempo en cosas pequeñas con la esperanza terca de que las cosas pequeñas todavía importaran. Al día siguiente, quizá, bajaría por fin a la ciudad interior, cruzaría el patio del viejo edificio de los documentos y entraría en la celda del muchacho, y le diría a la cara lo que no se atrevía a escribir en ninguna orden.
+
+Le diría que lo sentía. Que lo había encerrado para esconderlo, no para castigarlo. Que en algún rincón del miedo que le tenía al muchacho había también otra cosa, más terca y más peligrosa que el miedo: la sospecha de que aquel preso de los barrios del sur, aquel secreto enterrado bajo un expediente aburrido, fuera lo único que quedaba en toda Adoral capaz de poner orden donde el rey ya solo sabía aguantar. Que lo había enjaulado, a la vez, para protegerlo del reino y para proteger al reino de lo que significaría reconocerlo.
+
+Que cargaba con todo eso solo, en un asiento tallado para uno.
 
 Al día siguiente.
 
