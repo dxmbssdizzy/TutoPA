@@ -108,7 +108,7 @@ Las referencias identifican cualidades, tensiones y tipos de arco; no son modelo
 | Adoral (capital) | CANON. Centro político, sede del conflicto civil, corona y tres casas. |
 | Ciudad vinculada a rutas comerciales | PROPUESTA de worldbuilding. |
 | Ciudad de recurso estratégico | PROPUESTA. Definir qué produce y por qué importa. |
-| Pueblo/convento de Hope | BASE DE TRABAJO. Enclave religioso sobre elevación rocosa, junto a un pueblo minero. Nombre por definir. |
+| **Mildraugh** | CANON. Pueblo minero invernal donde viven Eloy (con Bron y Yiel) y Hope (en el convento sobre la elevación rocosa). Será arrasado en el Acto II. |
 | Ciudad/taller de Eloy | BASE DE TRABAJO. Pueblo minero invernal con taller de maestre mago (Gareth). Nombre por definir. |
 | Aldeas y asentamientos menores | Existen más allá de las ciudades principales. |
 
@@ -153,10 +153,11 @@ Ejecutar un hechizo **consume aquello que el mago comprende.** No borra recuerdo
 
 ### El Vidente de la Ciudadela — CANON CONFIRMADO (v0.4), identidad PREGUNTA ABIERTA
 
-- Uno de los **sabios hechiceros de la Ciudadela** es un **vidente**: puede ver el futuro. Figura **clave del lore de los cinco protagonistas** — mueve hilos en la sombra, conectando las tramas sin que los personajes lo sepan.
-- Es quien envía a Magnus la runa de la fuga **por entregas** (ver §9). Que un vidente de la Ciudadela orqueste la liberación de un preso usando magia en bruto —justo lo que la Ciudadela existe para contener— sugiere que ve algo en el futuro que justifica el riesgo.
-- Función narrativa: titiritero que explica, a largo plazo, por qué los cinco destinos convergen. Debe usarse con cuidado (riesgo: un vidente que lo sabe todo mata la tensión). Regla de trabajo: **ve, pero no controla**; sus intervenciones son empujones, no garantías, y pagan su propio precio (ver un futuro también consume comprensión).
-- PREGUNTA ABIERTA: nombre, motivaciones, qué ve exactamente y cuánto de ello es fiable; su relación con la Guerra Rúnica y con los Vigilantes.
+- Uno de los **sabios hechiceros de la Ciudadela** es un **vidente**: puede ver el futuro.
+- **No es un titiritero omnisciente que mueve todas las tramas.** Su función es doble y acotada: (1) **da visión del futuro a ciertos personajes** concretos; (2) **guía personalmente a Eloy**, porque —en palabras del propio Vidente— «ese es su destino».
+- **Todo lo que mueve, lo mueve por Eloy.** Incluida la runa que envía a Magnus (ver §9): su visión le muestra que la fuga de Magnus es necesaria para el destino de Eloy, y por eso interviene. No actúa por ambición política ni por un plan propio sobre el reino: actúa al servicio de un solo chico.
+- **El lector no sabe nada de esto todavía.** En el Acto I no se revela que el Vidente existe, ni que la misión de Iliana nace de él, ni que la runa de Magnus es suya. Son hilos ocultos que se pagan más adelante.
+- PREGUNTA ABIERTA: nombre, por qué el destino de Eloy le importa tanto, qué ve exactamente y cuánto es fiable; su relación con la Guerra Rúnica y con los Vigilantes; si ver el futuro paga un precio (coherencia con el sistema de magia).
 
 ### La Guerra Rúnica y el tabú — CANON CONFIRMADO (marco), PREGUNTA ABIERTA (verdad profunda)
 
@@ -252,7 +253,7 @@ La ceniza conecta las dimensiones: objeto de investigación para Eloy, amenaza s
 ### Elenco y convergencia — CANON CONFIRMADO
 
 - Cinco protagonistas con historias inicialmente separadas: Seth, Iliana, Hope, Eloy, Magnus.
-- **Hope y Eloy ya se conocen y son amigos antes del primer acto** (viven en el mismo pueblo minero invernal; Eloy es aprendiz del maestre Gareth, Hope vive en el convento).
+- **Hope y Eloy ya se conocen y son amigos antes del primer acto** (viven en **Mildraugh**, pueblo minero invernal; Eloy es aprendiz del maestre Gareth, Hope vive en el convento).
 - Hope y Eloy deben estar juntos en Adoral cuando empiece el asalto a la ciudad.
 - Hope conoce al Seth bueno antes de la transformación; no debe conocerlo solo como Clérigo.
 - El momento exacto en que los cinco convergen debe fijarse en la escaleta.
@@ -366,7 +367,22 @@ El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central
 - Su motivación profunda es la **identidad**: reconstruir quién es tras perder familia, libertad y posición.
 - Aspira a la Corte Dorada; acompaña a Seth en la campaña de liberación; es nombrada guardia oficial; luego comandante de la Fuerza Dorada; a largo plazo, lidera la Corte Dorada.
 
-> **NOTA.** Iliana aún no aparece en el manuscrito (acto I). Su capítulo de presentación está pendiente.
+### Detalles del manuscrito (acto I, capítulo «Iliana») — CANON CONFIRMADO (v0.4)
+
+- **Apellido:** Valebrand. Casa noble venida a menos: la arruinó una enfermedad y después una deuda (no una batalla); de niña, a los ocho años, fue entregada como garantía de esa deuda → esclavizada → escapó. Conservó el apellido, que le abrió la puerta de la casa de escuderos.
+- Endurecida **pero con las grietas visibles**: el cuerpo recuerda el trauma (se tensa si alguien se acerca por detrás, calcula salidas); la ambición no puede mostrarla porque en alguien como ella parece impertinencia.
+- **Motivación:** no la gloria, sino la **identidad jurídica** — ser *alguien* a quien la ley reconozca y no se pueda embargar. La Corte Dorada es ese lugar.
+- **La misión (Cap. 1):** **Jerah Burdoun** le encarga en persona escoltar a un «activo valioso» desde **Mildraugh** hasta Adoral. La orden llega con un **sello extraño de la Ciudadela** que ni el propio Jerah entiende del todo. En realidad la misión **nace de la voluntad del Vidente de traer a Eloy** (el «activo») a Adoral —ver §4—, pero **ni Iliana ni el lector lo saben**: ella solo ve el sello raro, no pregunta (buena soldado) y acepta porque la escolta **es su vía de acceso a la prueba de ingreso en la Corte Dorada**.
+- **Sombra política:** que a una huérfana sin padrino le den una misión codiciada levanta sospechas (¿favor?, ¿prueba?, ¿alguien quiere que fracase?). Útil para rozar a Dravon/Cendrel.
+- **Cierre del Cap. 1:** Iliana **empieza a partir hacia Mildraugh.** (El viaje y el encuentro con Seth son material del Acto II.)
+
+### El encuentro con Seth y la caída de Mildraugh — CANON DE DESARROLLO (Acto II)
+
+- De camino a Mildraugh, **Iliana se encuentra con Seth**; los asaltan unos **bandidos** (los mismos que después arrasarán Mildraugh). Iliana resulta **herida**. *(Este es el encuentro Seth–Iliana que la biblia tenía pendiente.)*
+- **La caída de Mildraugh:** los bandidos atacan el pueblo; la gente se esconde en las minas. **Yiel enciende un mechero** para dar calor, ignorando los gases de la mina → **explosión**. Mueren casi todos, incluidos **Bron y Yiel**. *El invierno no era indulgente.*
+- **Eloy y Hope ya habían escapado** del pueblo hacia Adoral huyendo de los bandidos: no estaban en la mina. El Vidente, al sacar a Eloy de Mildraugh, lo **salva de la masacre y lo condena a sobrevivir a sus padres** (culpa futura de Eloy).
+- **Iliana y Seth ven la explosión desde lejos** y **deciden volver** —por recursos y por la herida de Iliana—, no por heroísmo: nadie llega a tiempo de impedir nada. La tragedia ocurre sin testigos que pudieran evitarla.
+- PREGUNTA ABIERTA: identidad de los bandidos (¿desertores?, ¿partida ligada a la guerra?, ¿gente del Barro desesperada?); conviene darles un rasgo reconocible (estandarte/marca) para identificarlos entre el asalto a Iliana y el ataque a Mildraugh.
 
 ### Voz y contraste con Seth
 
