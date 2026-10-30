@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.2 — consolidación de trabajo · Corte: 28 de octubre de 2026 ·
+Versión 0.3 — consolidación de trabajo · Corte: 30 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -122,13 +122,42 @@ Las referencias identifican cualidades, tensiones y tipos de arco; no son modelo
 - No todo el Barro confía en Magnus ni en Seth, ni desea una figura monárquica.
 - La relación de Seth con el Barro debe construirse con actos, vidas protegidas y decisiones, no solo con profecías o carisma.
 
-### Magia y Zortash — CANON CONFIRMADO (marco), PREGUNTA ABIERTA (sistema)
+### El sistema de magia — CANON CONFIRMADO (v0.3)
 
-- **Zortash** fue el primer humano que estudió y documentó la magia. Figura fundacional; hoy sin relevancia política. Sobrevive en juramentos y dichos.
-- **Primera ley / primer principio enseñado: la equivalencia.** La magia manipula la materia; la materia no se destruye, se transforma. *(BASE DE TRABAJO — es lo que enseñan los textos; su estatus último como ley del mundo sigue abierto, igual que en FMA se respeta como referencia pero no se canoniza el intercambio equivalente.)*
-- **Tomos:** desencadenan hechizos ya grabados. No cualquiera los invoca con la misma facilidad.
-- **Transmutación sin tomo:** los magos más aptos prescinden de los libros y transmutan desde las manos, trazando sellos o runas. Eloy aún no puede. *(Frontera central de su arco.)*
-- PREGUNTA ABIERTA: ¿entender la magia y ser hábil con ella son lo mismo? (Lo plantea Hope a Eloy en el acto I.)
+El sistema descansa en dos principios acordados con el autor. Ambos convergen en la tesis del libro.
+
+**Principio 1 — La magia obedece a quien COMPRENDE.**
+La barrera entre quien puede hacer magia y quien no **no es un don de nacimiento ni una casta**: es la **comprensión**. La materia se transforma para quien entiende de verdad *por qué* se transforma. No basta con desearlo ni con memorizar fórmulas: hay que comprender el fundamento. Por eso la magia profunda es rarísima — comprender hasta ese grado es difícil, antinatural y peligroso.
+
+**Principio 2 — Usar la magia cobra un PRECIO: la propia comprensión.**
+Ejecutar un hechizo **consume aquello que el mago comprende.** No borra recuerdos autobiográficos sueltos (eso vaciaría a los personajes y chocaría con la amnesia de Seth); consume **conocimiento, destreza, el “cómo” y el “porqué” de lo que uno entiende y sabe hacer.** Escalas:
+
+| Escala | Qué se paga | Ejemplo |
+|---|---|---|
+| Hechizo menor | Un detalle técnico, una fórmula, el *porqué* del hechizo recién hecho. Recuperable releyendo… al principio. | El relicario de Eloy: lo hace, funciona, y deja de recordar cómo. |
+| Hechizo medio | Una destreza entera. | Un sanador que cura demasiado olvida cómo se curaba. |
+| Hechizo de guerra / escala masiva | **Las razones.** Los principios se vuelven reflejos sin fundamento: se conserva el impulso, se pierde el juicio que lo frenaba. | Seth: ver §8. |
+
+**Por qué este sistema sostiene todo el libro:**
+- **Es la tesis encarnada.** Seth usa la ceniza para «salvar a todos»; cada uso le borra las razones morales que lo hacían bueno, hasta que solo queda el impulso de salvar, sin el juicio moral. **El Clérigo de la Ceniza = Seth que ha olvidado por qué le importaba la gente, pero no que debe “salvarla”.** Atrocidades en nombre de un amor cuyo origen ya no recuerda.
+- **Conecta con el olvido y los ciclos.** El «olvido» colectivo del mundo (§14) y el precio de la magia son **la misma fuerza a dos escalas** — personal y civilizatoria. *(DIRECCIÓN PREFERIDA: la ceniza es lo que queda cuando algo se comprende hasta consumirse.)*
+- **La magia no es escalera de poder.** Cada uso te hace **menos de lo que eras**. Nadie «sube de nivel»; se vacía.
+
+**El maestre pierde una uña (manuscrito).** Reinterpretado: el coste físico menor (uña, pelo, cansancio) es la *manifestación visible* de un pago pequeño; el coste real es la comprensión. BASE DE TRABAJO: decidir cuánto del precio es físico-visible y cuánto es cognitivo-invisible.
+
+### Los tomos, los maestres y la Ciudadela — CANON CONFIRMADO
+
+- **Tomos:** desencadenan hechizos ya grabados. **Enlatan comprensión ajena** para que el usuario común no pague con la suya. Por eso son «seguros» pero limitados: no entiendes, solo ejecutas lo enlatado.
+- **Transmutación sin tomo:** prescindir del libro exige comprender de verdad… y por tanto pagar con la propia comprensión. Eloy aún no puede. **Frontera central de su arco** — y ahora, frontera *peligrosa*: cruzarla es empezar a perderse.
+- **La Ciudadela (Adoral):** cuerpo de eruditos que estudian la magia, **preservan su historia** y **educan a los maestres**. Guardianes de un conocimiento que se borra a sí mismo al usarse. Forman maestres que memorizan sin comprender del todo —a propósito—, porque comprender de verdad es lo que consume. A la Ciudadela trasladan a Eloy para entrenarse mejor y buscar archivos. *(Su POV recibe la carta de traslado en el Acto I, Capítulo 2.)*
+
+### La Guerra Rúnica y el tabú — CANON CONFIRMADO (marco), PREGUNTA ABIERTA (verdad profunda)
+
+- **La Guerra Rúnica** (versión oficial, la que se enseña): hubo una época en que los magos que comprendían de verdad —los que transmutaban sin tomo— eran poder político. Se enfrentaron en una guerra que casi los extinguió. No solo murieron luchando: **se vaciaron**, consumidos por su propia magia, hasta ser poder sin persona.
+- **El tabú** no nace de superstición, sino de **memoria del trauma**: el mundo vio a sus mejores mentes disolverse y decidió no volver a comprender. Comprender la magia es empezar a perderse; de ahí que se tema y se oculte.
+- **Zortash** fue el primer humano que estudió y documentó la magia: figura fundacional, hoy sin relevancia política, viva en juramentos («por la inteligencia de Zortash»).
+- **DIRECCIÓN PREFERIDA (verdad profunda, para el arco de Eloy):** la versión oficial es cierta a medias. *Qué* provocó realmente la guerra y *adónde fueron* los magos que se vaciaron no es lo que dicen los libros — y podría conectar con la ceniza y los Vigilantes. Eloy persigue, sin saberlo, el conocimiento que el mundo enterró a propósito: eso vuelve su curiosidad **transgresora y peligrosa**, no un capricho de erudito.
+- **La «equivalencia»** que enseñan los tomos (la materia se transforma, no se destruye) es una **simplificación** para que la gente ejecute sin comprender. La **anomalía del relicario** de Eloy (menos materia, reparación completa) es la primera grieta visible de que la ley enseñada no es la ley real.
 
 ---
 
@@ -496,8 +525,27 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 
 ## 16. Estructura macro en cinco actos — ESTRUCTURA CONFIRMADA
 
+### Molde de capítulos — CANON CONFIRMADO (v0.3)
+
+- **Escala objetivo:** ~300.000 palabras.
+- **5 actos × 3 capítulos = 15 capítulos.** ~20.000 palabras por capítulo (estándar de alta fantasía).
+- **Cada capítulo = varias secciones POV, con al menos un POV de cada protagonista** (Seth, Magnus, Eloy, Hope, Iliana). **Excepción:** en tramos de misterio, un protagonista puede faltar deliberadamente (p. ej. Seth tras la captura).
+- **POV diferenciados:** el POV **«Adoral»** (rey Darius, contexto de la ciudad y las casas) se maneja **separado** del POV **«Magnus»** (la cárcel, lo personal). El Capítulo 1 tiene, por tanto, 6 secciones: Seth, Adoral, Magnus, Eloy, Hope, Iliana.
+- **Entrelazado:** se alternan los POV dentro del capítulo para mantener tensión coral; **se puede cortar un POV y retomarlo** más adelante en el mismo capítulo. Cada corte debe caer en tensión.
+- Cada sección POV apunta a ~3.5-4.5k palabras con densidad real (no relleno).
+
+**Línea de la guerra civil (reloj del libro) — CANON CONFIRMADO:**
+- Se **cimenta al final del Acto I (Capítulo 3).**
+- **Estalla / empieza a suceder al inicio del Acto II (Capítulo 1).**
+- Se consolida como guerra abierta a partir de ahí. **Todos los protagonistas acaban involucrados, cada uno en su bando.**
+
+**Mapa del Acto I (capítulos) — BASE DE TRABAJO:**
+- **Cap. 1 — «Aquel que permanece».** Presentación coral (6 POV). Gancho de Seth; política de Adoral; Magnus preso; anomalía del relicario de Eloy; grieta de fe de Hope; Iliana rumbo a la prueba de la Corte Dorada. *(Material: la v2 actual es la base de este capítulo; falta llevar cada POV a densidad y entrelazarlos.)*
+- **Cap. 2.** Entre otras cosas, **Eloy recibe la carta de traslado a la Ciudadela de Adoral.** (Aquí, no en el Cap. 1.)
+- **Cap. 3.** Cierre del acto: **se cimenta la guerra civil.**
+
 ### Acto I — Introducción de las vidas
-- Presentar a los protagonistas con vidas, objetivos y conflictos propios. *(Escritos: Eloy, Hope, Magnus, Seth. Pendiente: Iliana.)*
+- Presentar a los protagonistas con vidas, objetivos y conflictos propios. *(Cap. 1 borrador v2 con los cinco POV + Adoral. Falta densidad/entrelazado y Caps. 2-3.)*
 - Seth despierta amnésico, cubierto de ceniza, sosteniendo un cuerpo de ceniza.
 - Hope y Eloy ya son amigos.
 - Magnus, encarcelado, establece el eje político y el Barro.
@@ -586,7 +634,10 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 | Elemento | Estado resumido |
 |---|---|
 | Título | **Silent Ashes** (antes «Reinicio»). |
-| Estructura | Cinco actos. Confirmado. |
+| Estructura | 5 actos × 3 capítulos = 15 caps. ~300k palabras, ~20k/cap. Confirmado. |
+| Molde de capítulo | Cada cap. lleva ≥1 POV de cada protagonista (POV «Adoral» = rey, aparte de «Magnus»); POV entrelazados, se pueden cortar y retomar. |
+| Magia (sistema) | La magia obedece a quien **comprende**; usarla **consume la comprensión** (razones, destrezas). Tomos = comprensión enlatada. Ciudadela = eruditos que preservan la magia y forman maestres. Tabú tras la Guerra Rúnica. |
+| Guerra civil (reloj) | Se cimenta al final del Acto I (cap. 3); estalla al inicio del Acto II (cap. 1); todos acaban en bandos distintos. |
 | Tema central | El amor puede justificar los peores crímenes. Confirmado. |
 | Protagonistas | **Cinco:** Seth, Iliana, Hope, Eloy, Magnus. |
 | Continente / capital | **Veridia** (continente) · **Adoral** (capital). Confirmado. |
@@ -598,7 +649,9 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 | Casas | Cendrel (político), Aurelvar (económico, elefante), Dravon (militar). |
 | Corona | Rey Darius; capitán Jerah Burdoun (Corte Dorada). |
 | Zortash | Primer humano que estudió/documentó la magia; histórico, hoy irrelevante. |
-| Primera ley mágica | La equivalencia (la materia se transforma, no se destruye). |
+| Ciudadela | Cuerpo de eruditos en Adoral: estudia la magia, preserva su historia, forma maestres. Eloy es trasladado allí (carta en Acto I, cap. 2). |
+| Precio de la magia | Se paga con la **comprensión**: menor = datos/fórmulas; guerra = las razones morales. Motor de la caída de Seth → Clérigo. |
+| «Equivalencia» | Ley que enseñan los tomos (simplificación). La anomalía del relicario de Eloy es la primera grieta de que no es la ley real. |
 | Ceniza | Parece inocua; poderes de Seth y petrificación; reglas y costes abiertos. |
 | Culto | Ligado a élites; captura y experimenta con Seth (magia oscura). |
 | Vigilantes | Naturaleza ambigua; teorías de ciclos no confirmadas. |
@@ -678,6 +731,9 @@ Reglas de prioridad al retomar el proyecto:
 | **28 oct 2026 (v0.2)** | **Magnus = quinto protagonista, príncipe bastardo («Príncipe del Barro»), distinto de Seth; muere y encarga a Seth liberar Adoral.** | **Reemplaza la v0.1 (Seth = príncipe). Releer toda la cadena del golpe con Magnus en el centro.** |
 | **28 oct 2026 (v0.2)** | **Veridia = continente; Adoral = capital. Zortash = primer humano que documentó la magia.** | **Corrige «Aldoria» como capital en el manuscrito.** |
 | **28 oct 2026 (v0.2)** | **Integrados los datos del manuscrito del acto I: Gareth, Bron, Yiel, relicario, ave, hermana superiora, rey Darius, Jerah, Edwyn/Misael/Aldair, urraca.** | **Nuevas entradas de personajes y worldbuilding.** |
+| **30 oct 2026 (v0.3)** | **Sistema de magia canonizado: la magia obedece a quien COMPRENDE; usarla consume la comprensión (precio = razones/destrezas, no recuerdos sueltos). Tomos = comprensión enlatada. Guerra Rúnica + tabú. Ciudadela = eruditos que forman maestres.** | **Define magia, caída de Seth (olvida sus razones → Clérigo) y conexión con el olvido/ciclos. §4 reescrita.** |
+| **30 oct 2026 (v0.3)** | **Molde de capítulos: 5×3 = 15 caps., ~20k c/u, ~300k total; cada cap. ≥1 POV por protagonista; POV «Adoral» (rey) separado de «Magnus»; entrelazado con cortes. Guerra civil: se cimenta en Acto I cap. 3, estalla en Acto II cap. 1.** | **§16 ampliada. La «v2» del manuscrito pasa a ser el borrador del Capítulo 1.** |
+| **30 oct 2026 (v0.3)** | **Carta de traslado de Eloy a la Ciudadela: Acto I, Capítulo 2 (no en el 1).** | **El POV de Eloy en el cap. 1 cierra solo con la anomalía del relicario.** |
 
 ---
 
