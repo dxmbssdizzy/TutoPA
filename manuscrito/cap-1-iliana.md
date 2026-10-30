@@ -12,9 +12,35 @@ Guardia alta. Paso. Descarga.
 
 El golpe resonó contra el poste de entrenamiento, seco, limpio. Doscientos trece. Los contaba todos, aunque jamás lo admitiría. Había descubierto pronto que a los hombres que dirigían aquel sitio no les gustaban los escuderos que contaban: les parecía ambición, y la ambición, en alguien como ella —sin tierras, sin padrino, sin nada salvo un apellido que pesaba como una mentira—, les parecía siempre una impertinencia.
 
+Las voces llegaron antes que los pasos. Tres, quizá cuatro, jóvenes, descansadas, con esa resonancia de los que han dormido bien y desayunado mejor. Iliana no se volvió. Reconocía a sus dueños por el timbre, igual que reconocía a un caballo por el modo de pisar: los aspirantes de cuna, los hijos de casas medianas que llegaban al patio cuando el sol ya calentaba y se marchaban antes de que apretara el frío.
+
+—Mira. Otra vez la Valebrand, hablándole al poste.
+
+—Déjala. Es lo único que la escucha.
+
+Risas. No crueles, que habría sido más fácil; solo cómodas, la clase de burla que no cuesta nada porque quien la hace no teme respuesta. Iliana terminó la descarga. Guardia alta. Paso. No les dio la cara, porque darles la cara era darles importancia, y porque sabía —lo sabía en el cuerpo antes que en la cabeza— que el segundo en que un escudero sin cuna deja de entrenar para responder a una pulla es el segundo que se usa después contra él. *La Valebrand abandona los ejercicios para discutir.* No pensaba regalarles esa frase.
+
+Uno de ellos —Corwen, de los Harwick, con una cota nueva que le habían comprado y que aún no se había ganado— se apartó del grupo y se acercó al abrevadero, a tres pasos de ella. No por casualidad. Para ser visto haciéndolo.
+
+—¿Sabes que puedes pedir un escudo más ligero? —dijo, con la amabilidad venenosa del que ofrece ayuda para subrayar que el otro la necesita—. El de madera maciza lo usamos los primeros meses. Nadie espera que una… —buscó la palabra, y eligió la que hería sin dejar marca— que alguien de tu complexión lo maneje toda la mañana.
+
+Iliana bajó el escudo. Despacio. Se volvió hacia él y, por un instante, dejó que el cuerpo hiciera lo que el cuerpo quería hacer desde hacía rato: calcular. La distancia hasta Corwen. El peso del escudo en su brazo cansado. El punto exacto, bajo la mandíbula, donde un canto de madera reforzada con hierro convertiría aquella sonrisa en una visita al cirujano. Lo calculó entero, con una claridad fría que le venía de muy atrás, de los años en que calcular salidas y golpes había sido la diferencia entre una noche mala y una peor.
+
+Y después, como había aprendido a hacer un millar de veces, lo apartó.
+
+—Tienes razón —dijo, y su voz salió serena, casi agradecida—. El de madera es más pesado. Por eso lo uso.
+
+Corwen parpadeó, esperando el golpe verbal que no llegó. Ella ya le había dado la espalda y recuperado la guardia.
+
+—Cuando el día de la prueba me den uno de verdad —añadió, sin volverse—, me va a parecer de pluma. A ti, que has entrenado con el de pluma, te va a parecer de verdad. —levantó el escudo—. Suerte con eso.
+
+Alguien del grupo soltó una risa, esta vez a costa de Corwen. El muchacho se puso rojo, dijo algo sobre que no valía la pena, y se marcharon, llevándose las voces descansadas con ellos. Iliana se quedó sola otra vez, que era como prefería estar, con el corazón golpeándole más fuerte de lo que habría admitido. No por miedo. Por el esfuerzo de no hacer lo que sabía hacer. Esa era la parte que ninguno de ellos vería jamás: que su mayor destreza no era la espada ni el escudo, sino tragarse, mañana tras mañana, la violencia exacta que el mundo le había enseñado y que una Valebrand arruinada no podía permitirse usar ni una sola vez.
+
+Guardia alta. Paso. Descarga. Doscientos catorce.
+
 —Vas a romperte el hombro antes que mejorar la técnica.
 
-La voz llegó desde el soportal. Iliana no se detuvo; terminó el movimiento, recuperó la guardia y solo entonces se volvió, porque interrumpir un gesto a la mitad era, también, una forma de obedecer, y ella obedecía lo justo.
+La voz llegó desde el soportal. Distinta. Vieja, grave, con el poso de quien no necesita alzarla. Iliana no se detuvo; terminó el movimiento, recuperó la guardia y solo entonces se volvió, porque interrumpir un gesto a la mitad era, también, una forma de obedecer, y ella obedecía lo justo.
 
 No esperaba al maestro Harl. Esperaba, como cada mañana, la soledad. Lo que había en el soportal no era el instructor cojo de siempre, sino dos siluetas: Harl, sí, con su capa raída y su pierna destrozada por una lanza en una guerra que Iliana era demasiado joven para recordar. Y, medio paso por detrás, un hombre al que no había visto nunca de cerca, pero que no hacía ninguna falta haber visto para reconocer.
 

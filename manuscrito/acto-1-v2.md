@@ -94,6 +94,10 @@ Se apretó la muñeca y esperó. Al principio no ocurrió nada. Entonces sintió
 
 Su corazón latía.
 
+Se llevó la otra mano al pecho, por encima de la ropa rígida de ceniza, para confirmarlo desde dentro. Ahí estaba: lento, demasiado lento, como un tambor que alguien hubiera olvidado tocar durante mucho tiempo y volviera a intentarlo sin recordar del todo el compás. Contó los latidos igual que un náufrago cuenta las tablas que le quedan: con la certeza de que podían fallarle en cualquier momento y el miedo de que, si dejaba de contarlos, se detuvieran. Diez. Veinte. No se detuvieron. Pero tampoco se aceleraron, ni se calmaron del todo, y aquello —un corazón que latía como si hubiera que recordarle cómo hacerlo— lo inquietó más que el silencio de antes.
+
+Había algo profundamente equivocado en estar vivo. No sabía explicarlo mejor que así. No era alivio lo que sentía al notar el pulso; era extrañeza, la de quien encuentra una herramienta en la mano y no recuerda haberla cogido. El cuerpo funcionaba. Respiraba, dolía, sangraba, latía. Y aun así le quedaba la sensación insistente de ser un huésped en él, de haber vuelto a una casa que seguía siendo suya pero en la que alguien había movido todos los muebles mientras él no estaba.
+
 Estaba vivo, no sabía cómo, no sabía por qué. Solo sabía que, en algún momento que no podía recordar, había dejado de estarlo. La certeza no procedía de una imagen ni de una explicación. Surgía de algo más profundo: la ausencia de aire que había sentido al despertar, el frío que parecía haber ocupado cada rincón de su existencia y la extraña sensación de que el mundo había continuado sin él.
 
 Por más que intentó recordar el momento anterior a su despertar, encontró oscuridad. Buscó algo que pudiera precederla: una voz, un golpe, el calor de una hoguera, el sonido de alguien pronunciando su nombre. Cualquier cosa habría bastado.
