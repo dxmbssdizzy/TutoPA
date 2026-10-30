@@ -1,0 +1,7 @@
+# Entorno de Python (se recrea con build.sh)
+.venv/
+__pycache__/
+*.pyc
+
+# Configuración local de Kiro
+.kiro/
