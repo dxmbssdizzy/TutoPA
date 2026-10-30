@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.3 — consolidación de trabajo · Corte: 30 de octubre de 2026 ·
+Versión 0.4 — consolidación de trabajo · Corte: 30 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -150,6 +150,13 @@ Ejecutar un hechizo **consume aquello que el mago comprende.** No borra recuerdo
 - **Tomos:** desencadenan hechizos ya grabados. **Enlatan comprensión ajena** para que el usuario común no pague con la suya. Por eso son «seguros» pero limitados: no entiendes, solo ejecutas lo enlatado.
 - **Transmutación sin tomo:** prescindir del libro exige comprender de verdad… y por tanto pagar con la propia comprensión. Eloy aún no puede. **Frontera central de su arco** — y ahora, frontera *peligrosa*: cruzarla es empezar a perderse.
 - **La Ciudadela (Adoral):** cuerpo de eruditos que estudian la magia, **preservan su historia** y **educan a los maestres**. Guardianes de un conocimiento que se borra a sí mismo al usarse. Forman maestres que memorizan sin comprender del todo —a propósito—, porque comprender de verdad es lo que consume. A la Ciudadela trasladan a Eloy para entrenarse mejor y buscar archivos. *(Su POV recibe la carta de traslado en el Acto I, Capítulo 2.)*
+
+### El Vidente de la Ciudadela — CANON CONFIRMADO (v0.4), identidad PREGUNTA ABIERTA
+
+- Uno de los **sabios hechiceros de la Ciudadela** es un **vidente**: puede ver el futuro. Figura **clave del lore de los cinco protagonistas** — mueve hilos en la sombra, conectando las tramas sin que los personajes lo sepan.
+- Es quien envía a Magnus la runa de la fuga **por entregas** (ver §9). Que un vidente de la Ciudadela orqueste la liberación de un preso usando magia en bruto —justo lo que la Ciudadela existe para contener— sugiere que ve algo en el futuro que justifica el riesgo.
+- Función narrativa: titiritero que explica, a largo plazo, por qué los cinco destinos convergen. Debe usarse con cuidado (riesgo: un vidente que lo sabe todo mata la tensión). Regla de trabajo: **ve, pero no controla**; sus intervenciones son empujones, no garantías, y pagan su propio precio (ver un futuro también consume comprensión).
+- PREGUNTA ABIERTA: nombre, motivaciones, qué ve exactamente y cuánto de ello es fiable; su relación con la Guerra Rúnica y con los Vigilantes.
 
 ### La Guerra Rúnica y el tabú — CANON CONFIRMADO (marco), PREGUNTA ABIERTA (verdad profunda)
 
@@ -317,12 +324,23 @@ Magnus es el **hijo bastardo del rey Darius de Adoral**: no heredero legítimo, 
 - Gana el apodo **«Príncipe del Barro»** entre quienes lo escuchan.
 - **Muere** en algún punto del arco político. *(PREGUNTA ABIERTA: cómo, cuándo y a manos de quién.)* Antes de morir, **encarga a Seth liberar Adoral**; ese encargo transfiere el impulso político y hace nacer el título «Rey del Barro».
 
+### La fuga de Magnus — CANON CONFIRMADO (v0.4)
+
+- Magnus escapa de la prisión real mediante una **runa** que le llega **por entregas**: trazos sueltos, uno por vez, en papeles anónimos. El **primer trazo** aparece en el reverso de la nota «Pronto. Aguanta. Resiste.» (Cap. 1) y le resulta **indiferente por carecer de sentido**. Entrega a entrega, el símbolo se va formando.
+- La runa completa se **talla con las uñas en ambas palmas**: magia en bruto, sin tomo, que provoca una **fuga masiva** de la prisión. Es el acto fundacional de su leyenda como Príncipe del Barro, y lo convierte —a ojos del reino— en algo peor que un agitador: en un usuario de magia prohibida, una abominación tras la Guerra Rúnica.
+- **Ocurre en el Acto I, Capítulo 3.** Abre la puerta al Acto II y a la guerra civil.
+- **Quién le manda los papeles:** uno de los **sabios hechiceros de la Ciudadela, un vidente** que puede ver el futuro. Mueve hilos, en la sombra, entre las tramas de los cinco protagonistas. *(Figura clave del lore — ver §4.)*
+- PREGUNTA ABIERTA: el **precio** que paga Magnus por una fuga con magia en bruto (¿olvida algo al salir? Conecta con el precio-comprensión y el olvido). Nombre e identidad del vidente.
+- **Eco deliberado:** el primer trazo que Magnus no puede dejar de mirar rima con la anomalía del relicario que Eloy no puede dejar de investigar — dos protagonistas tirando, sin saberlo, del mismo hilo sembrado por el vidente.
+
 ### Detalles del manuscrito (acto I, capítulo «Magnus») — CANON CONFIRMADO
 
 - La prisión real no está bajo el palacio: está al otro lado de la ciudad interior, tras un edificio administrativo.
 - Lleva tanto tiempo que ha dejado de contar los días; cuenta otras cosas para «saber que todavía puede observar algo sin que otro decida qué significa».
+- Método político: **planta semillas** en quienes lo rodean (el guardia de la cicatriz). No bajó al Barro a predicar, sino a escuchar; su frase —«el reino no tiene derecho a exigir obediencia mientras trata tu existencia como una molestia»— se le escapó de las manos y la gente la repitió.
 - Promesa interna: «Si alguna vez salía de aquella celda, no volvería a pedir permiso para cambiar el mundo».
 - No reza; no pide que los dioses lo salven. Contraste deliberado con Hope.
+- **La revelación de que es el hijo bastardo del rey se reserva para el final de su POV**; los POV de Adoral (rey) y Magnus guardan el secreto desde dentro (Opción B).
 
 ### Preguntas abiertas de Magnus
 

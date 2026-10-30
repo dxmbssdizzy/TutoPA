@@ -152,6 +152,20 @@ Tres palabras. Una letra que no reconoció, firme, de alguien acostumbrado a esc
 
 Las leyó muchas veces. No sabía quién las había escrito. No sabía si eran una promesa verdadera, el cebo de una trampa de las casas para ver si intentaba fugarse, o el delirio piadoso de alguien tan desesperado como él. Lo más sensato era pensar lo peor. Llevaba meses entrenándose en pensar lo peor; era la única higiene que el sitio permitía.
 
+Al darle la vuelta al papel para comprobar que no escondiera nada más —otra frase, una firma, cualquier cosa que delatara la mano que lo había escrito—, encontró una marca en el reverso.
+
+No era una palabra. No era un número. Ni siquiera, estrictamente, un dibujo. Era un trazo: una sola línea curva, hecha de un tirón, con un pequeño quiebro al final, como si quien la trazó hubiera dudado un instante antes de levantar la pluma. No representaba nada que Magnus pudiera reconocer. No era una letra de ningún alfabeto que conociera, y Magnus conocía tres. No era el escudo de ninguna casa. No era un mapa, ni una inicial, ni un símbolo de los que pintaban los devotos en los dinteles para espantar la mala suerte.
+
+Era, sencillamente, una raya con un quiebro. Un garabato.
+
+La miró el tiempo que se mira cualquier cosa que no significa nada: lo justo para descartarla. Quizá el papel había sido usado antes para otra cosa. Quizá quien escribía deprisa había probado la pluma en el reverso antes de mojarla del todo. Quizá no era más que un accidente, tinta sobrante, el equivalente escrito de un carraspeo. Magnus tenía problemas de verdad —dos enfermos abajo, un guardia al que ganarse, una nota que podía ser una trampa— y no le sobraba atención para gastarla en una mancha sin sentido.
+
+Volvió a doblar el papel por donde estaba la frase, dejando el trazo de cara a la piedra, y lo guardó. Si acaso pensó algo del garabato, fue que la gente, cuando tiene prisa y miedo, deja marcas raras sin darse cuenta.
+
+No podía saber —nadie encerrado en una celda, contando pasos y toses, podía saber una cosa así— que aquella raya con un quiebro era la primera de muchas. Que llegaría otra, y otra, en otros papeles, bajo otros panes, a lo largo de las semanas, cada una tan indiferente y tan absurda como la primera. Y que solo mucho después, cuando ya fueran demasiadas para seguir llamándolas accidente, empezarían a encajar unas con otras como las piezas de algo que nunca había dejado de estar ahí, esperando a ser comprendido.
+
+Pero eso era después. Aquella noche solo había una raya sin sentido en el reverso de un papel, y un preso con asuntos más urgentes que atender.
+
 Pero las palabras seguían ahí, en su letra deprisa, bajo la luz temblorosa. Y por primera vez en mucho tiempo, cuando por fin se tumbó sobre la manta, no lo hizo para esperar un amanecer idéntico al anterior. Cerró la mano alrededor del papel —lo bastante fuerte para sentirlo, lo bastante suave para no romperlo— y se permitió, solo por una noche, el lujo peligroso de que la palabra *sobrevivir* significara otra cosa. No morirse despacio con permiso. Aguantar. Para algo.
 
 No rezó. Nunca rezaba; esa era una de las pocas cosas que lo separaban de casi todo el mundo que conocía, y una de las que más desconcertaba a los guardias devotos. No pidió a los dioses que lo salvaran. A Magnus le costaba creer en dioses que, pudiendo abrir cualquier puerta, dejaban tantas cerradas. Si algo iba a cambiar en Adoral, lo cambiarían manos. Manos como las que habían escrito aquella nota. Manos como las suyas, si alguna vez volvían a tocar algo que no fuera piedra.
