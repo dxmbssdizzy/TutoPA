@@ -77,7 +77,7 @@ h1:first-of-type { page-break-before: avoid; }
                 margin-top: 34vh; font-weight: bold; }
 .cover .act { margin-top: 42vh; font-size: 13pt; letter-spacing: 2px; }
 /* primera línea de párrafo tras un salto NO sangra; el resto, sí (estilo novela) */
-p { text-indent: 1.4em; margin: 0; }
+p { text-indent: 1.4em; margin: 0 0 0.35em; }
 p:first-of-type, h1 + p, h2 + p, h3 + p, hr + p, blockquote + p { text-indent: 0; }
 hr { border: none; text-align: center; margin: 1.3em 0; }
 hr::after { content: "* * *"; color: #999; letter-spacing: 4px; }

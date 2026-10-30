@@ -126,6 +126,15 @@ def build_manuscript(md_text, out_path):
             p.paragraph_format.space_after = Pt(10)
         else:
             p = doc.add_paragraph()
+            # Formato de novela aplicado EXPLÍCITAMENTE en cada párrafo
+            # (no se confía en la herencia del estilo, que python-docx no
+            # propaga de forma fiable). Sangría de primera línea + un pequeño
+            # espacio posterior para que narración y diálogos "respiren".
+            pf2 = p.paragraph_format
+            pf2.first_line_indent = Inches(0.3)
+            pf2.space_after = Pt(6)
+            pf2.line_spacing = 1.5
+            pf2.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             add_runs_with_inline(p, line)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
