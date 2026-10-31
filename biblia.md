@@ -188,7 +188,7 @@ La corona posee autoridad legítima, pero las grandes casas condicionan el ejerc
 ### La corona — CANON CONFIRMADO / BASE DE TRABAJO
 
 - **Rey Darius**, monarca de Adoral. Padre de Magnus. Cree que las instituciones pueden corregirse sin destruirlas; ha aprendido a convivir con las contradicciones del reino.
-- **Capitán Sir Jerah Burdoun (Burdon)**, de la casa **Burdoun**, capitán de la Corte Dorada; de cabello albino, leal al rey, veterano. *(PREGUNTA ABIERTA DE CONTINUIDAD: fijar la grafía — «Burdoun» vs. «Burdon» — en el manuscrito.)*
+- **Capitán Sir Jerah Burdoun**, de la casa **Burdoun**, capitán de la Corte Dorada; de cabello albino, leal al rey, veterano. *(Grafía fijada: «Burdoun». El manuscrito del Cap. 1 ya es consistente.)*
 
 ### Magnus y la crisis sucesoria — CANON CONFIRMADO
 
@@ -204,7 +204,10 @@ La corona posee autoridad legítima, pero las grandes casas condicionan el ejerc
 - **Efecto en cadena:**
   - Da a las casas el **motivo y la urgencia** para consumar el magnicidio que ya conspiraban (muere en el **Cap. 3**).
   - Obliga a **Aurelvar a replegarse**: retira financiación y empieza a **tapar sus asuntos comprometidos** — entre ellos, la red de trata que sostiene con el convento de Mildraugh (ver §11). Ese repliegue es lo que, en el Acto II, desencadena el ataque de los Hijos de la Horca a Mildraugh **como encubrimiento**, no como rabieta por impago.
-- **Qué medida exacta: PREGUNTA ABIERTA** (a fijar al redactar el POV). Candidatos: (a) impuesto/auditoría sobre rutas y finanzas (golpea a Aurelvar directo); (b) reforma que toca privilegios de las tres casas; (c) gesto hacia el Barro/los presos que las casas leen como amenaza. *Dirección preferida: (a) como eje, con un matiz de (c) para tocar a Magnus.*
+- **Qué medida exacta — CANON (v0.5): (a) + (c).** Una **auditoría de rutas y finanzas** (golpea a Aurelvar: inspectores en sus libros → motivo y urgencia para replegar la financiación del convento y tapar la trata) **más** una **concesión hacia los presos / el Barro** que nace de haber leído la petición de su hijo (toca a Magnus, asusta a las tres casas). Detalle fino de ambas medidas: a precisar al redactar.
+- **Caracterización de Darius (del Cap. 1, se mantiene y se paga):** rey del pueblo, lúcido y cansado, que lleva veinte años «haciendo las paces con lo insoportable». La decisión del Cap. 2 es el momento en que **deja de solo aguantar y actúa**: su acto de gobierno **es** su acto moral — y su sentencia. Muere por intentar gobernar con decencia (ironía trágica).
+- **Imagen de apertura del POV de Adoral (Cap. 2):** Darius al amanecer en el **balcón**, mirando la zona del **Barro**, con la **petición/carta de Magnus en la mano** — misma composición que el Cap. 1 (el rey en la ventana), pero el objeto marca que hoy **actúa**.
+- La escena de la celda que sigue a esta decisión (Darius se la cuenta a Magnus) se narra **desde el POV de Magnus**, no desde Adoral (ver §9).
 
 ### El asesinato del rey y la cadena causal — BASE DE TRABAJO (a reconciliar con la v0.1)
 
@@ -318,7 +321,7 @@ Seth es genuinamente, incluso de forma imprudente, bondadoso: «demasiado blando
 ### El nombre de Seth — CANON CONFIRMADO (v0.5)
 
 - Seth **despierta sabiendo su nombre** tras el asalto del Cap. 2, aunque Iliana le había dado uno provisional durante la inconsciencia; él **rectifica**: _«No. Seth.»_
-- Es el **primer fragmento que regresa del otro lado de la amnesia**, y llega **sin recuerdo, sin rostro, sin contexto**: un nombre y nada más. **No rompe la amnesia** ni resuelve el misterio; la queda abierto si es su nombre real, un eco del ciclo o el nombre de otro. Da al lector el ancla que necesita conservando la incógnita.
+- Es el **primer fragmento que regresa del otro lado de la amnesia**, y llega **sin recuerdo, sin rostro, sin contexto**: un nombre y nada más. **No rompe la amnesia** ni resuelve el misterio; queda abierto si es su nombre real, un eco del ciclo o el nombre de otro. Da al lector el ancla que necesita conservando la incógnita.
 
 ### Trayectoria establecida — CANON CONFIRMADO
 
@@ -365,14 +368,24 @@ Magnus es el **hijo bastardo del rey Darius de Adoral**: no heredero legítimo, 
 - Gana el apodo **«Príncipe del Barro»** entre quienes lo escuchan.
 - **Muere** en algún punto del arco político. *(PREGUNTA ABIERTA: cómo, cuándo y a manos de quién.)* Antes de morir, **encarga a Seth liberar Adoral**; ese encargo transfiere el impulso político y hace nacer el título «Rey del Barro».
 
-### La fuga de Magnus — CANON CONFIRMADO (v0.4)
+### La fuga de Magnus — CANON CONFIRMADO (v0.5)
 
-- Magnus escapa de la prisión real mediante una **runa** que le llega **por entregas**: trazos sueltos, uno por vez, en papeles anónimos. El **primer trazo** aparece en el reverso de la nota «Pronto. Aguanta. Resiste.» (Cap. 1) y le resulta **indiferente por carecer de sentido**. Entrega a entrega, el símbolo se va formando.
-- La runa completa se **talla con las uñas en ambas palmas**: magia en bruto, sin tomo, que provoca una **fuga masiva** de la prisión. Es el acto fundacional de su leyenda como Príncipe del Barro, y lo convierte —a ojos del reino— en algo peor que un agitador: en un usuario de magia prohibida, una abominación tras la Guerra Rúnica.
+- Magnus escapa de la prisión real mediante una **runa** que le llega **por entregas en las comidas**: trazos sueltos, uno por vez, día tras día. El **primer trazo** (Cap. 1) le resulta **indiferente por carecer de sentido**. **A lo largo del time skip del Cap. 2** (menos de dos semanas), entrega a entrega, Magnus **comprende** que los trazos forman una runa.
+- **El tallado (Cap. 2):** Magnus empieza a **tallarse la runa en ambas palmas con sus propias uñas, rasgándose la piel.** De ahí las **«runas cicatrizadas»** con las que huirá. Es magia en bruto, sin tomo.
+- **El detonante de la fuga (Cap. 3) — CANON (v0.5):** para el final del Cap. 2 la runa está (o casi) **grabada en su carne**, pero le **falta el detonante para usarla**. El detonante es **la muerte de su padre, el rey Darius** (magnicidio del Cap. 3): al saberlo, Magnus se da a la fuga transmutando con las runas de sus palmas. La fuga deja de ser mecánica («la runa ya está lista») y pasa a ser **reacción de duelo y furia** — el único hombre que lo protegía, y con quien acababa de reconciliarse en silencio (ver §5), ha sido asesinado por las casas contra las que él predica.
+- La fuga provoca una **fuga masiva** de la prisión. Es el acto fundacional de su leyenda como Príncipe del Barro, y lo convierte —a ojos del reino— en algo peor que un agitador: en un usuario de magia prohibida, una abominación tras la Guerra Rúnica.
 - **Ocurre en el Acto I, Capítulo 3.** Abre la puerta al Acto II y a la guerra civil.
-- **Quién le manda los papeles:** uno de los **sabios hechiceros de la Ciudadela, un vidente** que puede ver el futuro. Mueve hilos, en la sombra, entre las tramas de los cinco protagonistas. *(Figura clave del lore — ver §4.)*
+- **Quién le manda los trazos:** uno de los **sabios hechiceros de la Ciudadela, un vidente** que puede ver el futuro. Mueve hilos, en la sombra, entre las tramas de los cinco protagonistas. *(Figura clave del lore — ver §4.)* El Vidente provee la **herramienta** (los trazos); el **dolor** (la muerte del padre) da el **motivo**.
 - PREGUNTA ABIERTA: el **precio** que paga Magnus por una fuga con magia en bruto (¿olvida algo al salir? Conecta con el precio-comprensión y el olvido). Nombre e identidad del vidente.
 - **Eco deliberado:** el primer trazo que Magnus no puede dejar de mirar rima con la anomalía del relicario que Eloy no puede dejar de investigar — dos protagonistas tirando, sin saberlo, del mismo hilo sembrado por el vidente.
+
+### La última conversación padre-hijo (Acto I, Cap. 2) — CANON CONFIRMADO (v0.5)
+
+- En el Cap. 2, **Darius baja a la celda de Magnus** (es el «día siguiente» que el POV de Adoral del Cap. 1 dejó pendiente: el rey por fin actúa en vez de solo aguantar).
+- **Punto de vista:** la escena se ve **enteramente desde el POV de Magnus**. El rey es algo opaco para el lector (no entramos en su cabeza) → ternura contenida. El **POV de Adoral del Cap. 2 NO contiene la conversación**: muestra la decisión del rey y **el entorno reaccionando** a ella.
+- **Qué ocurre:** Darius le cuenta a Magnus **lo que ha hecho** — la auditoría, la concesión a los presos, las medidas por el Barro. Es decir, **demuestra su amor con actos**, no con palabras, porque **no puede** revelarle el parentesco (§9: la revelación se reserva para el final del POV de Magnus). Ama en el único idioma que la jaula le permite: gobernando hacia donde su hijo le señaló.
+- **Magnus hace las paces** internamente: entiende que su padre-rey no es el enemigo, que *trata de hacer lo mejor*, aunque **ninguno de los dos nombra el vínculo.** El amor queda en el subtexto.
+- **Ironía dramática:** el lector (que por el Cap. 1 sabe que son padre e hijo) lee una escena de amor filial que los personajes no pueden nombrar. Tras el magnicidio del Cap. 3, la escena queda retroactivamente desgarradora: **fue la última vez**, y es lo que convierte la muerte del rey en el detonante de la fuga.
 
 ### Detalles del manuscrito (acto I, capítulo «Magnus») — CANON CONFIRMADO
 
@@ -772,7 +785,7 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 - Capítulo de presentación de **Iliana** (falta en el acto I).
 - Edades del elenco: el manuscrito fija a Seth y Eloy en ~16. Decidir el rango de edad de Hope, Iliana y Magnus, y si la novela los envejece a lo largo de los actos (un Rey del Barro y una comandante adolescentes cambian el tono).
 - Nombre definitivo del aliado **«Aldoria»** de Eloy (colisiona con el topónimo antiguo).
-- Grafía de **Burdoun/Burdon**.
+- ~~Grafía de **Burdoun/Burdon**.~~ ✅ Resuelto: **Burdoun** (manuscrito ya consistente).
 - Nombres de pueblos de Hope y Eloy; mapa fino de Veridia.
 - Objetivos independientes de Hope y Eloy al comienzo.
 
@@ -834,6 +847,10 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.5)** | **Hijos de la Horca canonizados:** secta ritual (ref. Crossed con propósito), estandarte del ahorcado con cordón umbilical. **Nombre de Seth:** despierta sabiéndolo y rectifica a Iliana (sin romper amnesia). | **§6 bis nueva; §8 ampliada.** |
 | **31 oct 2026 (v0.5)** | **Red de trata: convento + Aurelvar + Hijos de la Horca.** Desaparecen chicas del convento; Mildraugh se arrasa como **encubrimiento** (no por impago). | **§11 ampliada; §6 bis.** |
 | **31 oct 2026 (v0.5)** | **Decisión del rey Darius (Cap. 2)** que aprieta a las tres casas → acelera el magnicidio (Cap. 3) y el repliegue de Aurelvar. | **§5 ampliada (nueva subsección).** |
+| **31 oct 2026 (v0.5)** | **Medida del rey fijada: (a) auditoría de rutas/finanzas + (c) concesión a presos/Barro.** Darius = rey del pueblo; su acto moral es su sentencia (muerte = shock en Cap. 3). Grafía **Burdoun** confirmada (manuscrito ya consistente). | **§5 ampliada; §19 y §5 limpian la pregunta de grafía.** |
+| **31 oct 2026 (v0.5)** | **Fuga de Magnus reescrita:** runa por entregas **en las comidas** durante un **time skip <2 semanas** (Cap. 2); Magnus comprende y **se talla la runa en ambas palmas con las uñas**; la fuga (Cap. 3) se **dispara con la muerte del padre** (duelo/furia), no por «runa lista». | **§9 (fuga) reescrita.** |
+| **31 oct 2026 (v0.5)** | **Última conversación padre-hijo (Cap. 2), 100% desde el POV de Magnus:** Darius le demuestra amor con actos (le cuenta sus medidas), sin nombrar el parentesco; Magnus hace las paces en silencio. El POV de Adoral muestra solo el entorno reaccionando. | **§9 (nueva subsección); §5.** |
+| **31 oct 2026 (v0.5)** | **Orden de POV del Cap. 2 fijado:** Eloy → Adoral → Iliana → Hope → Magnus → Seth. Time skip <2 semanas para todos salvo Seth (cae «ahora» en la ruta de Iliana). | **`manuscrito/cap-2-escaleta.md` actualizada.** |
 
 ---
 

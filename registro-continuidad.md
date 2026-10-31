@@ -23,7 +23,11 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A8 | Hijos de la Horca | **Secta ritual (ref. Crossed, pero con propósito). Estandarte: ahorcado con cordón umbilical.** Canal de la red de trata. | Biblia §6 bis. |
 | A9 | Red de trata | **Convento + Aurelvar + Hijos de la Horca trafican con personas; desaparecen chicas del convento.** Mildraugh se arrasa como **encubrimiento** (no por impago). | Biblia §11, §6 bis, §5. |
 | A10 | Decisión del rey (Cap. 2) | **El rey Darius aprieta a las tres casas → acelera el magnicidio (Cap. 3) y el repliegue de Aurelvar.** Medida exacta aún por fijar al redactar. | Biblia §5. |
-| A11 | Grafía del capitán | **«Burdoun»** (unifica B2). | Biblia §5, escaleta Cap. 2. |
+| A11 | Grafía del capitán | **«Burdoun»** (unifica B2). Verificado: el manuscrito vigente ya es consistente; nada que corregir. | Biblia §5, §19, escaleta Cap. 2. |
+| A12 | Medida del rey (detalle) | **(a) auditoría de rutas/finanzas + (c) concesión a presos/Barro** (nacida de la petición de Magnus). Darius = rey del pueblo; su acto moral es su sentencia. | Biblia §5. |
+| A13 | Fuga de Magnus | **Runa por entregas en las comidas** durante time skip <2 sem.; Magnus comprende y **se la talla en ambas palmas con las uñas**; la fuga (Cap. 3) se **dispara con la muerte del padre**. | Biblia §9. |
+| A14 | Conversación padre-hijo (Cap. 2) | **100% desde el POV de Magnus;** Darius demuestra amor con actos, sin nombrar el parentesco (§9 reserva la revelación); Magnus hace las paces en silencio. Adoral solo muestra el entorno reaccionando. | Biblia §9, §5. |
+| A15 | Time skip del Cap. 2 | **<2 semanas para todos los POV salvo Seth** (cae «ahora» en la ruta de Iliana; único presente inmediato). Orden de POV: Eloy → Adoral → Iliana → Hope → Magnus → Seth. | Escaleta Cap. 2. |
 
 ---
 
@@ -38,7 +42,7 @@ La biblia menciona que Eloy acaba reuniéndose con Iliana y con **«Aldoria»** 
 
 ### B2 — Grafía del capitán: ¿Burdoun o Burdon?  · ✅ RESUELTO (31 oct 2026)
 En el manuscrito aparece «palabra de **Burdoun**» y, dos líneas después, «Sir Jerah **Burdon**». Hay que unificar.
-**Decisión:** **«Burdoun»** (ver A11). _Falta aplicar la corrección en el manuscrito del Cap. 1 donde aparezca «Burdon»._
+**Decisión:** **«Burdoun»** (ver A11). _Verificado 31 oct: el manuscrito vigente (`capitulo-1.md`) ya usa «Burdoun» de forma consistente; la variante «Burdon» solo vivía en una versión antigua. Nada que corregir en el manuscrito._
 
 ### B3 — Edades del elenco  · prioridad ALTA
 El manuscrito fija a **Seth ~16** y **Eloy 16**. Falta decidir:
