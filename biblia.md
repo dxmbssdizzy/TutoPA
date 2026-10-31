@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.4 — consolidación de trabajo · Corte: 30 de octubre de 2026 ·
+Versión 0.5 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -198,11 +198,20 @@ La corona posee autoridad legítima, pero las grandes casas condicionan el ejerc
 - Obtiene el apodo **«Príncipe del Barro»** entre quienes lo escuchan fuera de palacio.
 - Las casas temen que Magnus ofrezca «un lenguaje común» que una a comunidades que normalmente no comparten nada.
 
+### La decisión del rey que aprieta a las casas — CANON CONFIRMADO (v0.5)
+
+- En el **Acto I, Capítulo 2 (POV «Adoral»)**, el rey Darius toma una **medida que pone en cuerdas a las tres casas** a la vez. Golpea con especial fuerza a **Aurelvar** (poder económico).
+- **Efecto en cadena:**
+  - Da a las casas el **motivo y la urgencia** para consumar el magnicidio que ya conspiraban (muere en el **Cap. 3**).
+  - Obliga a **Aurelvar a replegarse**: retira financiación y empieza a **tapar sus asuntos comprometidos** — entre ellos, la red de trata que sostiene con el convento de Mildraugh (ver §11). Ese repliegue es lo que, en el Acto II, desencadena el ataque de los Hijos de la Horca a Mildraugh **como encubrimiento**, no como rabieta por impago.
+- **Qué medida exacta: PREGUNTA ABIERTA** (a fijar al redactar el POV). Candidatos: (a) impuesto/auditoría sobre rutas y finanzas (golpea a Aurelvar directo); (b) reforma que toca privilegios de las tres casas; (c) gesto hacia el Barro/los presos que las casas leen como amenaza. *Dirección preferida: (a) como eje, con un matiz de (c) para tocar a Magnus.*
+
 ### El asesinato del rey y la cadena causal — BASE DE TRABAJO (a reconciliar con la v0.1)
 
 - Cendrel planea el asesinato del rey; la muerte se encubre como caída sospechosa. *(BASE DE TRABAJO.)*
 - Dravon persigue en secreto instalar un Estado militar, traicionando a Cendrel. *(BASE DE TRABAJO.)*
-- Aurelvar aún no fija posición: puede financiar, negociar, esperar o dividirse.
+- Aurelvar aún no fija posición públicamente, pero **en privado se repliega** tras la decisión del rey (ver arriba) y protege su red de trata.
+- **El magnicidio se consuma en el Acto I, Capítulo 3**, precipitado por la decisión del rey del Cap. 2.
 - **CONFLICTO DE CONTINUIDAD A RESOLVER:** en la v0.1, el príncipe (entonces Seth) sabía del asesinato y huía. Ahora el príncipe es Magnus, que **muere** y encarga a Seth liberar Adoral. Hay que precisar: ¿cómo muere Magnus, cuándo, y cómo se encadena su muerte con el asesinato del rey y con la entrada de Seth en la guerra?
 
 ### Preguntas políticas pendientes
@@ -234,6 +243,32 @@ Rama operativa / cuerpo de campaña dependiente de la Corte Dorada. Iliana empez
 ### Influencia de Dravon
 
 Dravon influye sobre la Corte Dorada (ascensos, suministros, destinos, patronazgo), lo que puede complicar el ascenso de Iliana. Pero la influencia no es obediencia automática: hay oficiales leales a la corona. El conflicto es de red institucional, no de control total.
+
+---
+
+## 6 bis. Los Hijos de la Horca — CANON CONFIRMADO (v0.5)
+
+### Núcleo
+
+Partida/secta que opera en los caminos y pueblos del interior. **No son mercenarios ni caos puro:** son **fanáticos** que ejercen una crueldad extrema (asesinato, tortura, violación) como **acto ritual**, convencidos de que sirven a algo sagrado. Referencia tonal: los cultistas de **Crossed** (misma brutalidad) **pero con voluntad y propósito** — lo que los vuelve más perturbadores, no menos. Esa crueldad «con fe» los convierte en un **espejo oscuro del tema central**: el amor/la fe que justifica la atrocidad.
+
+### Estandarte y nombre — CANON CONFIRMADO
+
+- **Estandarte:** un **hombre ahorcado con un cordón umbilical**. Nacimiento (cordón) atado a muerte (horca): rima con el **ciclo**, la ceniza y la idea de «nacer ya condenado».
+- **Nombre:** **Hijos de la Horca.** Rasgo reconocible que permite identificarlos entre el **asalto a Iliana/Seth (Cap. 2)** y el **ataque a Mildraugh (Acto II)**.
+
+### Función en la trama — CANON / BASE DE TRABAJO
+
+- **Canal de la red de trata:** compran personas (mujeres y niñas desaparecidas del convento de Mildraugh, ver §11) **para fines sectarios**. Los **Aurelvar** los usan como comprador/ejecutor; ellos creen servir a su rito.
+- **Conexión temática con el culto que captura a Seth (§15):** no son necesariamente el mismo culto, pero sembrar que «hay cultos que trafican con cuerpos» prepara el terreno del horror posterior.
+- **En el Cap. 2** solo se **anticipan** (el asalto): se insinúa su dimensión ritual por el estandarte y la crueldad deliberada. El horror pleno es Acto II (Mildraugh).
+- **Regla de oficio:** la violencia se **sugiere** y se muestra en sus consecuencias y en los testigos; sin regodeo gratuito (límite de Berserk, §3).
+
+### Preguntas abiertas de los Hijos de la Horca
+
+- Naturaleza exacta de su rito (qué creen lograr con la horca y el cordón).
+- Jerarquía/líder; relación operativa concreta con Aurelvar (¿contacto único?, ¿contrato?, ¿chantaje mutuo?).
+- Si su culto conecta —y cuánto— con la ceniza, los Vigilantes o el culto que captura a Seth.
 
 ---
 
@@ -279,6 +314,11 @@ Seth es genuinamente, incluso de forma imprudente, bondadoso: «demasiado blando
 - Reconoce que estuvo muerto y ha vuelto, sin saber cómo.
 - Una **urraca** aparece, lo «guía» y provoca su caída por una pendiente (final del capítulo). Conecta con el motivo-pájaro de Hope.
 - Siente un eco al forzar la memoria: «la certeza de que había intentado abrir una puerta que no debía abrirse».
+
+### El nombre de Seth — CANON CONFIRMADO (v0.5)
+
+- Seth **despierta sabiendo su nombre** tras el asalto del Cap. 2, aunque Iliana le había dado uno provisional durante la inconsciencia; él **rectifica**: _«No. Seth.»_
+- Es el **primer fragmento que regresa del otro lado de la amnesia**, y llega **sin recuerdo, sin rostro, sin contexto**: un nombre y nada más. **No rompe la amnesia** ni resuelve el misterio; la queda abierto si es su nombre real, un eco del ciclo o el nombre de otro. Da al lector el ancla que necesita conservando la incógnita.
 
 ### Trayectoria establecida — CANON CONFIRMADO
 
@@ -376,13 +416,20 @@ El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central
 - **Sombra política:** que a una huérfana sin padrino le den una misión codiciada levanta sospechas (¿favor?, ¿prueba?, ¿alguien quiere que fracase?). Útil para rozar a Dravon/Cendrel.
 - **Cierre del Cap. 1:** Iliana **empieza a partir hacia Mildraugh.** (El viaje y el encuentro con Seth son material del Acto II.)
 
-### El encuentro con Seth y la caída de Mildraugh — CANON DE DESARROLLO (Acto II)
+### El encuentro con Seth — CANON CONFIRMADO (v0.5, Acto I Cap. 2)
 
-- De camino a Mildraugh, **Iliana se encuentra con Seth**; los asaltan unos **bandidos** (los mismos que después arrasarán Mildraugh). Iliana resulta **herida**. *(Este es el encuentro Seth–Iliana que la biblia tenía pendiente.)*
-- **La caída de Mildraugh:** los bandidos atacan el pueblo; la gente se esconde en las minas. **Yiel enciende un mechero** para dar calor, ignorando los gases de la mina → **explosión**. Mueren casi todos, incluidos **Bron y Yiel**. *El invierno no era indulgente.*
-- **Eloy y Hope ya habían escapado** del pueblo hacia Adoral huyendo de los bandidos: no estaban en la mina. El Vidente, al sacar a Eloy de Mildraugh, lo **salva de la masacre y lo condena a sobrevivir a sus padres** (culpa futura de Eloy).
+- El encuentro Seth–Iliana se **adelanta al Acto I, Capítulo 2** (antes era material del Acto II). La **llegada a Mildraugh y la masacre siguen siendo el arranque del Acto II** (división «opción b»).
+- **Cómo ocurre:** de camino a Mildraugh (a buscar a su «activo», que es Eloy), Iliana **encuentra a Seth**, un desconocido en tierra de nadie. **No lo recoge por compasión:** lo trata como una **incógnita / posible testigo** en una zona por la que se mueve una partida de bandidos. Precaución de soldado, no lástima.
+- **El asalto:** antes de que ella decida qué hacer con él, los emboscan los **Hijos de la Horca** (ver §6 bis). En el asalto, **Seth hace lo que lo define**: no suplica ni huye — **se interpone** por ella (o por un tercero indefenso), con su bondad imprudente, y cae herido/inconsciente. **Iliana resulta herida** también.
+- **Por qué se lo lleva (opción C):** no por lástima, sino porque **no entiende lo que acaba de ver**. Para una mujer cuya herida es que el mundo la trató como mercancía desechable, alguien que elige *quedarse* por un extraño es un dato que no cuadra. Se lo lleva como quien se lleva **una pregunta sin responder** (eco de Seth persiguiendo a la urraca en el Cap. 1).
+- **El nombre de Seth:** durante la inconsciencia, Iliana le pone un **nombre provisional** (práctico, de soldado). Al despertar, Seth **rectifica**: _«No. Seth.»_ — una certeza cuyo origen él mismo desconoce. **Primer fragmento que regresa del otro lado de la amnesia**, sin recuerdo ni contexto. No rompe la amnesia (ver §8).
+
+### La caída de Mildraugh — CANON DE DESARROLLO (Acto II)
+
+- **La caída de Mildraugh:** los **Hijos de la Horca** atacan el pueblo (asesinan, torturan, violan a quien atrapan fuera); la gente se esconde en las minas. **Yiel enciende un mechero** para dar calor, ignorando los gases de la mina → **explosión**. Mueren casi todos, incluidos **Bron y Yiel**: por la masacre directa de la secta **y** por el gas. *El invierno no era indulgente.*
+- **Motivo del ataque:** **encubrimiento**, no impago. Tras la decisión del rey (§5) y el repliegue de Aurelvar, Mildraugh es un cabo suelto de la red de trata que conviene **enterrar** antes de que la guerra lo destape.
+- **Eloy y Hope ya habían escapado** del pueblo hacia Adoral: no estaban en la mina. El Vidente, al sacar a Eloy de Mildraugh, lo **salva de la masacre y lo condena a sobrevivir a sus padres** (culpa futura de Eloy).
 - **Iliana y Seth ven la explosión desde lejos** y **deciden volver** —por recursos y por la herida de Iliana—, no por heroísmo: nadie llega a tiempo de impedir nada. La tragedia ocurre sin testigos que pudieran evitarla.
-- PREGUNTA ABIERTA: identidad de los bandidos (¿desertores?, ¿partida ligada a la guerra?, ¿gente del Barro desesperada?); conviene darles un rasgo reconocible (estandarte/marca) para identificarlos entre el asalto a Iliana y el ataque a Mildraugh.
 
 ### Voz y contraste con Seth
 
@@ -412,6 +459,17 @@ Veterana endurecida que sabe que el mundo no es justo ni sencillo, frente al ide
 - La **hermana superiora** encarna la fe como disciplina y orden: «La misericordia no es debilidad»; «la compasión sin discernimiento es una forma de vanidad».
 - Hope **salva un ave herida** a escondidas; el ave **muere** de noche; la entierra y reza. Es el **detonante de su primera grieta de fe**: se pregunta si su fe «le enseña a mirar el sufrimiento de frente o a encontrar palabras para apartar la mirada».
 - Los benefactores del convento son de la casa **Aurelvar** (emblema del elefante; **Misael Aurelvar**). Primer cruce temprano entre la trama religiosa y la política.
+
+### La red de trata: convento + Aurelvar + Hijos de la Horca — CANON CONFIRMADO (v0.5)
+
+> El «primer cruce religión/política» sembrado en el Cap. 1 (los benefactores Aurelvar) resulta ser **podrido**.
+
+- **El complot:** el convento, bajo la **hermana superiora**, «acoge» a mujeres y niñas vulnerables; **Aurelvar lo financia** para que *entre* más gente; parte de esas personas **desaparecen**, vendidas a los **Hijos de la Horca** para sus fines sectarios (§6 bis). Las chicas que faltan son la **primera grieta de fe de Hope hecha carne**.
+- **Cómo lo vive Hope:** lo *siente* raro antes de poder nombrarlo. La superiora normaliza las desapariciones con discurso de disciplina y gratitud a los benefactores. La incomodidad de Hope es moral antes que informada.
+- **Conexión con Iliana (eco mudo):** Iliana fue esclavizada de niña por una deuda; ahora escolta a un «activo» hacia una capital donde una casa noble **comercia con personas**. Su trauma y la conspiración se tocan sin que ella lo sepa aún.
+- **Cadena causal:** la decisión del rey (§5) → repliegue de Aurelvar → se retira la financiación y se **tapa la red** → ataque a Mildraugh como **encubrimiento** (Acto II).
+- **Ritmo de revelación:** el **Cap. 2 solo siembra** (chicas que faltan, incomodidad de Hope, repliegue de Aurelvar). La conexión explícita convento–Aurelvar–Hijos de la Horca se **paga en el Acto II**.
+- PREGUNTA ABIERTA: cuánto sabe la hermana superiora (¿cómplice plena, instrumento, autoengaño piadoso?); si alguna chica concreta (nombre) ancla la grieta de Hope; cómo descubre Hope la verdad y cuándo.
 
 ### La fe de Hope
 
@@ -681,7 +739,10 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 | Hope | Fe y desarrollo propios; relicario vacío; ave muerta (primera grieta); conoce al Seth bueno; al final acompaña al Clérigo para volverse ceniza. |
 | Eloy | Erudito; aprendiz de Gareth; padres Bron y Yiel; descubre la ceniza; sospecha de Seth; encabeza la lucha, con Iliana y Aldoria. |
 | Casas | Cendrel (político), Aurelvar (económico, elefante), Dravon (militar). |
-| Corona | Rey Darius; capitán Jerah Burdoun (Corte Dorada). |
+| Corona | Rey Darius; capitán Jerah Burdoun (Corte Dorada). En el Cap. 2 el rey aprieta a las casas → acelera el magnicidio (Cap. 3) y el repliegue de Aurelvar. |
+| Hijos de la Horca | Secta de bandidos; estandarte: ahorcado con cordón umbilical. Fanáticos rituales (ref. Crossed, pero con propósito). Canal de la red de trata; asaltan a Seth/Iliana (Cap. 2) y arrasan Mildraugh (Acto II). |
+| Red de trata | Convento + Aurelvar + Hijos de la Horca trafican con personas; desaparecen chicas del convento. Grieta de fe de Hope. Mildraugh se arrasa para **encubrirla**. |
+| Encuentro Seth–Iliana | Adelantado al Acto I Cap. 2. Iliana se lo lleva por incomprensión (no lástima). Nombre de Seth revelado aquí. Masacre de Mildraugh = arranque Acto II. |
 | Zortash | Primer humano que estudió/documentó la magia; histórico, hoy irrelevante. |
 | Ciudadela | Cuerpo de eruditos en Adoral: estudia la magia, preserva su historia, forma maestres. Eloy es trasladado allí (carta en Acto I, cap. 2). |
 | Precio de la magia | Se paga con la **comprensión**: menor = datos/fórmulas; guerra = las razones morales. Motor de la caída de Seth → Clérigo. |
@@ -768,6 +829,11 @@ Reglas de prioridad al retomar el proyecto:
 | **30 oct 2026 (v0.3)** | **Sistema de magia canonizado: la magia obedece a quien COMPRENDE; usarla consume la comprensión (precio = razones/destrezas, no recuerdos sueltos). Tomos = comprensión enlatada. Guerra Rúnica + tabú. Ciudadela = eruditos que forman maestres.** | **Define magia, caída de Seth (olvida sus razones → Clérigo) y conexión con el olvido/ciclos. §4 reescrita.** |
 | **30 oct 2026 (v0.3)** | **Molde de capítulos: 5×3 = 15 caps., ~20k c/u, ~300k total; cada cap. ≥1 POV por protagonista; POV «Adoral» (rey) separado de «Magnus»; entrelazado con cortes. Guerra civil: se cimenta en Acto I cap. 3, estalla en Acto II cap. 1.** | **§16 ampliada. La «v2» del manuscrito pasa a ser el borrador del Capítulo 1.** |
 | **30 oct 2026 (v0.3)** | **Carta de traslado de Eloy a la Ciudadela: Acto I, Capítulo 2 (no en el 1).** | **El POV de Eloy en el cap. 1 cierra solo con la anomalía del relicario.** |
+| **31 oct 2026 (v0.5)** | **Planificación del Acto I, Capítulo 2.** Escaleta de 6 POV reordenados (Eloy → Magnus → Iliana → Adoral → Seth → Hope) con cortes de tensión. | **Nuevo archivo `manuscrito/cap-2-escaleta.md`. Base para redactar la prosa.** |
+| **31 oct 2026 (v0.5)** | **Encuentro Seth–Iliana adelantado al Acto I Cap. 2** (antes Acto II); llegada/masacre de Mildraugh siguen abriendo el Acto II (opción b). Iliana se lo lleva por **incomprensión**, no lástima (opción C). | **§10 reescrita; §8 añade el nombre de Seth.** |
+| **31 oct 2026 (v0.5)** | **Hijos de la Horca canonizados:** secta ritual (ref. Crossed con propósito), estandarte del ahorcado con cordón umbilical. **Nombre de Seth:** despierta sabiéndolo y rectifica a Iliana (sin romper amnesia). | **§6 bis nueva; §8 ampliada.** |
+| **31 oct 2026 (v0.5)** | **Red de trata: convento + Aurelvar + Hijos de la Horca.** Desaparecen chicas del convento; Mildraugh se arrasa como **encubrimiento** (no por impago). | **§11 ampliada; §6 bis.** |
+| **31 oct 2026 (v0.5)** | **Decisión del rey Darius (Cap. 2)** que aprieta a las tres casas → acelera el magnicidio (Cap. 3) y el repliegue de Aurelvar. | **§5 ampliada (nueva subsección).** |
 
 ---
 

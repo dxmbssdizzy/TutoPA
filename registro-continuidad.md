@@ -2,7 +2,7 @@
 
 <div class="meta">
 Bitácora de conflictos detectados entre manuscrito y biblia, y de las decisiones del autor.
-Última actualización: 28 de octubre de 2026.
+Última actualización: 31 de octubre de 2026.
 </div>
 
 Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada registra un conflicto o pregunta, su estado y la decisión tomada. No sustituye a la biblia; la alimenta.
@@ -17,6 +17,13 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A2 | Capital vs. continente | **Adoral = capital. Veridia = continente.** | Biblia §4 (geografía). El manuscrito se corrige: «Aldoria» (capital) → «Adoral». |
 | A3 | Zortash | **Primer humano que estudió y documentó la magia.** Histórico, hoy irrelevante. | Biblia §4 (magia). |
 | A4 | Pasada de edición del acto I | **Solo ortografía, tildes, concordancia y diálogo roto; sin tocar estilo, trama ni voz.** | Aplicada en `manuscrito/acto-1.md` (ver registro de cambios de edición, sección D). |
+| A5 | Estructura del Cap. 2 | **6 POV reordenados (Eloy → Magnus → Iliana → Adoral → Seth → Hope) con cortes de tensión. Opción b: encuentro Seth–Iliana en Cap. 2; masacre de Mildraugh = arranque Acto II.** | Escaleta en `manuscrito/cap-2-escaleta.md`; biblia §5, §6 bis, §8, §10, §11, §16-registro. |
+| A6 | Encuentro Seth–Iliana (móvil) | **Opción C: Iliana no actúa por lástima.** Seth se interpone en el asalto (bondad imprudente) y cae; ella se lo lleva por **incomprensión** (una pregunta sin responder), estando también herida. | Biblia §10. |
+| A7 | Nombre de Seth | **Despierta sabiéndolo y rectifica el nombre provisional de Iliana («No. Seth.»). Primer fragmento del otro lado de la amnesia; sin recuerdo ni contexto. No rompe la amnesia.** | Biblia §8. |
+| A8 | Hijos de la Horca | **Secta ritual (ref. Crossed, pero con propósito). Estandarte: ahorcado con cordón umbilical.** Canal de la red de trata. | Biblia §6 bis. |
+| A9 | Red de trata | **Convento + Aurelvar + Hijos de la Horca trafican con personas; desaparecen chicas del convento.** Mildraugh se arrasa como **encubrimiento** (no por impago). | Biblia §11, §6 bis, §5. |
+| A10 | Decisión del rey (Cap. 2) | **El rey Darius aprieta a las tres casas → acelera el magnicidio (Cap. 3) y el repliegue de Aurelvar.** Medida exacta aún por fijar al redactar. | Biblia §5. |
+| A11 | Grafía del capitán | **«Burdoun»** (unifica B2). | Biblia §5, escaleta Cap. 2. |
 
 ---
 
@@ -29,9 +36,9 @@ La biblia menciona que Eloy acaba reuniéndose con Iliana y con **«Aldoria»** 
 **Opciones:** (a) renombrar al aliado; (b) mantenerlo y asumir el parecido; (c) que «Aldoria» sea en realidad un lugar y no una persona.
 **Decisión:** _pendiente._
 
-### B2 — Grafía del capitán: ¿Burdoun o Burdon?  · prioridad MEDIA
+### B2 — Grafía del capitán: ¿Burdoun o Burdon?  · ✅ RESUELTO (31 oct 2026)
 En el manuscrito aparece «palabra de **Burdoun**» y, dos líneas después, «Sir Jerah **Burdon**». Hay que unificar.
-**Decisión:** _pendiente (sugerencia: «Burdoun», más distintivo)._
+**Decisión:** **«Burdoun»** (ver A11). _Falta aplicar la corrección en el manuscrito del Cap. 1 donde aparezca «Burdon»._
 
 ### B3 — Edades del elenco  · prioridad ALTA
 El manuscrito fija a **Seth ~16** y **Eloy 16**. Falta decidir:
