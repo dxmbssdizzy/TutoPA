@@ -248,3 +248,177 @@ Guardó el cuaderno bajo el abrigo, cerca del pecho, donde Hope guardaba el reli
 El invierno no era indulgente. Y, por primera vez, a Eloy le pareció que él tampoco estaba siendo indulgente con nadie; que había cosas que uno no podía elegir sin deselegir otras, y que la curiosidad, aquella vieja compañera suya que siempre le había parecido inofensiva, acababa de pasarle su primera factura y no sería, lo intuyó, ni de lejos la más cara.
 
 Echó a andar hacia casa por la nieve, dejando sus huellas en ella, sabiendo que la nieve volvería a caer y las borraría antes del amanecer, como borraba siempre todo en Mildraugh, y que a la mañana siguiente nadie podría decir que alguien había pasado por allí aquella noche, cargando un cuaderno y una promesa y el primer gran silencio de su vida.
+
+
+# ADORAL
+
+
+Al día siguiente llegó, al fin, un día siguiente.
+
+Durante años habían sido todos iguales: la campana siete veces antes del amanecer, la ciudad empezando a mentirse, los veintisiete carros de cada mañana con nombres distintos y el mismo resultado. Darius se había acostumbrado a que los días siguientes no fueran nunca otra cosa que el día anterior repetido con menos fuerzas. Se decía cada noche, al apagar la última lámpara, que al día siguiente bajaría por fin a la ciudad interior y haría lo que llevaba meses sin atreverse a hacer; y cada mañana el consejo, los nombramientos, las cosas pequeñas, volvían a tragarse la promesa antes del mediodía. Un rey, había aprendido, es un hombre al que no le pertenece su propio tiempo.
+
+Pero aquella mañana se había despertado con la petición de su hijo sobre la mesilla, donde la había dejado la noche anterior en lugar de guardarla bajo las otras dos como hacía siempre, y la había tomado antes de vestirse, antes de rezar, antes de nada, y había salido con ella al balcón.
+
+El frío lo recibió como recibe el agua a quien se tira a ella: de golpe, sin cortesías. Abajo, muy abajo, más allá de las torres de piedra clara y los tejados de cobre, más allá de la línea donde las avenidas perdían el pavimento, se extendía el sur de Adoral. El Barro. Lo llamaban así los mapas de la sala del consejo, cuando se molestaban en llamarlo de algún modo: una mancha parda sin calles trazadas, sin nombres, un borrón al pie de la ciudad hermosa. Desde el balcón, a aquella hora, apenas se distinguían las primeras columnas de humo levantándose de los braseros, delgadas y temblorosas, cada una el aliento de una casa que había sobrevivido a la noche. Darius las contó sin querer. Era una vieja costumbre suya, contar lo que no podía ayudar, como si contarlo fuera una forma menor de cuidarlo.
+
+Tenía la petición en la mano. El viento tiraba del papel, lo hacía temblar contra sus dedos, y él lo sujetaba con una fuerza desproporcionada para un pliego tan ligero, como si el viento quisiera arrebatárselo y él no estuviera dispuesto a permitirlo.
+
+*No pueden pedirme que confíe en las leyes si las leyes solo existen cuando les convienen.*
+
+La había leído tantas veces en una noche que ya no necesitaba mirarla. La tenía dentro, instalada, haciendo el trabajo lento y paciente que hacen las verdades cuando por fin se les deja pasar: desmontaba, ladrillo a ladrillo, veinte años de prudencia. Porque eso era lo peor de la frase. No que fuera insolente —lo era—, ni que viniera de quien venía. Lo peor era que tenía razón. Darius había construido su reinado entero sobre una ley que, en efecto, solo existía cuando convenía: a las casas, a los contratos, a la propiedad. Una ley que protegía veintisiete carros de grano mejor de lo que protegía a la gente que iba a comérselos. Y lo había sabido siempre, y lo había llamado prudencia, y había dormido —mal, pero había dormido— convencido de que gobernar era, sobre todo, el arte de no empeorar las cosas.
+
+El muchacho le había escrito, sin saberlo, la única frase capaz de quitarle también esa coartada.
+
+Así que aquella mañana, en el balcón, con las manos heladas y el aliento saliéndole en nubes que el viento deshacía al instante, Darius tomó una decisión que llevaba años aplazando con el nombre de todas sus virtudes. No fue una decisión arrebatada. No hubo relámpago, ni epifanía, ni ese momento limpio que los juglares inventan después para los reyes. Fue, más bien, el cansancio llegando a su forma final: la de un hombre viejo que descubre que ya no le queda bastante vida por delante como para seguir gastándola en aguantar.
+
+Volvió dentro. Mandó llamar a Jerah antes de que el palacio terminara de despertar.
+
+—Va a parecerle una imprudencia —dijo, cuando el capitán estuvo frente a él.
+
+Jerah Burdoun, que a aquella hora ya había trabajado media mañana y tenía la cabellera albina todavía húmeda del frío de los patios, esperó en silencio. No preguntó qué. Esperar era una de las muchas cosas que hacía mejor que nadie.
+
+—Dos cosas —continuó Darius—. La primera. Quiero una revisión de las cuentas de la casa Aurelvar. Las rutas, los contratos de suministro, los almacenes, las concesiones portuarias. Todo lo que pasa por sus manos y lleva el permiso de la corona. Quiero inspectores de la corona dentro de sus libros, Jerah. No una auditoría de las que se anuncian, se preparan y llegan cuando ya no hay nada que encontrar. Una de verdad. De las que entran sin avisar.
+
+El capitán tardó en responder. Cuando lo hizo, lo hizo con cuidado, como quien avanza sobre hielo que no sabe si aguantará.
+
+—Misael Aurelvar no es un enemigo que convenga tener, majestad. Es el único de los tres que todavía no ha elegido bando. Mientras calcule, no conspira. Una auditoría… lo obligaría a elegir.
+
+—Lo sé.
+
+—Entonces sabe también lo que elegirá.
+
+—Lo sé, Jerah. —Darius se acercó a la ventana, la misma ventana de todas las noches, y miró abajo la ciudad que empezaba a encenderse de día en lugar de apagarse de noche—. Pero llevo veinte años dejándolo calcular, y lo único que ha salido de tanto cálculo es que las tres casas han tenido tiempo de sobra para repartirse el reino en voz baja mientras yo liberaba carros de grano de uno en uno. Un hombre que calcula no es un hombre neutral. Es un hombre que todavía no ha terminado de decidir cuánto puede robarte sin que le cueste nada. —se volvió—. He decidido que a partir de hoy le cueste algo.
+
+Jerah no discutió más. Pero algo en su quietud dijo por él lo que su lealtad le impedía decir en voz alta: que aquello no era empezar a gobernar, sino empezar a caer, y que la única diferencia entre las dos cosas era la velocidad.
+
+—¿Y la segunda? —preguntó.
+
+Darius volvió a la mesa, donde la petición de su hijo seguía esperando, y la tocó con dos dedos, como se toca algo que todavía duele.
+
+—La segunda es más pequeña. Y por eso me asusta más. —casi sonrió—. Quiero que se revisen las condiciones de los detenidos trasladados desde los barrios del sur. Los del Barro. Quiero un censo real: cuántos hay, por qué están presos, quién los detuvo y bajo qué cargo. Y quiero que se apliquen de verdad las ordenanzas que ya existen sobre su alimentación, su descanso y su derecho a comparecer. No leyes nuevas. Las de siempre. Las que llevan décadas escritas y que nadie se ha molestado nunca en cumplir, porque cumplirlas con el Barro no le reportaba a nadie ni un favor ni una moneda.
+
+El capitán lo miró un instante de más.
+
+—Eso lo pidió el preso —dijo. No era una pregunta.
+
+—Eso lo pidió el preso.
+
+—Majestad. —Jerah bajó la voz, aunque estaban solos—. Si la corona concede abiertamente lo que ha pedido ese muchacho, las casas lo leerán de una sola manera. Leerán que el rey escucha al Barro. Leerán que el agitador de los barrios del sur tiene línea directa con el trono. Y a un hombre que creen que importa no lo dejarán seguir importando mucho tiempo. Lo estaría usted… —se detuvo, buscando una palabra que no fuera la verdadera.
+
+—Señalando —dijo Darius—. Lo estaría señalando. Sí.
+
+—Sí.
+
+—Que es exactamente lo que llevo años evitando. —el rey asintió despacio, dándole la razón entera, y aun así sin cambiar de rumbo—. Lo he pensado, Jerah. He pensado poco esta noche en otra cosa. Y he llegado a una conclusión que no me gusta: que llevo tanto tiempo protegiendo a la gente no haciendo nada por ella, que he terminado confundiendo las dos cosas. No hacer nada no es proteger. Es solo no ser aún el que te mata. —miró la petición—. Si la única forma que tengo de mantener a salvo lo que importa es asegurarme de que nunca importe de verdad, entonces no lo estoy salvando. Lo estoy enterrando en vida y llamándolo prudencia.
+
+Jerah no respondió. Y en su silencio —Darius lo conocía demasiado bien— había por primera vez en mucho tiempo algo que no era desaprobación. Era miedo. El miedo de un hombre leal que acaba de comprender que su rey ha dejado de calcular, y que un rey que deja de calcular es, en Adoral, un rey que ha empezado a despedirse.
+
+—Dispondré lo de las cuentas con la mayor discreción posible —dijo el capitán al fin—. Y lo del censo… —vaciló— lo del censo lo haré yo mismo. No me fío de a quién se lo encargaría de otro modo.
+
+—Gracias, Jerah.
+
+—No me las dé todavía, majestad. —el capitán se dirigió a la puerta, y antes de salir se volvió, con la cabellera albina encendida por la luz que ya entraba franca por las ventanas—. Démelas cuando esto salga bien. Si es que tiene la bondad de salir bien alguna vez algo que empieza tan cuesta arriba.
+
+Y se fue a hacer, limpio y entero como siempre, lo que su rey le había pedido, aunque supiera mejor que su rey adónde conducía.
+
+---
+
+Antes de que el palacio terminara de despertar del todo, Darius hizo una cosa más, una que no figuraba en ninguna orden y que no pensaba explicar a nadie.
+
+Bajó a las cocinas.
+
+No era insólito que lo hiciera —de joven lo hacía a menudo, cuando todavía creía que un rey podía permitirse conocer a la gente que lo alimentaba—, pero hacía años que no encontraba el momento, y su aparición en el umbral, con el frío del balcón aún prendido en la capa, detuvo en seco el trajín de los hornos. Una docena de rostros se volvieron hacia él y se quedaron a medio gesto, con las manos en la masa, en los peroles, en los haces de leña, sin saber si arrodillarse o seguir trabajando o desaparecer.
+
+—Seguid —dijo—. No he venido a estorbar.
+
+Buscó entre ellos hasta encontrar a quien buscaba: un muchacho de no más de catorce años, flaco, de manos enrojecidas por el agua helada, que fregaba calderos en un rincón y que, al verse mirado por el rey, se quedó tan pálido que Darius temió que se desmayara allí mismo.
+
+—Tú. ¿Cómo te llamas?
+
+—Teo, majestad. —la voz le salió en dos pedazos.
+
+—Teo. —el rey asintió, como si el nombre fuera un dato importante y lo estuviera guardando—. ¿De dónde eres, Teo?
+
+El muchacho miró a un lado y a otro, buscando permiso para contestar la verdad.
+
+—Del sur, majestad. De… de abajo.
+
+Del Barro. No se atrevió a decir la palabra delante del rey, pero la palabra estuvo allí, flotando entre los dos. Darius la oyó igual.
+
+—¿Comes todos los días, Teo?
+
+—Aquí sí, majestad. —y, porque tenía catorce años y el miedo lo volvía honrado, añadió algo que no le habían preguntado—: En casa no siempre. Mi madre guarda para los pequeños.
+
+Darius lo miró un momento largo. Después se volvió hacia la cocinera mayor, una mujer ancha y canosa que lo observaba todo con los brazos en jarras y la cautela de quien ha visto pasar reyes y sabe que las visitas de los reyes a las cocinas rara vez acaban bien para la cocina.
+
+—Que a este muchacho se le dé pan para llevar al terminar el día —dijo—. Cada día. Del que sobre, que siempre sobra. Y que no se le descuente de su paga ni se le anote como favor. —miró de nuevo al chico—. No es un favor, Teo. Es lo que sobra. Lo que sobra no es de nadie, y antes de tirarlo vale más que lo lleves tú a tu madre.
+
+El muchacho no supo qué decir. Nadie en la cocina supo qué decir. Y Darius, que no había bajado a que le dieran las gracias —las gracias, como las reverencias, eran distancia, y él estaba cansado de distancia—, salió de allí tan bruscamente como había entrado, sabiendo dos cosas con claridad incómoda. La primera, que acababa de hacer por un solo niño exactamente lo que no podía hacer por los miles que no veía, y que la desproporción entre un pan y un reino era, en el fondo, toda la medida de su fracaso como rey. La segunda, más pequeña y más terca, que le dolía como le dolía la frase de su hijo: que si lo que acababa de hacer era insignificante, insignificante y todo, era más de lo que había hecho por el Barro en cinco años de prudencia. Y que un hombre que a los sesenta descubre que su mejor acto de gobierno en un lustro cabe en una hogaza de pan sobrante no tiene ya gran cosa que perder negándose a seguir siendo prudente.
+
+Subió las escaleras despacio. Le pesaban las piernas, y no era solo la edad.
+
+---
+
+La noticia no necesitó ni dos días para hacer su trabajo.
+
+Darius no la anunció. No hubo decreto leído en las plazas, ni bando clavado en las puertas, ni heraldo. Las dos órdenes salieron del modo en que salen las cosas que de verdad mueven una corte: por los canales callados, de secretario a administrador, de administrador a escribano, hasta que a media mañana del segundo día no quedaba en el palacio nadie que importara que no supiera que el rey había metido las manos en los libros de los Aurelvar y la cabeza en las celdas del Barro. Y una corte, pensó Darius, es un cuerpo con una sola enfermedad: la de enterarse de todo antes de que ocurra del todo.
+
+Lo vio en los pasillos. Lo veía todo, desde hacía veinte años, aunque fingir que no veía fuera parte de su oficio. Vio que los secretarios de la cancillería, que habitualmente le inclinaban la cabeza con una deferencia aburrida, aquella mañana se la inclinaban una fracción más abajo y la levantaban una fracción más tarde, como quien saluda a un hombre del que todavía no sabe si conviene haber sido visto saludando. Vio que dos oficiales de la casa Dravon, apostados donde no tenían ninguna necesidad de estar, interrumpían su conversación en cuanto él doblaba la esquina, y que uno de ellos —joven, con las maneras prestadas de quien imita a un superior— no consiguió del todo borrarse de la cara el gesto con que un hombre mira a otro que acaba de hacer algo irreparable.
+
+Vio, sobre todo, lo que no vio: que Misael Aurelvar, que tenía por costumbre solicitar audiencia con el rey cada vez que el viento cambiaba de dirección por si el cambio le ofrecía margen, no solicitó ninguna. Ni aquel día ni el siguiente. El silencio de Misael era más elocuente que cualquier protesta. Un Aurelvar que no negocia es un Aurelvar que ya ha decidido que negociar no le sirve; que ha pasado página, en algún despacho sin ventanas, de la columna donde apuntaba las ganancias a la columna donde apuntaba las pérdidas aceptables, y que está calculando, con la frialdad de siempre, cuánto le cuesta cada cosa. Incluido un rey.
+
+Fue Edwyn Cendrel, cómo no, quien se encargó de que la respuesta tuviera cara.
+
+Lo abordó al salir de la capilla, a la hora en que el rey oraba a solas y la mayoría de la corte lo sabía y respetaba. Edwyn no lo respetó; o, mejor, lo respetó justo hasta el umbral, lo que le permitía abordarlo pareciendo que lo había encontrado por azar. Vestía la misma sobriedad calculada de siempre, sin una joya, con las botas limpias, y traía en la cara esa expresión de preocupación cortés que Darius había aprendido a temer más que a cualquier amenaza, porque la preocupación de Edwyn Cendrel era siempre preocupación por el rey, y siempre, sin excepción, el preludio de un cuchillo.
+
+—Majestad. —se inclinó lo justo—. Me alegra encontrarlo. Hay un rumor circulando, y prefiero oír de usted que es falso a dejar que crezca.
+
+—¿Qué rumor, Edwyn?
+
+—Que la corona ha ordenado inspeccionar las cuentas de la casa Aurelvar. Sin aviso. —hizo una pausa delicada—. Un rumor absurdo, le dije a quien me lo trajo. El rey sabe que en tiempos tan delicados una medida así, mal entendida, podría interpretarse como una declaración de desconfianza hacia una de las tres casas. Y el rey no haría algo tan… —buscó la palabra con el esmero de un joyero— tan desequilibrado.
+
+—El rumor es cierto.
+
+Edwyn no parpadeó. Pero hubo, en la quietud que siguió, el minúsculo reajuste de un hombre que había venido a desmentir y se encuentra con que no hay nada que desmentir; que había traído una ganzúa y descubre la puerta abierta de par en par, lo cual, para un Cendrel, es casi una ofensa.
+
+—Entiendo. —dijo al fin—. ¿Puedo preguntar qué espera encontrar la corona en los libros de Misael?
+
+—No espero encontrar nada, Edwyn. Por eso los miro. Un rey que solo mira donde espera encontrar algo no está gobernando. Está confirmando prejuicios.
+
+—Una filosofía admirable. —la sonrisa de Edwyn no llegó a los ojos, no llegaba nunca—. Peligrosa, pero admirable. Me permito solo una observación, majestad, con el afecto de quien sirve a esta corona desde antes de que algunos de los que hoy la rodean supieran escribir su propio nombre. —se acercó medio paso, y bajó la voz hasta un tono casi tierno—. Las tres casas se han sostenido durante generaciones sobre un equilibrio. Ninguna confía en las otras; por eso ninguna se atreve a moverse. Es un equilibrio feo, lo reconozco. Nadie lo ha amado nunca. Pero ha mantenido a Adoral en pie mientras reinos más hermosos ardían. —juntó las manos—. Cuando la corona empuja a una de las tres, majestad, no corrige el equilibrio. Lo rompe. Y el problema de romper un equilibrio es que uno nunca elige del todo hacia qué lado caen las piezas.
+
+—¿Es una advertencia, Edwyn?
+
+—Es una preocupación, majestad. —Edwyn se inclinó de nuevo, exactamente lo mismo que al llegar—. Las amenazas las hacen quienes tienen prisa. Yo tengo toda la paciencia del mundo.
+
+Y se marchó, sin ruido, con las botas limpias, dejando tras de sí aquella última frase flotando en el aire frío de la capilla como el olor del incienso cuando ya se ha apagado la vela.
+
+Darius se quedó solo. *Yo tengo toda la paciencia del mundo.* Lo había dicho sin énfasis, como una verdad administrativa, y era, de todas las cosas que podría haberle dicho, la única que de verdad lo asustaba. Porque Darius conocía bien aquella paciencia. La había visto trabajar durante dos décadas: la paciencia de Cendrel no esperaba a que las cosas mejorasen, esperaba a que el adversario se cansara, envejeciera, bajara la guardia o, simplemente, dejara de estar. Edwyn no había venido a amenazarlo. Había venido a decirle, con el afecto cortés de quien lamenta sinceramente lo que va a tener que hacer, que el reloj acababa de empezar a correr.
+
+El rey no sintió miedo. Esperó sentirlo —estaba en su derecho, un hombre al que acaban de poner, suavemente, una fecha— y el miedo no vino. Vino, en su lugar, una calma extraña, casi obscena, la del viajero que lleva tanto tiempo temiendo la tormenta que, cuando por fin estalla, descubre con asombro que lo que siente no es terror, sino alivio: al menos ya está aquí. Al menos ya no hay que esperarla.
+
+Había roto el equilibrio a sabiendas. Sabía lo que las casas harían. Lo sabía desde el balcón, desde antes de llamar a Jerah, desde la noche en que leyó por primera vez la frase de su hijo y comprendió que no iba a poder desleerla. Y lo había hecho igual. Porque entre seguir aguantando y empezar a caer había, al fin, descubierto una diferencia que durante veinte años se le había escapado: que aguantar había dejado de servir para proteger a nadie, y que si de todos modos iba a perder, prefería perder haciendo, por una vez, lo que debía.
+
+---
+
+Aquella noche no cenó solo porque hubiera despedido a los criados. Cenó solo porque ya casi no quedaba nadie con quien un rey pudiera cenar sin calcular lo que decía.
+
+Sobre el escritorio, otra vez, los papeles. El informe preliminar de los inspectores, que no diría nada todavía —era pronto, las ratas tienen buen oído—, pero que ya había bastado para que Misael guardara silencio, y el silencio de Misael valía por sí solo más que cualquier cifra. El censo de Jerah, apenas empezado, con una primera lista de nombres de los barrios del sur escrita de puño y letra del capitán, porque no se había fiado de nadie más; nombres de gente que nunca había figurado en ningún documento de la corona salvo, acaso, en una orden de detención. Darius los leyó uno por uno. Le pareció lo más parecido a gobernar que había hecho en años: leer, al fin, nombres de personas que no le reportaban nada.
+
+Y, debajo de todo, la petición. La frase.
+
+No se atrevía todavía a bajar a la celda. Se lo había prometido cada noche y cada noche lo había aplazado, y ahora, con las órdenes ya dadas, con el equilibrio ya roto, con el reloj de Edwyn ya en marcha, el aplazamiento se había vuelto más difícil de sostener y, a la vez, más urgente. Porque lo que había hecho aquellos dos días lo había hecho, en parte, por el reino; pero también, y no sabía ya en qué proporción, lo había hecho por un muchacho encerrado al otro lado de la ciudad al que no podía llamar por su nombre verdadero ni delante del espejo. Le había concedido, sin decírselo, casi todo lo que había pedido. Había puesto en marcha, por él, la maquinaria que acabaría costándole el trono y quizá la vida. Y el muchacho no lo sabría nunca; creería, con razón, que el rey era otro de los que lo ignoraban desde arriba.
+
+A menos que bajara a decírselo.
+
+No podía decirle la verdad. Eso lo tenía claro, lo había tenido claro dieciséis años. Pero podía bajar. Podía sentarse al otro lado de los barrotes y contarle lo de las cuentas, lo del censo, lo de las ordenanzas que al fin se cumplirían; podía dejar que el muchacho entendiera, aunque fuera sin nombres, que su frase había llegado a alguna parte, que no había escrito al vacío, que en algún lugar de aquella ciudad que lo despreciaba había un viejo que había leído lo que escribió y que, por una vez, en lugar de mandarlo callar, lo había obedecido.
+
+Darius dobló la petición. Esta vez no la guardó bajo las otras.
+
+Se acercó a la ventana. Abajo, Adoral encendía sus luces, el sur apenas unas pocas, dispersas, tercas en la oscuridad como las columnas de humo del amanecer. La distancia volvía ordenada la miseria, como siempre. Pero por primera vez en mucho tiempo Darius no se quedó mirándola desde arriba con la impotencia cómoda del que gobierna de lejos. Por primera vez pensó en bajar. Mañana. Cruzar el patio del viejo edificio de los documentos, entrar en la celda, mirar a la cara al muchacho y decirle lo poco que podía decirle y callarle lo mucho que debía callarle.
+
+Mañana.
+
+Y esta vez, al apagar la última lámpara, el rey supo —con una certeza nueva, serena, que no se parecía en nada a las promesas gastadas de todas las otras noches— que mañana, por fin, bajaría.
+
+No sabía que las casas contaban el tiempo con el mismo reloj que él. Ni que, para algunos relojes, mañana llega siempre un día demasiado tarde.
