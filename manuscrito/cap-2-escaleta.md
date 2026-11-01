@@ -33,20 +33,24 @@ Hitos que el capítulo debe cumplir:
 
 ---
 
-## 1. Orden de los POV (definitivo)
+## 1. Orden de los POV (definitivo, 7 secciones)
 
-Orden fijado por el autor: **Eloy → Adoral → Iliana → Hope → Magnus → Seth.**
+Orden fijado por el autor: **Eloy → Adoral (Darius) → Iliana → Hope → Adoral (las casas) → Magnus → Seth.**
+*(Adoral aparece **dos veces**: el molde de la biblia lo permite —entrelazado con cortes—. Ambas secciones se encabezan simplemente `# ADORAL`.)*
 
 | # | POV | Función | Dónde corta |
 |---|-----|---------|-------------|
 | 1 | **Eloy** | Cálido. Llega la carta de traslado. Marca el time skip. | En la decisión de marcharse, con Hope aún sin saberlo. |
 | 2 | **Adoral (Darius)** | Político. La decisión del rey y **el entorno reaccionando** a ella. | En una amenaza velada; la conspiración ya en marcha. |
 | 3 | **Iliana** | Tensión. El viaje (el skip hecho ruta); encuentra a Seth. | En el filo del asalto (corte en seco). |
-| 4 | **Hope** | Grieta de fe + siembra de la trata. | Melancólico; la empuja (con Eloy) hacia Adoral. |
-| 5 | **Magnus** | Ternura trágica. Comprende y talla la runa; **última conversación con el padre** (solo desde Magnus). | En la runa grabada en la carne y la promesa interna. |
-| 6 | **Seth** | Clímax de acción. Retoma el asalto; Iliana herida; el **nombre**. | El nombre dicho; ambos malheridos, siguen juntos. |
+| 4 | **Hope** | Grieta de fe + siembra de la trata; último POV que ve Mildraugh en pie. | Ve bajar las antorchas del convento sin comprender (bisagra con Iliana). |
+| 5 | **Adoral (las casas)** | El **complot**. Las tres casas como potencias; la ironía de aliarse para traicionarse. | La trampa del magnicidio en marcha; el reloj corriendo. |
+| 6 | **Magnus** | Ternura trágica. Comprende y talla la runa; **última conversación con el padre** (solo desde Magnus). | En la runa grabada en la carne y la promesa interna. |
+| 7 | **Seth** | Clímax de acción. Retoma el asalto; Iliana herida; el **nombre**; la carreta y el «sentir»; el fuego al fondo. | El nombre dicho; ambos malheridos, siguen juntos. |
 
-> **Técnica de entrelazado (corte largo):** el asalto se **corta en el POV de Iliana (3)** y **no se resuelve hasta el POV de Seth (6)**. Entre medias pasan Hope (4) y Magnus (5): el lector aguanta la respiración durante dos POV. Exige que Hope y Magnus sean absorbentes (lo son). El capítulo cierra con un **uno-dos**: ternura trágica (Magnus) → violencia y el nombre (Seth).
+> **Técnica de entrelazado (corte largo):** el asalto se **corta en el POV de Iliana (3)** y **no se resuelve hasta el POV de Seth (7)**. Entre medias pasan Hope (4), Adoral-casas (5) y Magnus (6): el lector aguanta la respiración durante tres POV. El capítulo cierra con un **uno-dos**: ternura trágica (Magnus) → violencia, el nombre y el «sentir» (Seth).
+>
+> **El díptico de Adoral:** el POV 2 (Darius, bueno, que actúa por el pueblo) y el POV 5 (las casas, que lo matan por eso mismo) enmarcan el capítulo: el lector quiere a Darius en el 2 y ve cómo lo condenan en el 5. El 5 carga el magnicidio del Cap. 3.
 >
 > **Nota de refresco:** como Adoral (2) y Magnus (5) quedan separados, la escena de la celda debe **recordar brevemente** qué hizo el rey. Se resuelve solo: Darius se lo cuenta a Magnus; la propia conversación lo refresca.
 
@@ -98,7 +102,19 @@ Orden fijado por el autor: **Eloy → Adoral → Iliana → Hope → Magnus → 
 - **Corte:** melancólico. Hope decide algo que la pondrá, con Eloy, rumbo a Adoral (semilla del Acto II). El relicario reparado en la mano — lo único entero que le queda.
 - **Siembra:** red de trata; el relicario como objeto-eco; Hope y Eloy hacia Adoral.
 
-### POV 5 — MAGNUS · «la runa y el padre»
+### POV 5 — ADORAL (LAS CASAS) · «el equilibrio roto»
+- **Objetivo del POV:** mostrar a las tres casas como **potencias temibles** (cada una con su as), el **equilibrio disuasorio** entre ellas, y el **complot** para matar al rey — con la ironía de que se alían para traicionarse. Carga el magnicidio del Cap. 3. *(Encabezado en el manuscrito: `# ADORAL`.)*
+- **POV:** arranca anclado en **Edwyn Cendrel** (cerebro del plan; vimos su «paciencia» en el POV 2) y se vuelve **coral** en la reunión secreta de las tres casas.
+- **Beats:**
+  1. **Cendrel**, tras la advertencia que ya lanzó al rey (POV 2), convoca en secreto a las otras dos. Su as: **información y legitimidad** — lo sabe todo de todos; puede destruir sin desenvainar. Semilla: sospecha (no sabe) que hay algo irregular con el preso del rey.
+  2. **Aurelvar** (Misael): su as es la **alquimia de la ceniza** — un taller/laboratorio secreto, ventajas industriales y bélicas imposibles. Aquí se introduce, **oblicuamente**, la **anomalía**: un **alquimista** a su servicio que roza la comprensión prohibida (sin mostrarlo del todo; un nombre, un efecto, una inquietud). Enlaza con la ceniza de Eloy/Seth.
+  3. **Dravon** (Aldair): su as es **alcance militar** — cuántos hombres de la Corte Dorada responden ya a su bolsa — y **armas forjadas con la alquimia de Aurelvar** (dependencia mutua = parte del equilibrio).
+  4. **El equilibrio disuasorio explícito:** ninguna puede crecer sin que las otras dos se alíen contra ella; por eso el **rey** es el único blanco común (matarlo no da ventaja inmediata a ninguna sobre las otras).
+  5. **La ironía:** pactan el magnicidio (encubierto como accidente/caída) **mientras cada una planea destrozar a las otras dos**. Cendrel cree que dirige; Dravon planea el Estado militar y traicionar a Cendrel; Aurelvar calcula a quién vender el momento y se guarda su alquimia. El complot nace ya envenenado.
+- **Corte:** la trampa en marcha, el reloj corriendo hacia el Cap. 3; la sensación de que la muerte del rey no resolverá nada — la **desatará**.
+- **Siembra:** los tres ases (alquimia de la ceniza, Corte Dorada comprada, información/legitimidad); el alquimista-anomalía; la guerra de las tres contra las tres (Acto II); la sospecha de Cendrel sobre el preso (§5/§9).
+
+### POV 6 — MAGNUS · «la runa y el padre»
 - **Objetivo del POV:** comprender y tallar la runa; vivir la **última conversación con el padre** desde dentro de Magnus. Humanizarlo (no mártir plano) y **preparar el detonante de la fuga** del Cap. 3.
 - **La runa (mecanismo CANON):**
   1. Los trazos le llegan **en las comidas, día tras día** durante el time skip. El primero (Cap. 1) le fue indiferente «por carecer de sentido».
@@ -113,7 +129,7 @@ Orden fijado por el autor: **Eloy → Adoral → Iliana → Hope → Magnus → 
 - **Corte:** la runa en la carne; la promesa interna («si salgo, no vuelvo a pedir permiso para cambiar el mundo»); la paz silenciosa con el padre. Todo listo para que la muerte de Darius (Cap. 3) lo encienda.
 - **Siembra:** fuga del Cap. 3 (runa grabada + detonante = muerte del padre); la revelación del parentesco sigue reservada.
 
-### POV 6 — SETH · «el nombre»
+### POV 7 — SETH · «el nombre»
 - **Objetivo del POV:** retomar el asalto desde dentro (resolver el corte de Iliana); mostrar la bondad imprudente de Seth; que caiga protegiendo; y entregar su **nombre** sin romper la amnesia. Único POV sin time skip.
 - **Beats:**
   1. Retoma el asalto (corte de Iliana, POV 3) desde la mirada de Seth: desorientado, recién salido de la segunda «muerte», sin memoria, en medio de la violencia de los Hijos de la Horca.

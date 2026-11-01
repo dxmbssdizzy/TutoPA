@@ -36,6 +36,8 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A21 | Coste de la bendición + paralelismo | Hope **carga una fracción del dolor** de cada salvado; gana resistencia hasta **anestesiarse**. **Hope↔Seth**: altruistas deformados en sentidos opuestos (ella carga el dolor, él lucha por él) → **Santa vs. Clérigo, potencias equivalentes**. Arco = material del Acto III (tras salto temporal). | Biblia §11. |
 | A22 | «La fe crea» + villano futuro | Muchos dioses antiguos murieron; la **creencia colectiva intensa crea** entidades (ref. Berserk). Unifica la diosa, los Vigilantes (sin cerrar) y un **villano post-guerra civil** nacido de la fe/el dolor (distinto del Clérigo). | Biblia §14. |
 | A23 | Estructura BAJO REVISIÓN | La obra **crecerá más allá de 5 actos** (salto temporal; arco santo de Hope y villano = fase tardía). **El Acto I no cambia**; nº real de actos a fijar al diseñar el Acto II/III. | Biblia §16, §14. |
+| A24 | Las tres casas = potencias/villanos | Cada una con un **as** que se neutraliza con los otros (equilibrio disuasorio). **Aurelvar**: alquimia de la ceniza + **alquimista-anomalía** (personaje nuevo, nombre abierto). **Dravon**: Corte Dorada comprada + armas alquímicas (dependencia con Aurelvar). **Cendrel**: información + legitimidad. El rey = único blanco común. | Biblia §5. |
+| A25 | Ironía del complot | Aliadas para matar al rey, **planeando destrozarse** entre sí; su muerte **desata** la guerra de las tres contra las tres. 2º POV «Adoral» del Cap. 2 (coral, arranca en Cendrel). | Biblia §5; escaleta Cap. 2. |
 
 ---
 

@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.7 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
+Versión 0.8 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -188,6 +188,25 @@ La corona posee autoridad legítima, pero las grandes casas condicionan el ejerc
 | **Dravon** | Militar | Mando, tropas, influencia sobre la Corte Dorada. | Aldair (representante). |
 
 > **NOTA DE CONTINUIDAD.** Nombres canon: Cendrel, Aurelvar, Dravon. El emblema del elefante pertenece a **Aurelvar** (visto en los «benefactores» del convento de Hope).
+
+### Las casas como potencias: los «ases» y el equilibrio disuasorio — CANON CONFIRMADO (v0.8)
+
+> Ninguna casa puede parecer débil ante las otras. Cada una guarda un **as** que la vuelve temible, y los tres ases se **neutralizan mutuamente**: si dos casas combaten abiertamente, el desgaste rompe el equilibrio y entrega la ventaja a la tercera. Por eso llevan años sin moverse — y por eso solo se atreven a actuar juntas (contra el rey). **Villanos del arco de la guerra civil.**
+
+- **Aurelvar (dinero) — as: alquimia de la ceniza.** No es magia personal: es **poder industrial y bélico**. Mantienen un **taller/laboratorio secreto** donde explotan la **ceniza** y la alquimia aplicada (metalurgia imposible, venenos, acero que no debería existir, primeros usos militares de la ceniza). *Enlaza con la columna del libro:* Aurelvar ya **explota** la ceniza sin comprenderla del todo, mientras Eloy apenas empieza a investigarla. No lanzan hechizos: **fabrican** ventajas imposibles y las venden o las usan. La casa del dinero convierte el conocimiento prohibido en mercancía.
+  - **La anomalía — un alquimista al servicio de Aurelvar (PERSONAJE NUEVO, v0.8):** alguien que **sí roza la comprensión prohibida** (transmutación sin tomo, al borde del tabú de la Guerra Rúnica). Es el «miembro/aliado poderoso» que dirige el laboratorio. Pagará el precio del sistema de magia (§4): comprender consume. *(Nombre e identidad: PREGUNTA ABIERTA; introducir en el 2º POV de Adoral del Cap. 2, de forma oblicua.)*
+- **Dravon (militar) — as: la Corte Dorada comprada + armamento alquímico.** Su poder no es un mago, es **alcance**: cuántos hombres del propio ejército del rey responden ya a su bolsa (uniforme de la corona, lealtad de Dravon — ver §6), y **armas forjadas con la alquimia que le compra a Aurelvar**. Esa compra crea **dependencia mutua** Dravon↔Aurelvar: parte del equilibrio.
+- **Cendrel (político) — as: información y legitimidad.** El as más invisible y por eso el más temible: **lo saben todo de todos** (secretos, deudas, expedientes, parentescos) y controlan la **legitimidad** jurídica — quién hereda, quién es traidor, qué es legal. Pueden **destruir a una casa sin desenvainar**, con un documento o una revelación. *(Semilla: Cendrel sospecha —no sabe— que hay algo irregular con el preso del rey; ver §5/§9. Si llegara a saberlo, sería el fin de la corona.)*
+- **Por qué el magnicidio es el único movimiento posible:** mientras las tres se vigilen, ninguna puede crecer sin que las otras dos se alíen contra ella. El **rey** es el único objetivo que las tres pueden atacar **a la vez sin romper el equilibrio entre ellas** — porque eliminarlo no da ventaja inmediata a ninguna de las tres sobre las otras. De ahí la alianza.
+
+### La ironía del complot: aliadas para matar, preparadas para traicionarse — CANON CONFIRMADO (v0.8)
+
+Las tres casas se alían para asesinar a Darius **mientras cada una planea destrozar a las otras dos** en cuanto el rey caiga. El complot nace ya envenenado:
+
+- **Cendrel** cree que dirige la conspiración (puso el plan, el encubrimiento como «accidente»); piensa heredar el control político del vacío de poder.
+- **Dravon** planea **traicionar a Cendrel** e instalar un **Estado militar** (ya en §5); su alianza es un préstamo a cortísimo plazo.
+- **Aurelvar** no se compromete con ninguna: **calcula a quién le conviene vender** el momento del golpe, y se guarda su alquimia como seguro.
+- Resultado: la muerte del rey no resuelve nada — **desata** la guerra civil de las tres contra las tres. Todos los protagonistas acabarán atrapados entre esos frentes.
 
 ### La corona — CANON CONFIRMADO / BASE DE TRABAJO
 
@@ -913,6 +932,8 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.7)** | **Coste de la bendición de Hope:** carga **una fracción del dolor** de cada persona que salva; con el don consolidado obra cosas antinaturales (salva empalados, agonizantes); al volverse conducto gana **resistencia al dolor** hasta anestesiarse. **Paralelismo Hope↔Seth** (altruistas deformados: ella carga el dolor, él lucha por él; Santa vs. Clérigo, potencias equivalentes). | **§11 ampliada.** |
 | **31 oct 2026 (v0.7)** | **Principio cosmológico «la fe crea» (ref. Berserk):** hubo muchos dioses antiguos y varios murieron; la creencia colectiva intensa puede **crear** entidades. Unifica la diosa de Hope, los Vigilantes (sin cerrar) y la **semilla de un villano post-guerra civil** nacido de la fe/el dolor colectivo (distinto del Clérigo). | **§14 (nueva subsección).** |
 | **31 oct 2026 (v0.7)** | **La estructura de 5 actos pasa a BAJO REVISIÓN:** la obra crecerá más allá de 5 actos (salto temporal; arco santo de Hope y villano = fase tardía, «casi el clímax de la guerra»). El Acto I no cambia; nº real de actos a fijar al diseñar el Acto II/III. | **§16 (aviso) y §14 (nota estructural).** |
+| **31 oct 2026 (v0.8)** | **Las tres casas como potencias (villanos del arco):** cada una con un **as** que las vuelve temibles y se **neutralizan mutuamente** (equilibrio disuasorio). Aurelvar = **alquimia de la ceniza** + un **alquimista-anomalía** (personaje nuevo); Dravon = Corte Dorada comprada + armamento alquímico (dependencia con Aurelvar); Cendrel = información + legitimidad. El rey es el único objetivo común. | **§5 (dos subsecciones nuevas).** |
+| **31 oct 2026 (v0.8)** | **La ironía del complot:** se alían para matar al rey mientras cada una planea **destrozar a las otras dos**; la muerte del rey **desata** la guerra de las tres contra las tres. Introducido en el 2º POV «Adoral» del Cap. 2 (coral, arranca en Cendrel). | **§5; `cap-2-escaleta.md`.** |
 
 ---
 

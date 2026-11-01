@@ -664,3 +664,119 @@ No entendió qué era. Pensó, con el último resto de su esperanza, que serían
 No sabía —no podía saberlo, nadie en Mildraugh podía saberlo todavía, aunque a pocas leguas de allí, en el fondo del mismo valle, una viajera que llevaba a un muchacho muerto a cuestas acababa de ver desplegarse esa misma tela y sí sabía leerla— que lo que bajaba por el sendero de su casa, en fila y con antorchas y sin ninguna prisa, cantando por lo bajo una canción que el viento aún no le traía, no venía de visita.
 
 Venía a cerrar el cabo suelto.
+
+
+# ADORAL
+
+
+Edwyn Cendrel no creía en la prisa, pero sí en los calendarios.
+
+Era una distinción que había pasado la vida tratando de explicar a hombres más jóvenes y más impacientes, casi siempre sin éxito. La prisa era el vicio de quien no entendía el tiempo: el que corría porque temía llegar tarde, el que golpeaba la mesa, el que desenvainaba. Un calendario era otra cosa. Un calendario era saber que todo acto tiene su estación, que hay semillas que se plantan en otoño y no germinan hasta la primavera, y que el arte de gobernar —el verdadero, el que no sale en las crónicas— consistía casi por entero en saber esperar la estación de cada cosa sin adelantarla ni perderla.
+
+Durante veinte años, la estación del rey Darius no había llegado. Edwyn lo había observado con la paciencia del jardinero que mira crecer un árbol enfermo: sabía que caería, lo sabía desde hacía mucho, y se había contentado con podarlo de cuando en cuando, con retrasar un nombramiento aquí, extraviar una orden allá, dejar que el reino se administrara solo en los mil pequeños lugares donde un rey distraído no mira. No había tenido nunca prisa por derribarlo. Un rey débil y vivo era, para los planes de Cendrel, mucho más útil que un trono vacío, que es la cosa más peligrosa del mundo: todos miran un trono vacío, y los Cendrel preferían, por naturaleza y por oficio, no ser mirados.
+
+Pero la estación, al fin, había cambiado. Y no la había cambiado Edwyn. La había cambiado el propio Darius, el día en que mandó inspectores a los libros de Aurelvar y metió la cabeza en las celdas del Barro.
+
+—Un rey que empieza a gobernar al final de su reinado —le había dicho Edwyn a su secretario aquella misma mañana, mientras revisaba, por tercera vez, las listas— es como un enfermo que decide curarse el día antes de morir. Conmovedor. Inútil. Y, para quienes lo rodean, extraordinariamente peligroso. —había devuelto la lista a su sitio—. Convoca a los otros dos. Esta noche. En el sitio de siempre.
+
+El sitio de siempre no era de los Cendrel. Esa era su primera astucia. Las tres casas se reunían, cuando tenían que reunirse lejos de los oídos de la corona, en una vieja sala de cuentas de un almacén portuario que, sobre el papel, pertenecía a un consorcio de comerciantes muertos hacía dos generaciones y cuya titularidad real nadie había logrado nunca desenredar. Ni Cendrel, ni Aurelvar, ni Dravon. Un lugar de nadie, para que ninguno pudiera decir que los otros habían entrado en su casa. Hasta para traicionarse, las tres casas necesitaban un terreno neutral.
+
+Edwyn llegó el primero, como siempre, y eligió el asiento que daba la espalda a la pared y la cara a la puerta, como siempre.
+
+---
+
+Misael Aurelvar llegó el segundo, y llegó incómodo, lo cual Edwyn registró con el placer sobrio de quien ve confirmada una hipótesis.
+
+El hombre del elefante no estaba acostumbrado a la incomodidad. Era su rasgo más peligroso y, a la vez, su mayor debilidad: Misael había pasado la vida en el lado de la mesa donde los demás necesitan algo de uno, y no sabía estar en el otro. Aquella noche estaba en el otro. La auditoría del rey le había metido inspectores en los almacenes, y un Aurelvar con inspectores en los almacenes era un hombre al que, por primera vez en años, se le podía ver sudar bajo la calma.
+
+—Antes de que empieces con uno de tus discursos, Edwyn —dijo Misael, sin sentarse—, quiero que quede dicho: esto es culpa tuya tanto como de nadie. Llevas dos décadas dejando que ese hombre se pudra en el trono porque te convenía un rey que no estorbara. Y ahora el rey que no estorbaba ha decidido estorbar, y de repente tenemos prisa. —se sentó al fin, de mala gana—. Yo nunca tengo prisa con el dinero. La prisa es cara.
+
+—No hay prisa —dijo Edwyn—. Hay oportunidad. No es lo mismo.
+
+—Para mi contabilidad es exactamente lo mismo.
+
+—Tu contabilidad, Misael, es precisamente lo que está en juego. —Edwyn juntó las manos sobre la mesa de cuentas rayada por generaciones de tratos sucios—. Los inspectores del rey llevan tres días en tus almacenes. ¿Qué crees que encontrarán, si los dejas seguir? No te lo pregunto por curiosidad. Te lo pregunto porque lo que encuentren en tus libros acabará, tarde o temprano, en los míos. Y yo prefiero saber antes que después lo que estoy guardando.
+
+Algo se cerró en la cara de Misael. No fue miedo —Edwyn había visto el miedo de muchos hombres y sabía distinguirlo—, fue cálculo: el gesto de quien aparta deprisa una mercancía de la vista antes de que el cliente pregunte el precio.
+
+—Encontrarán lo que encuentran los inspectores siempre —dijo Misael—. Números que no cuadran por motivos aburridos. Rutas. Concesiones. Un par de caridades que ya no podemos permitirnos y que estamos cerrando con discreción. —una pausa mínima—. Nada que no se arregle quemando el papel adecuado.
+
+—¿Y lo que no es papel?
+
+Misael lo miró. Por un instante, los dos hombres sostuvieron entre ellos una cosa no dicha, pesada, que ninguno pensaba nombrar en voz alta: el taller. Edwyn no sabía qué hacían exactamente los Aurelvar en aquel edificio sin ventanas de los muelles al que entraban carros de ceniza gris y del que salían cosas que no deberían existir —acero que no se forjaba en ningún horno conocido, un polvo que mataba sin dejar rastro, rumores de un hombre que trabajaba allí y al que nadie veía envejecer—. No lo sabía, y había decidido hacía tiempo que no quería saberlo del todo, porque hay conocimientos que son como brasas: útiles para calentarse, letales para tragar. Le bastaba con saber que existía. Un hombre como Edwyn no necesitaba entender el arma de su vecino; le bastaba con saber que la tenía y con asegurarse de que su vecino supiera que él lo sabía.
+
+—Lo que no es papel —dijo Misael, muy despacio— no es asunto de esta mesa. Y te aconsejo, con el afecto de los años, que siga sin serlo. Cada casa tiene su despensa, Edwyn. La tuya está llena de secretos de otros. La de Dravon, de hombres. La mía… —esbozó una sonrisa que no llegó a los ojos— la mía está llena de cosas que es mejor comprar que comprender. Mientras ninguno abra la despensa del otro, cenamos todos tranquilos.
+
+—Por eso estamos aquí —concedió Edwyn—. Para seguir cenando tranquilos.
+
+Pero no apartó del todo el pensamiento, porque Edwyn no apartaba nunca del todo los pensamientos útiles; los dejaba macerar. Había oído las historias, como las había oído toda Adoral si sabía escuchar en los sitios adecuados: que a los muelles de Aurelvar llegaban, de noche, carros cubiertos cargados de un polvo gris que no era harina ni cal ni cemento; que ese polvo entraba en el edificio sin ventanas y que de allí salía, a veces, una barra de un metal oscuro, pesadísimo, que no se mellaba ni al rojo y con el que Dravon había empezado a reforzar, muy discretamente, las puntas de algunas lanzas escogidas. Que había un hombre allí dentro. Uno solo. Un extranjero sin nombre conocido, al que Misael llamaba «el maestro» con una deferencia que no gastaba ni con los reyes, y del que los estibadores murmuraban dos cosas incompatibles y por eso más inquietantes: que llevaba veinte años trabajando en aquel taller, y que no tenía aspecto de haber cumplido los cuarenta. Edwyn no creía en milagros ni en fantasmas. Creía en los hechos, y el hecho era que algo en aquel edificio convertía la ceniza en objetos que la metalurgia honrada no sabía fabricar, y que ese algo tenía forma de hombre, y que el hombre no envejecía como los demás. Para Edwyn, que había pasado la vida ordenando el mundo en listas, aquel hombre era la única entrada que no conseguía clasificar. Y las entradas que no se dejaban clasificar eran, en su experiencia, las que acababan reescribiendo la lista entera.
+
+—Dime una cosa, Misael. —lo dijo con ligereza, como quien cambia de tema por cortesía—. Tu maestro. El del taller. ¿Es leal a tu casa, o leal a lo que tu casa le deja hacer?
+
+Misael no respondió enseguida. Y esa pausa —breve, controlada, pero pausa al fin— le dijo a Edwyn más que cualquier respuesta: que ni el propio Aurelvar estaba del todo seguro de a quién servía el hombre que le fabricaba el futuro.
+
+—Es leal al trabajo —dijo Misael por fin—. Que es la única lealtad que no se compra y, por eso, la única que no traiciona. Déjalo ahí, Edwyn. En serio. Hay despensas que, si las abres, no vuelves a cerrar la puerta a tiempo.
+
+---
+
+Aldair, de los Dravon, llegó el último, y llegó armado, que era su manera de decir todo lo que no pensaba decir con palabras.
+
+No es que esperara pelea. Nadie esperaba pelea; aquella mesa llevaba generaciones resolviéndose sin que corriera sangre, y esa era, en el fondo, su obra maestra silenciosa. Pero Aldair llevaba el acero igual que Edwyn llevaba sus listas y Misael su carpeta: como un recordatorio. Se sentó sin disculparse por el retraso, dejó una mano apoyada con naturalidad cerca del pomo, y Edwyn comprendió, por ese solo gesto, que el representante de Dravon venía aquella noche más envalentonado que de costumbre. Un hombre que enseña el arma en una mesa de negociación es un hombre que cree que esta vez el arma cuenta más que las palabras.
+
+—Habéis empezado sin mí —dijo Aldair.
+
+—Hemos calentado el asiento —respondió Edwyn—. Lo importante te esperaba.
+
+—Lo importante es sencillo. —Aldair se recostó—. El rey ha perdido la cabeza. Ha tocado el dinero de Misael y ha abierto la puerta a que mañana toque mis nombramientos, mis ascensos, mis controles del norte. Hoy audita a Aurelvar. ¿Quién de vosotros apuesta a que mañana no audita la Corte Dorada entera y descubre cuántos de sus valientes soldados cobran, además, de otra bolsa? —miró a los dos, uno y otro—. Yo no pienso esperar a esa auditoría. Prefiero el trono vacío a un rey con ganas de ordenar sus propios armarios.
+
+—Hablas de la Corte Dorada como si ya fuera tuya —observó Edwyn, sin acusación, solo midiendo.
+
+—Hablo de ella como lo que es. —Aldair no se molestó en negarlo; esa era su fuerza y su arrogancia a partes iguales—. Jerah Burdoun manda sobre el uniforme. Yo mando sobre bastantes de los hombres que lo visten. No sobre todos; sería mentirte, y mentirnos esta noche sale caro. Pero sobre los suficientes. Un capitán leal no sirve de nada si, la noche que importa, tres de cada diez de sus espadas deciden mirar hacia otro lado. Y he pasado nueve años, destino a destino, ascenso a ascenso, asegurándome de que, la noche que importe, miren hacia otro lado. —se permitió una sonrisa breve—. La lealtad es una cosa hermosa. Pero la paga es mensual, y la mía nunca se retrasa.
+
+Edwyn asintió para sus adentros. Esa era la verdadera baza de Dravon, y la más difícil de contrarrestar precisamente porque no era un secreto ni un arma ni un montón de oro: era **tiempo invertido en hombres**, lealtades compradas una a una a lo largo de años, repartidas por el cuerpo del ejército del rey como un veneno lento que nadie notaba hasta el día en que el corazón, sin aviso, dejaba de responder. Contra las listas de Edwyn servía una contralista. Contra el oro de Misael, más oro. Pero contra un ejército que ya había dejado, en silencio, de ser del rey, no había más defensa que otro ejército — y las otras dos casas no lo tenían. Ese desequilibrio era, justamente, lo que volvía a Dravon tan peligroso de cara al día después: el día en que no hubiera rey, Aldair sería el único de los tres con hombres suficientes para tomar las puertas de la ciudad antes del desayuno.
+
+A menos, pensó Edwyn sin mover un músculo de la cara, que para entonces alguien se hubiera encargado de que esos hombres tuvieran dudas. O de que su pagador no llegara a ver el día después.
+
+Y ahí estaba, pensó Edwyn: la razón verdadera de que la estación hubiera llegado. No era Darius. Darius solo era un viejo cansado que había decidido, demasiado tarde, hacer lo correcto. El peligro no era lo que el rey había hecho, sino lo que su gesto amenazaba con **revelar** — porque cada una de las tres casas guardaba, bajo las tablas del suelo, exactamente aquello que una auditoría honrada sacaría a la luz. Misael, su despensa de cosas que era mejor no comprender. Aldair, los cientos de hombres de la corona que ya no eran de la corona. Y Edwyn — Edwyn guardaba lo peor de todo, lo que no cabía en ningún almacén ni en ningún cuartel: lo que **sabía**. Los secretos de medio reino, ordenados, fechados, listos para usarse. Un rey que empezaba a mirar debajo de las tablas era una amenaza para los tres por igual, y esa —solo esa— era la única cosa en el mundo capaz de sentarlos a la misma mesa sin que ninguno intentara, aquella misma noche, destruir a los otros dos.
+
+Porque lo intentarían. Edwyn lo sabía. Lo sabía de sí mismo, de modo que no le costaba suponerlo de ellos.
+
+—Estamos de acuerdo en el qué —dijo Edwyn, y su voz bajó a ese registro suyo, sereno, de quien reza un responso—. El rey debe morir. No por odio. Por higiene. Un hombre que empieza a destapar cosas a los sesenta es un peligro para todo lo que los tres hemos tardado la vida en enterrar. Discrepamos, sospecho, solo en el cómo.
+
+—El cómo es mi parte —dijo Aldair—. Un rey viejo. Una escalera larga. Una caída desgraciada. Pasa en las mejores familias.
+
+—El cómo es de los tres —corrigió Edwyn, sin alzar la voz—. Y precisamente por eso debe hacerse de modo que ninguno de los tres pueda, después, usarlo contra los otros dos. —dejó caer la frase con suavidad, y vio cómo los otros dos se quedaban muy quietos, porque todos habían entendido a la vez lo mismo: que el verdadero problema de aquella noche no era matar al rey. Matar a un rey viejo y solo era lo fácil. El problema era qué pasaría a la mañana siguiente, cuando el trono quedara vacío y las tres casas, libres por fin del único enemigo común, se miraran entre sí y recordaran que seguían siendo tres.
+
+El silencio que siguió fue el más honesto de toda la noche.
+
+---
+
+Hablaron hasta tarde, y hablaron bien, como hablan los hombres que se entienden demasiado.
+
+Acordaron el cómo con una precisión de relojeros: la fecha, el pretexto, la caída, los testigos que jurarían lo que había que jurar, los funcionarios de Cendrel que redactarían el informe antes incluso de que el rey cayera, los hombres de Dravon que custodiarían el cuerpo para que nadie lo examinara demasiado, el oro de Aurelvar que compraría los silencios que no se compraban con miedo. Fue, Edwyn tuvo que reconocerlo, una obra de artesanía. Las tres casas trabajando a una eran una máquina formidable; por un instante, mientras encajaban las piezas del magnicidio como quien resuelve un problema elegante, casi lamentó que aquella colaboración perfecta estuviera condenada a durar exactamente lo que tardara el rey en enfriarse.
+
+Porque cada uno, mientras acordaba, calculaba.
+
+Edwyn calculaba a quién de los otros dos le convendría destruir primero, y había llegado —desde hacía semanas— a una conclusión incómoda: a Aurelvar. No porque Misael fuera el más fuerte, sino porque era el más opaco. Dravon tenía hombres, y los hombres se cuentan, se compran, se giran. Pero el taller de Misael, aquella despensa de cosas que era mejor no comprender, era una incógnita, y Edwyn no soportaba las incógnitas en manos ajenas. Un día no lejano tendría que averiguar qué salía de aquel edificio sin ventanas. Y el día que lo averiguara, o lo poseería, o lo quemaría. No había tercera opción para las cosas que Edwyn no controlaba.
+
+Aldair calculaba, con menos sutileza y más apetito, el momento exacto en que sus hombres —los de la corona que ya eran suyos y los que serían suyos en cuanto no hubiera corona— podrían tomar las puertas de Adoral en una sola noche. Un Estado militar. Sin casas, sin consejo, sin la farsa del equilibrio: solo el orden, el único orden que Aldair respetaba, el de la cadena de mando. Cendrel le parecía una araña vieja a la que se le podían cortar las patas una a una. Aurelvar, un mercader al que, llegado el día, se le compraría o se le colgaría, según el precio.
+
+Y Misael calculaba lo que calculaba siempre: el margen. No pensaba destruir a nadie; destruir era caro y rara vez rentable. Pensaba, más bien, en venderle a cada uno la caída del otro en el momento justo, en financiar la guerra de los otros dos sin pelear ninguna, en salir del incendio no como vencedor —los vencedores pagan las reconstrucciones— sino como el único que seguía teniendo oro cuando todos los demás solo tuvieran deudas y muertos. Y por debajo de ese cálculo, protegido, secreto, estaba su verdadera carta: que mientras los otros dos jugaban con hombres y con leyes, él jugaba con algo que ninguno de los dos entendía, algo gris que llegaba en carros al edificio sin ventanas y que un hombre que no envejecía convertía, allí dentro, en el futuro.
+
+Tres casas. Un rey muerto, aún no, pero ya sentenciado. Y tres traiciones dobladas y guardadas bajo la mesa como cuchillos bajo la servilleta, esperando cada una su estación.
+
+---
+
+Se despidieron antes del amanecer, con la cortesía exquisita de quienes acaban de jurarse una lealtad que ninguno piensa cumplir.
+
+Edwyn fue, otra vez, el último en salir. Le gustaba quedarse solo en las salas después de que los demás se marcharan; era un hábito viejo, casi supersticioso, la necesidad de comprobar que no quedaba nada escrito, nada olvidado, ninguna huella. Repasó la mesa con la vista. Nada. Misael se había llevado su carpeta; Aldair, su acero y su impaciencia. La conspiración entera existía ahora solo en la cabeza de tres hombres, que era el único archivo que Edwyn consideraba de verdad seguro.
+
+Se detuvo en la puerta. Afuera, el puerto empezaba a moverse en la oscuridad, los primeros estibadores, el olor a sal y a brea, los mástiles recortándose contra un cielo que todavía no era gris pero pronto lo sería. Y Adoral, más allá, dormía su última noche de rey vivo sin saberlo.
+
+Había una sola cosa que inquietaba a Edwyn, y no era ninguna de las dos traiciones que sabía que lo esperaban. Era un detalle pequeño, un hilo suelto que llevaba semanas resistiéndose a entrar en sus listas, y que aquella noche, con el magnicidio ya decidido, había vuelto a tirar de él. El preso. El agitador de los barrios del sur, el que escribía peticiones demasiado bien redactadas, el que el rey mantenía encerrado con una obstinación que no encajaba con la lógica fría de Darius. Un rey tan dado a convivir con lo insoportable no conservaba por capricho una molestia como aquella. La conservaba por una razón. Y Edwyn, que coleccionaba razones ajenas como otros coleccionan monedas, no había logrado todavía averiguar cuál.
+
+Lo averiguaría. Tenía toda la paciencia del mundo, y, por primera vez en veinte años, tenía también un calendario. Cuando el rey cayera, se abrirían muchas puertas que habían estado cerradas; y detrás de una de ellas, intuía Edwyn con el instinto que nunca le había fallado, estaba la razón por la que un viejo rey cansado prefería tener preso a aquel muchacho antes que muerto.
+
+Guardaría esa puerta para el final. Las mejores, siempre se guardan para el final.
+
+Salió al frío del puerto, y la primera luz, cuando llegó, lo encontró ya lejos, caminando sin prisa hacia la ciudad que dentro de muy poco iba a quedarse, por su mano y la de otros dos, sin su único hombre honrado.
