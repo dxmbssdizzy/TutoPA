@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.6 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
+Versión 0.7 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -507,7 +507,9 @@ La fe puede ser hogar, comunidad, identidad, obediencia, memoria o modo de inter
   - Evita el botón de «resurrección» que trivializaría las batallas (riesgo que §11 avisaba).
   - Mantiene el horror y el coste: escenas de Hope sosteniendo con su plegaria a multitudes de agonizantes que no pueden morir ni sanar. Tan terrible como hermoso.
   - Produce **el milagro del campo de batalla** (gran victoria) y su consagración como **Santa Hope de Mildraugh** (ver arco guerrero).
-- **El coste de la bendición — DIRECCIÓN PREFERIDA (a precisar):** mantener vivos a los heridos **le cuesta a Hope** algo físico y brutal (agotamiento extremo; se destroza sosteniendo a los suyos). La **naturaleza profunda** del precio se deja **abierta** (coherente con el sistema de magia §4 —todo poder cobra— y con dejar el misterio mayor sin cerrar).
+- **El coste de la bendición — CANON CONFIRMADO (v0.7): Hope carga el dolor ajeno.** Cada persona que salva le transfiere **una fracción de su dolor**. El don se paga con la misma materia que produce: para salvar, Hope **absorbe el sufrimiento**. Con el don ya consolidado puede obrar cosas **abiertamente antinaturales** (mantener vivo a un empalado, calmar a un agonizante) — intervención mágica **evidente**, ya no ambigua.
+- **La progresión del arco (material del Acto III — ver nota estructural):** al volverse **conducto de la magia mística**, Hope va **ganando resistencia al dolor** hasta un punto en que **ya no se sabe si se acostumbró o si simplemente dejó de inmutarse**. Tragedia escondida: para seguir salvando, tiene que dejar de *sentir*. La santa que carga todo el dolor del mundo acaba **anestesiada** — perdiendo la compasión viva de la muchacha que salvó un pájaro a escondidas. Lo que la hace santa es lo que la vacía.
+- **Paralelismo Hope ↔ Seth (eje temático — CANON):** los dos son **altruistas extremos que se deforman en direcciones opuestas**. Seth **lucha por** el dolor de la gente (liberar Adoral → el impulso de salvar que se vuelve atrocidad → el Clérigo). Hope **carga** el dolor de la gente (absorbe el sufrimiento → se anestesia → la Santa que ya no siente). Misma raíz —el que no puede dejar de salvar— en dos monstruosidades distintas. Cuando se reencuentren serán **dos potencias equivalentes** (paralelismo de poder: la Santa frente al Clérigo), no un poder y una víctima: el final (ella acompañándolo a volverse ceniza) es un **choque entre iguales**, no un rescate.
 - **Conexión con la ceniza / los Vigilantes — PREGUNTA ABIERTA (deliberada):** no decidir todavía si esta diosa antigua es de la misma naturaleza que lo que hay detrás de la ceniza o de los Vigilantes (§14). **Puerta abierta**: podría ser *una* de esas entidades antiguas mal interpretadas, sin confirmarlo. No cerrar el misterio mayor.
 - **Contraste con la tentación antigua (Seth petrifica a la diosa):** sigue sin ser canon. Si llega a ocurrir, ahora tiene más sentido: petrificar a una diosa ya **agonizante y mortal** no demuestra el poder de Seth, sino la insuficiencia de la idea humana de divinidad — y sería el golpe final a algo que Hope mantenía vivo casi sola.
 
@@ -650,6 +652,17 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 
 *(Nota: la urraca del capítulo «Seth» y el ave muerta del capítulo «Hope» abren, quizá, un motivo-pájaro ligado al ciclo. Ver §18.)*
 
+### Los dioses y la fe que crea — CANON CONFIRMADO (v0.7)
+
+Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigilantes y el villano futuro. Se revela poco y tarde; el lector solo recibe el **principio general**, no sus mecanismos.
+
+- **Existieron muchos dioses antiguos; varios murieron.** El panteón es una **especie en decadencia**: divinidades que la fe humana sostuvo y que, al perder creyentes, se extinguieron. La diosa de Hope (la **Madre de los Caminos**) es una de las últimas supervivientes, agonizante (ver §11).
+- **La fe crea — DIRECCIÓN PREFERIDA (ref. Berserk / «Idea del Mal»):** si la creencia colectiva es **lo bastante intensa**, puede **dar existencia a algo**. La fe no solo sostiene a los dioses: pudo **originarlos**, y puede originar cosas nuevas. El deseo, el miedo o el dolor de multitudes, concentrados, **solidifican** en entidad.
+- **Conexión (deliberadamente sin cerrar) con los Vigilantes:** encaja con la teoría de §14 de que los Vigilantes podrían ser «manifestaciones mal interpretadas» — entidades que la creencia o el trauma humano **solidificaron** a lo largo de los ciclos. No se confirma.
+- **Semilla del villano post-guerra civil — DIRECCIÓN PREFERIDA:** tras el fin de la guerra civil se introducirá un **villano nacido de este principio** — algo creado por la fe/el miedo/el dolor colectivo de un mundo roto por la guerra. *Nota de coherencia:* debe distinguirse del **Clérigo** (que es la transformación de Seth): el Clérigo es el antagonista de *la caída de Seth*; este villano es una amenaza **de otra naturaleza** (entidad engendrada por la creencia), que entra en escena más tarde. Relación entre ambos: PREGUNTA ABIERTA.
+
+> **NOTA ESTRUCTURAL (v0.7) — la obra crecerá más allá de 5 actos.** El autor prevé que *Silent Ashes* supere los **5 actos** originales: entre el inicio de la guerra civil (final del Acto I) y su clímax mediará un **salto temporal considerable** y más capítulos de los previstos. El **arco guerrero-santo de Hope** (bendición, dolor cargado, milagro del campo de batalla) y el **villano creado por la fe** son material de esa fase tardía («casi el clímax de la guerra»). **La macroestructura de §16 (5×3) queda BAJO REVISIÓN**; no se reestructura todavía: el Acto I (Caps. 1–3) no se ve afectado y se sigue escribiendo. El número real de actos se fijará al diseñar en detalle el Acto II/III.
+
 ---
 
 ## 15. El culto, la captura y la aparición del Clérigo
@@ -665,7 +678,9 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 
 ---
 
-## 16. Estructura macro en cinco actos — ESTRUCTURA CONFIRMADA
+## 16. Estructura macro en cinco actos — BAJO REVISIÓN (v0.7)
+
+> **AVISO (v0.7):** la estructura de **5 actos × 3 capítulos** descrita abajo está **bajo revisión**: el autor prevé que la obra **crecerá más allá de 5 actos** (salto temporal considerable entre el inicio y el clímax de la guerra civil; material tardío del arco santo de Hope y del villano creado por la fe — ver §14). **El Acto I (Caps. 1–3) NO cambia** y se sigue escribiendo tal cual. El número real de actos y la redistribución de hitos se fijarán al diseñar en detalle el Acto II/III. Todo lo que sigue se mantiene como marco de trabajo hasta entonces.
 
 ### Molde de capítulos — CANON CONFIRMADO (v0.3)
 
@@ -895,6 +910,9 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.6)** | **Arco guerrero de Hope:** de «la pequeña dama» a **Santa Hope de Mildraugh** (guerrera devota, «salvar a uno más», ref. Desmond Doss + Juana de Arco; intervención divina que cura a los suyos). Con salvaguardas (coste/ambigüedad; «santa» = símbolo usable; «salvar a todos» = mismo error que Seth). | **§11 (nueva subsección).** |
 | **31 oct 2026 (v0.6)** | **Dorn, el leñador ex-caballero** (cicatriz de espada que le cruza el rostro, de otras tierras). Saca a Hope y Eloy de Mildraugh y entrena a Hope en la espada. | **§11 (nueva subsección); §16.** |
 | **31 oct 2026 (v0.6)** | **La diosa resuelta (modelo B):** entidad antigua y **mortal**, casi sin fieles; la masacre del convento la debilita; busca a Hope en sueños y le ruega difundirla; Hope se niega y le reprocha; pactan: Hope difunde la fe a cambio de **salvar** → bendición de **sanar (no al instante: asegura que no mueran)** → milagro del campo de batalla → «Santa Hope». Coste real a precisar; conexión con Vigilantes abierta. | **§11 («La diosa y el problema de la divinidad») reescrita a CANON.** |
+| **31 oct 2026 (v0.7)** | **Coste de la bendición de Hope:** carga **una fracción del dolor** de cada persona que salva; con el don consolidado obra cosas antinaturales (salva empalados, agonizantes); al volverse conducto gana **resistencia al dolor** hasta anestesiarse. **Paralelismo Hope↔Seth** (altruistas deformados: ella carga el dolor, él lucha por él; Santa vs. Clérigo, potencias equivalentes). | **§11 ampliada.** |
+| **31 oct 2026 (v0.7)** | **Principio cosmológico «la fe crea» (ref. Berserk):** hubo muchos dioses antiguos y varios murieron; la creencia colectiva intensa puede **crear** entidades. Unifica la diosa de Hope, los Vigilantes (sin cerrar) y la **semilla de un villano post-guerra civil** nacido de la fe/el dolor colectivo (distinto del Clérigo). | **§14 (nueva subsección).** |
+| **31 oct 2026 (v0.7)** | **La estructura de 5 actos pasa a BAJO REVISIÓN:** la obra crecerá más allá de 5 actos (salto temporal; arco santo de Hope y villano = fase tardía, «casi el clímax de la guerra»). El Acto I no cambia; nº real de actos a fijar al diseñar el Acto II/III. | **§16 (aviso) y §14 (nota estructural).** |
 
 ---
 
