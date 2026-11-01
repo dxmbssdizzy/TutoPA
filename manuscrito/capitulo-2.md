@@ -422,3 +422,107 @@ Mañana.
 Y esta vez, al apagar la última lámpara, el rey supo —con una certeza nueva, serena, que no se parecía en nada a las promesas gastadas de todas las otras noches— que mañana, por fin, bajaría.
 
 No sabía que las casas contaban el tiempo con el mismo reloj que él. Ni que, para algunos relojes, mañana llega siempre un día demasiado tarde.
+
+
+# ILIANA
+
+
+Al noveno día de camino, Iliana ya había dejado de contar los días.
+
+No porque hubiera perdido la cuenta —no perdía la cuenta de nada, era incapaz, el hábito de contar la había salvado demasiadas veces como para abandonarlo—, sino porque los días habían dejado de ser días. Arriba, en los pasos, no había amaneceres ni anocheceres, solo una claridad gris que crecía un poco a media jornada y volvía a menguar sin que el sol llegara a mostrarse nunca entero. El cielo era una sola cosa cerrada, del color de la ceniza apagada, y bajo él la nieve lo igualaba todo: las rocas, los pinos vencidos por el peso del hielo, el sendero que solo ella y el caballo parecían creer que seguía existiendo bajo tanto blanco.
+
+Cuatro o cinco jornadas, había dicho el capitán. Llevaba nueve. El invierno había cerrado el paso alto el cuarto día, con una nevada que la obligó a refugiarse dos noches en una cabaña de pastores abandonada, racionando el grano del caballo y el suyo propio, escuchando el viento aullar en los huecos de la piedra como si el mundo entero se hubiera quedado sin palabras y solo le quedara aquel sonido. Había salido en cuanto amainó, antes de que fuera prudente, porque quedarse quieta le costaba más que avanzar: quieta, el frío entraba; quieta, pensaba; y pensar, en aquel silencio, era una forma de frío peor que el otro.
+
+El caballo pardo resoplaba nubes blancas y hundía las patas hasta el menudillo a cada paso. Iliana se había echado sobre los hombros todo lo que llevaba, y aun así el frío encontraba siempre una costura por donde colarse. Tenía los pies entumecidos desde el amanecer. Se los imaginaba —era un truco viejo, de los años malos— como si pertenecieran a otra persona, a alguien que no era ella y que podía permitirse el lujo de que le dolieran. Funcionaba a medias. Casi todo funcionaba a medias, allá arriba.
+
+Lo que no se entumecía era la atención.
+
+Esa la llevaba despierta desde el sexto día, cuando encontró las primeras huellas.
+
+No eran de animal. Eran botas, muchas, cruzando el sendero en diagonal y perdiéndose ladera abajo hacia un barranco por el que ningún viajero con un destino honrado tendría motivo para bajar. Iliana había desmontado, se había agachado sobre ellas pese al frío, y había leído lo que sabía leer: una partida, quince o veinte hombres, caminando sin orden pero sin dispersarse, con la pisada corta y pesada de quien carga peso —armas, o botín, o las dos cosas—. No muy antiguas. Un día, quizá dos. Iban en su misma dirección general. Hacia el norte. Hacia los pueblos.
+
+*Hombres sin estandarte*, había dicho Jerah. *No esperes que respeten el dorado.* Iliana no llevaba el dorado —viajaba como lo que parecía, una viajera cualquiera con un caballo malo—, pero tampoco se había engañado: los hombres que dejaban huellas así no distinguían entre un uniforme y una capa de viaje. Distinguían entre lo que podían quitarte y lo que no. Y a una mujer sola en un paso nevado, lo que podían quitarle era, por experiencia de Iliana, una lista larga que empezaba por el caballo y no terminaba nunca donde una querría que terminara.
+
+Desde entonces dormía de día, a ratos, en los pliegues de roca donde el humo no la delataba, y caminaba en la penumbra creciente de las tardes, cuando las huellas de otros se veían mejor y las propias se borraban antes. Había aprendido aquello hacía mucho, en otra vida, cuando moverse de noche y esconderse de día era la diferencia entre seguir siendo una garantía y convertirse en una pérdida que a nadie compensaba perseguir. El cuerpo lo recordaba todo. El cuerpo no olvidaba nunca. Era, pensaba a veces Iliana, lo más fiel que tenía: un animal fiel y asustado que llevaba dentro y que sabía cosas que ella habría preferido no saber.
+
+En las horas muertas del refugio, cuando no quedaba nada que hacer salvo esperar a que el frío aflojara, le daba vueltas a la misión. No podía evitarlo; era otra forma del mismo hábito de contar. Y cuantas más vueltas le daba, menos le cuadraba, igual que no le había cuadrado la mano del muchacho, aunque a este desajuste todavía le faltaban días para encontrarlo.
+
+Un aprendiz de pueblo. Un sello de la Ciudadela que no daba órdenes a la Corte Dorada y que, sin embargo, se las daba. Un capitán que admitía, a la cara, no entender su propia orden, y que prefería no entenderla. Iliana había pasado la vida al otro lado de las órdenes, recibiéndolas, nunca dándolas, y desde ese lado se aprendían cosas que los que mandaban no sospechaban que se vieran: por ejemplo, que una orden que nadie entiende del todo es casi siempre una orden que alguien, en alguna parte, entiende perfectamente y prefiere no explicar. Las órdenes no nacen huérfanas. Alguien las engendra. Y que la suya hubiera llegado disfrazada de encargo menor —una escolta, un muchacho de nada— solo significaba que a quien la había engendrado le convenía que pareciera pequeña.
+
+Lo que no lograba decidir era qué lugar ocupaba ella en esa cuenta ajena. Había dos posibilidades, y las dos le quitaban el poco sueño que el frío le dejaba. La primera: que la hubieran elegido de verdad por lo que Jerah había dicho, por ser la más sola, la más limpia de lealtades, la única espada que no respondía a ninguna bolsa. Eso era casi un honor, y Iliana desconfiaba de los honores por principio, porque en su experiencia los honores que le caían a alguien como ella solían ser trampas con mejor nombre. La segunda posibilidad era peor y más sencilla: que alguien quisiera que la misión fracasara, y hubiera buscado para ella, con todo cuidado, a la persona cuya desaparición en un paso nevado no removería a nadie. Una huérfana sin casa que no vuelve de un camino no es una tragedia que investigar. Es una línea que se tacha de una lista. Iliana llevaba toda la vida siendo líneas que se tachaban de listas, y conocía el tacto exacto de esa clase de prescindibilidad.
+
+No sabía cuál de las dos era cierta. Quizá ninguna; quizá las dos a la vez, que era lo que solía pasar con las cosas de los poderosos. Pero mientras tuviera al caballo, el cuchillo y el camino, la respuesta daba igual: fuera honor o fuera trampa, la salida era la misma. Llegar a Mildraugh. Coger al muchacho. Volver entera. Convertir, por una vez, la cuenta ajena en una cuenta suya.
+
+Hacia el final de aquel noveno día, el sendero descendió al fin.
+
+Los pasos quedaban atrás. Delante, la ladera bajaba hacia un valle largo donde los pinos crecían más juntos y más altos, y donde —supo por las indicaciones que le había dado Harl, trazadas de memoria sobre la tierra del patio— Mildraugh no podía estar ya a más de una jornada. Lo primero que vio del mundo habitado no fue el pueblo, sino su aliento: muy lejos, en el fondo del valle, un manchón de humo delgado que no era de incendio ni de campamento, sino de hogares, de muchos fuegos pequeños y domésticos difuminándose en el gris. Le subió por dentro algo que tardó en reconocer como alivio, y que se apresuró a apagar, porque el alivio, como el sueño, era un lujo que todavía no se había ganado.
+
+Fue entonces, al bajar la vista del humo lejano al sendero cercano, cuando vio el bulto.
+
+Estaba a un lado del camino, en la linde donde la nieve del claro cedía a la sombra de los primeros pinos. Al principio lo tomó por un animal muerto, o por un montón de ropa que alguien hubiera perdido o tirado. Después, al acercarse el caballo, el bulto cobró forma, y la forma era la de un cuerpo.
+
+Iliana tiró de las riendas.
+
+No se acercó. Lo primero que hizo —antes de pensar, antes de preguntarse quién era o si vivía— fue lo que el cuerpo le había enseñado a hacer: mirar alrededor. Las dos salidas del claro. La espesura de los pinos, lo bastante densa para esconder a diez hombres. Las rocas de la ladera, a su espalda. Un cuerpo tirado en un camino no es, para quien ha vivido lo que ella había vivido, una desgracia que socorrer. Es un cebo. Es la cosa que un grupo de hombres deja en mitad de un sendero para que una viajera de buen corazón se agache sobre ella y deje de mirar los árboles. Iliana había visto usar ese truco. Lo había visto funcionar. No pensaba agacharse sobre nada hasta estar segura de que los árboles estaban vacíos.
+
+Esperó. Contó. El caballo piafó, impaciente con el frío, y ella le apoyó una mano en el cuello para calmarlo sin apartar los ojos de la espesura. Nada se movió. Ningún pájaro levantó el vuelo, ningún crujido delató un peso escondido, ninguna nube de aliento traicionó a un hombre conteniéndolo entre las ramas. El silencio era entero. Y el silencio entero, en aquellos pasos, era lo más cercano a una garantía que el mundo ofrecía.
+
+Solo entonces desmontó. Sacó, eso sí, el cuchillo largo del cinto antes de hacerlo, y lo llevó en la mano al acercarse, baja, pegada al muslo, donde no se ve pero se usa rápido.
+
+El cuerpo era el de un muchacho.
+
+Joven —de su edad, quizá menos—, delgado, con el pelo negro apelmazado de nieve y de algo más oscuro que la nieve. Yacía de costado, medio hundido en el blanco, con una capa que había sido oscura y ahora era casi gris de escarcha. Tenía la cara vuelta hacia el suelo. Iliana no le vio al principio más que una mejilla pálida, amoratada por el frío o por el golpe, imposible saberlo, y una mano abierta sobre la nieve, con los dedos agarrotados en una curva que no agarraba nada.
+
+Estaba, por todas las señales, muerto.
+
+Iliana había visto muertos. Más de los que una debería haber visto a su edad, y en estados peores que aquel. Sabía reconocer la quietud particular de un cuerpo al que ya nadie habita: una quietud que no es la del sueño, porque al sueño le sobra algo —una tensión mínima, la memoria de un gesto— que a la muerte le falta del todo. Aquel muchacho tenía esa quietud. No respiraba; o, si lo hacía, lo hacía tan despacio que el frío borraba el aliento antes de que llegara a verse.
+
+Debería haberse ido. Lo supo con claridad, igual que había sabido calcular la mandíbula de Corwen y después no golpearla. Un cadáver en un camino no era asunto suyo. Su misión tenía nombre, y el nombre no era aquel: su misión era un muchacho vivo en Mildraugh, no uno muerto en la linde de un pino, y detenerse por los muertos ajenos era una de esas cosas heroicas contra las que Harl la había prevenido con tanta insistencia. *Trae al chico y vuelve andando.* Un rodeo de cinco pasos y seguir camino: eso era lo sensato. Eso era lo que una Valebrand que no podía permitirse ni un error haría.
+
+Se agachó de todos modos. No por compasión —se dijo, y casi se lo creyó—, sino por el oficio. Un cuerpo joven, bien vestido para la montaña aunque la ropa estuviera destrozada, caído en el mismo camino por el que subía una partida de veinte hombres sin estandarte, era información. ¿Lo habían matado ellos? ¿Era de ellos? ¿Huía de ellos? Lo que le hubiera pasado a aquel muchacho podía ser, muy bien, un anticipo de lo que la esperaba a ella una jornada más adelante. Mirar de cerca a un muerto no era blandura. Era reconocimiento del terreno.
+
+Le dio la vuelta con la mano libre, sin soltar el cuchillo.
+
+El rostro que quedó boca arriba era el de un desconocido, y aun así Iliana tuvo, por un instante absurdo, la sensación de haberlo visto antes. No a él. A la expresión. Era la cara severa, cerrada, de alguien acostumbrado a enfrentarse a cosas más grandes que él, una expresión que no encajaba con los años que aparentaba, igual que la suya propia no encajaba —se lo habían dicho mil veces— con los suyos. El pelo negro le caía en mechones endurecidos por el hielo. Tenía sangre seca en la sien, de una herida fea que le bajaba hacia la oreja, y los labios de un color que Iliana no asociaba con los vivos.
+
+Le apoyó dos dedos en el cuello, buscando lo que sabía que no iba a encontrar.
+
+Y lo encontró.
+
+Un latido. Uno solo, tan espaciado del siguiente que entre ambos a Iliana le dio tiempo a pensar que se había equivocado, que había sido el pulso de su propia mano. Pero vino el siguiente. Y otro. Lentos, demasiado lentos, como un tambor que alguien tocara sin ganas, de muy lejos, pero latidos al fin. El muchacho estaba vivo. Vivo de una manera que no tenía ningún derecho a estarlo, con aquella temperatura, aquella herida y aquel color de muerto, pero vivo.
+
+—Mira tú por dónde —murmuró Iliana, para nadie, con una nube de vaho.
+
+Y ahí estaba otra vez la encrucijada, la misma de cinco pasos atrás, solo que peor. Porque un muerto se deja. Un muerto no pide nada, no pesa en la conciencia de nadie, se rodea y se olvida. Pero un vivo —un vivo helándose en la nieve, un chico de su edad al que el pulso todavía le latía con terquedad bajo sus dedos— un vivo era otra cosa. Un vivo obligaba a decidir. Y Iliana odiaba decidir sobre las vidas ajenas casi tanto como odiaba que otros hubieran decidido, una vez, sobre la suya.
+
+Hizo cuentas, porque era lo que hacía. Si lo dejaba, moría; eso era seguro, antes del amanecer, sin discusión. Si lo cargaba, el caballo iría más lento, ella dormiría menos, el grano duraría la mitad y llegaría a Mildraugh con un desconocido medio muerto a cuestas y una misión que cumplir. Nada en la columna de las ventajas. Todo en la de los inconvenientes. La cuenta era clarísima, y la cuenta decía: déjalo.
+
+Y, sin embargo.
+
+Sin embargo, había algo en aquel muchacho que no le cuadraba, y a Iliana las cosas que no le cuadraban le molestaban más que el frío. No era la ropa, ni la herida, ni el latido imposible. Era la mano. La mano derecha, la que había visto primero, abierta sobre la nieve con los dedos curvados en torno a nada. No era la mano de alguien que ha caído. Alguien que cae abre las manos para frenarse, o las cierra en puños, o las deja laxas cuando ya no las gobierna. Aquella mano estaba curvada como si sostuviera algo. Como si, en el instante de quedarse sin fuerzas, hubiera estado agarrando una cosa con tanto empeño que el cuerpo había conservado la forma del gesto incluso después de perder aquello que agarraba.
+
+Iliana conocía esa forma. La había tenido ella misma, a los ocho años, aferrada al borde de un carro que se la llevaba lejos de todo lo que había sido suyo, agarrando una madera que no podía impedir nada. Era la forma de la mano que sostiene lo que ya ha perdido.
+
+No supo por qué aquello la decidió. No tenía ninguna lógica; iba, de hecho, contra toda la lógica que acababa de hacer. Pero se descubrió a sí misma guardando el cuchillo, pasándose el brazo del muchacho sobre los hombros, calculando ya —el cuerpo calculando por ella, como siempre— cómo izar aquel peso muerto que no estaba muerto hasta la grupa del caballo pardo sin romperse la espalda en el intento.
+
+—Como me estés engañando —le dijo al oído inconsciente, resoplando por el esfuerzo—, como abras los ojos a medianoche con un cuchillo entre los dientes, te juro que te devuelvo a la nieve yo misma y me quedo tan tranquila.
+
+El muchacho no contestó, por supuesto. Pesaba más de lo que un chico tan flaco tenía derecho a pesar, el peso extra y traidor de los cuerpos que no colaboran, y a Iliana le costó tres intentos y una blasfemia que habría escandalizado a las hermanas de cualquier convento subirlo por fin, cruzado sobre la silla como un saco. El caballo protestó, volvió la cabeza con un reproche equino, y ella le dio una palmada en el cuello que era medio disculpa y medio orden.
+
+—Ya lo sé —le dijo—. Yo tampoco lo entiendo. Anda.
+
+Se echó las riendas al hombro y siguió a pie, llevando al animal del ronzal, con el muchacho desmayado bamboleándose a cada paso y la última luz gris muriéndose deprisa entre los pinos. No había ganado nada con aquello. Había perdido velocidad, grano, descanso y la poca prudencia que le quedaba. Si Harl la viera, le daría con el bastón. Si Jerah se enterara, le recordaría que todo lo demás era prescindible, incluida ella, y con más razón un desconocido recogido en una cuneta.
+
+Y aun así caminaba, llevando un peso que no le correspondía, hacia un pueblo de nieve donde la esperaba un muchacho que sí le correspondía y que no sabía que ella venía. Dos muchachos, ahora. Uno que iba a buscar y otro que la vida le había puesto de través en el camino, sin pedirle permiso, como se le ponían a Iliana casi todas las cosas que acababan importándole.
+
+Lo que no sabía —lo que no podía saber, mientras avanzaba con la cabeza gacha contra el viento y los ojos fijos en el sendero que se oscurecía— era que no todos los árboles del valle estaban tan vacíos como los del claro donde se había detenido a mirar.
+
+El primer grito le llegó desde la izquierda, entre los pinos, antes de que viera nada.
+
+No fue un grito de animal. Fue un grito humano, agudo, partido por la mitad de un modo que Iliana conocía demasiado bien: el sonido exacto que hace una garganta cuando empieza a gritar una cosa y la interrumpe, de golpe, algo que no le da tiempo a terminar. Venía de más adelante, del fondo del valle, de donde subía el humo doméstico de los muchos fuegos pequeños. Y detrás de aquel primer grito vino otro. Y después, el que Iliana llevaba nueve días temiendo sin querer nombrarlo: el rumor sordo, creciente, de muchos hombres moviéndose a la vez con un propósito, el chasquido de la madera al ceder, el relincho de un caballo que no era el suyo, y por encima de todo, elevándose sobre los pinos con la primera columna de un humo nuevo —espeso, negro, que no era el de ningún hogar—, una voz que cantaba.
+
+Cantaba. Eso fue lo peor. No gritaba órdenes, no aullaba de furia: cantaba, con una alegría ronca y contenta, mientras el valle entero empezaba a llenarse de gritos que se partían por la mitad.
+
+El caballo se encabritó. Iliana se aferró al ronzal con las dos manos, clavó los talones en la nieve, y mientras el animal giraba en redondo y el muchacho desmayado resbalaba peligrosamente sobre la silla, alcanzó a ver, entre los troncos, allá abajo, lo que subía ya ladera arriba hacia ella: siluetas oscuras moviéndose rápido entre la nieve, y por encima de ellas, sostenido en alto por una lanza, un estandarte que el viento desplegó justo el tiempo suficiente para que lo viera entero.
+
+Un hombre colgado de una horca. Y, atándole el cuello a la soga, en lugar de cuerda, un cordón.
