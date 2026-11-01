@@ -526,3 +526,141 @@ Cantaba. Eso fue lo peor. No gritaba órdenes, no aullaba de furia: cantaba, con
 El caballo se encabritó. Iliana se aferró al ronzal con las dos manos, clavó los talones en la nieve, y mientras el animal giraba en redondo y el muchacho desmayado resbalaba peligrosamente sobre la silla, alcanzó a ver, entre los troncos, allá abajo, lo que subía ya ladera arriba hacia ella: siluetas oscuras moviéndose rápido entre la nieve, y por encima de ellas, sostenido en alto por una lanza, un estandarte que el viento desplegó justo el tiempo suficiente para que lo viera entero.
 
 Un hombre colgado de una horca. Y, atándole el cuello a la soga, en lugar de cuerda, un cordón.
+
+
+# HOPE
+
+
+La cama de Perla llevaba tres días vacía, y nadie quería decir su nombre.
+
+Hope lo había notado la primera mañana, porque notaba las ausencias igual que otras personas notan el frío: en la piel, antes que en la cabeza. El jergón del rincón, junto a la ventana estrecha por la que entraba el peor viento y la mejor luz, estaba hecho con el cuidado de quien no piensa volver a deshacerlo. Las mantas, dobladas. El pequeño arcón, vacío. Y sobre la repisa, donde Perla guardaba una concha que decía haber traído del mar —un mar que ninguna de ellas había visto, que para las muchachas del convento era poco más que una palabra azul en las oraciones—, no quedaba nada. Ni la concha.
+
+—Se ha ido con los benefactores —dijo la hermana Enna, cuando Hope preguntó la primera vez—. A servir en una buena casa. Tuvo suerte. Da gracias por ella en tus oraciones y no fisgues en lo que no te incumbe.
+
+Hope dio las gracias. Rezó por Perla aquella noche, pidió a la Madre de los Caminos que la guardara dondequiera que la hubiera llevado su buena suerte, y se durmió casi tranquila.
+
+Pero a la segunda mañana se acordó de que Perla no sabía servir. Se lo había dicho ella misma, riéndose, una noche de las de contar secretos bajo las mantas: que tenía las manos torpes para la aguja y peores para la cocina, que había llegado al convento precisamente porque en ninguna casa la querían, que lo único que sabía hacer bien era cantar y que cantar no daba de comer a nadie. Una muchacha que no servía para servir, elegida de pronto por una buena casa que necesitaba, se suponía, a alguien que sirviera. Y a la tercera mañana, con el jergón todavía vacío y la concha todavía ausente, Hope se descubrió haciendo la cuenta que no quería hacer.
+
+Perla era la cuarta.
+
+No la cuarta amiga. La cuarta muchacha que se iba así. La cuarta cama hecha con esmero de despedida, el cuarto arcón vaciado, la cuarta vez que la hermana Enna o la propia superiora pronunciaba las palabras *benefactores*, *buena casa*, *suerte*, y cerraba la conversación antes de que pudiera abrirse. Elsi, en pleno otoño. Las dos hermanas pequeñas cuyos nombres Hope ya tenía que esforzarse en recordar, poco después. Y ahora Perla. Siempre las que no tenían familia que preguntara. Siempre las más solas. Siempre de noche, sin despedida, sin que ninguna las viera marchar.
+
+Hope no sabía qué significaba aquello. Pero había aprendido —con el ave, con el pájaro herido que había cuidado a escondidas y que se le había muerto entre las manos pese a todas sus plegarias— que había una diferencia enorme entre no saber una cosa y no querer saberla. Y que su fe, la fe que amaba, la que era su casa y su lengua y su madre, le estaba enseñando otra vez a hacer lo segundo. A llamar *suerte* a lo que no entendía. A dar gracias por lo que debería darle miedo.
+
+Aquella mañana, después de la segunda campana, fue a buscar a la hermana superiora.
+
+---
+
+La encontró en el locutorio, de pie junto a la ventana que daba al valle, con las manos entrelazadas sobre el hábito y aquella quietud suya que no era calma sino dominio. La hermana superiora nunca parecía estar esperando nada ni a nadie; parecía, más bien, que el mundo venía a ella cuando ella lo decidía, y que aquella mañana había decidido, por una vez, permitir que viniera Hope.
+
+—La pequeña dama —dijo, sin volverse—. Has estado inquieta estos días. Se te nota en el modo de rezar. Rezas como quien discute.
+
+—Hermana. —Hope juntó las manos, por costumbre y por protegerse—. ¿Dónde está Perla?
+
+—Ya te lo dijeron. Con los benefactores.
+
+—¿En qué casa?
+
+La superiora se volvió al fin. Era una mujer alta, de edad imprecisa, con un rostro que debía de haber sido hermoso y que la disciplina había ido afilando hasta dejarlo todo en los ojos, unos ojos claros, atentos, que no se endurecían al mirar: ese era su don y su amenaza. No te miraba con dureza. Te miraba con una comprensión tan completa que desarmaba, como si ya hubiera perdonado de antemano la insolencia que estabas a punto de cometer y solo esperase, con infinita paciencia, a que te dieras cuenta tú sola de lo pequeña que era.
+
+—No lo sé —dijo—. Y tú tampoco necesitas saberlo. —se acercó, y su voz bajó a ese registro íntimo, casi tierno, que usaba para las correcciones importantes—. Hope. Mírame. Tú quieres a estas muchachas. Es una virtud, y de las raras. Pero el amor sin medida no es amor: es apetito. Quieres retener lo que amas, tenerlo cerca, saber de ello a todas horas. Y la vida no es eso. La vida es soltar. Perla ha recibido una oportunidad que ninguna de vosotras merecía más que ella, y lo generoso, lo piadoso, lo que una verdadera hija de la Madre haría, es alegrarse por ella y dejarla ir sin exigirle explicaciones como una acreedora.
+
+Era un argumento hermoso. Ese era el problema con la superiora: sus argumentos eran siempre hermosos, estaban siempre hechos de palabras buenas —generosidad, piedad, desprendimiento—, y Hope salía de cada conversación con ella sintiéndose a la vez corregida y confusa, convencida de que la equivocada era ella y sin poder señalar en qué punto exacto la habían convencido de algo que, por dentro, seguía sabiendo falso.
+
+—Perla no sabía servir —dijo Hope, en voz muy baja.
+
+La superiora no se inmutó. Pero hubo algo —un parpadeo, una brevísima recomposición, el gesto de quien recibe un golpe en un sitio que creía protegido— que a Hope no se le escapó, porque llevaba toda la vida aprendiendo a leer las caras de las personas que decidían sobre ella.
+
+—Todas aprendemos a servir —dijo la superiora— cuando no nos queda otra cosa que hacer.
+
+Y en aquella frase, que pretendía cerrar la conversación, Hope oyó por primera vez, con una claridad que le heló algo por dentro, que la superiora no estaba mintiéndole del todo. Que había, en alguna parte de aquellas palabras, una verdad terrible y sabida: que a Perla, en efecto, no le había quedado otra cosa que hacer. Que servir había sido la palabra bonita, y que debajo de la palabra bonita había otra, más corta y más fea, que la superiora conocía y Hope solo intuía.
+
+—¿Me puedo retirar, hermana?
+
+—Puedes. —la superiora volvió a la ventana—. Y Hope. Reza menos como quien discute. La Madre escucha mejor a quien confía que a quien interroga.
+
+Hope se inclinó y salió. Pero por el pasillo, con el relicario vacío golpeándole el pecho a cada paso, pensó que nunca en su vida había tenido tantas ganas de interrogar, y que si la Madre de los Caminos solo escuchaba a quien confiaba sin preguntas, entonces la Madre y ella iban a tener, muy pronto, una conversación muy larga.
+
+---
+
+El convento recibía sus víveres de invierno aquella tarde, y Hope bajó al patio a ayudar, en parte por deber y en parte porque descargar carros era una de las pocas tareas que le permitían estar fuera de los muros sin pedir permiso.
+
+Fue allí donde los vio llegar: no a los carros, sino a los hombres de los benefactores. Dos jinetes con la librea de la casa del elefante —el elefante de los Aurelvar, bordado en el pecho, el mismo que figuraba en los sellos de las cartas que la superiora recibía y guardaba bajo llave—, y entre ellos, en una mula, un administrador de rostro agrio que traía libros de cuentas y la expresión de quien ha hecho muchas veces el mismo camino y ha dejado de encontrarle gracia. No subieron al convento como invitados. Subieron como quien inspecciona una propiedad.
+
+Hope siguió descargando sacos, con la cabeza gacha y los oídos abiertos, porque había descubierto hacía mucho que a la gente que decide sobre otros le cuesta recordar que los otros tienen oídos. Y así, entre saco y saco de nabos y de harina, oyó retazos.
+
+Oyó al administrador quejarse de que los tiempos venían malos. Oyó la palabra *corona*, dicha con rencor, y la palabra *cuentas*, dicha con miedo, y algo sobre inspectores y sobre que *arriba* las cosas se habían *complicado*. Oyó que la casa iba a tener que *recoger velas* una temporada, *reducir compromisos*, *prescindir de caridades que ya no estaban para los tiempos que corrían*. Y oyó, cuando la superiora salió a recibirlos y los tres se apartaron creyendo que la distancia bastaba para proteger lo que decían, una frase del administrador que Hope no entendió del todo y que, por eso mismo, no pudo olvidar:
+
+—…lo que haya que cerrar, se cierra ya. Limpio. Mi señor no quiere cabos sueltos cuando los de la corona metan la nariz. Y un convento lleno de testigos es el cabo más suelto que hay.
+
+La superiora dijo algo en voz demasiado baja. El administrador respondió, más alto, impaciente:
+
+—No es asunto mío cómo. Para el *cómo* ya tiene mi señor a quien tiene. Usted encárguese de que no quede nada escrito y de que las bocas… —bajó la voz otra vez, y lo que siguió se perdió, pero la superiora se había puesto muy recta, y por primera vez en todos los años que Hope llevaba mirándola, pareció una mujer a la que acababan de dar una orden en lugar de una mujer que las daba.
+
+Hope dejó de oír porque dejó de poder sostener el saco. Se le había vaciado el cuerpo de fuerza, de golpe, como se vacía una jarra con una grieta. *Un convento lleno de testigos.* *Las bocas.* *A quien tiene para el cómo.* No entendía los detalles —se dijo que no los entendía, se agarró a eso—, pero la forma de las palabras era inconfundible, y la forma decía que en algún despacho de Adoral un hombre con un elefante bordado en el pecho había decidido que el convento de Mildraugh, sus muchachas, sus hermanas, sus plegarias de antes del amanecer, se habían convertido en un problema que convenía que dejara de existir.
+
+Y que Perla, y Elsi, y las dos hermanas pequeñas, no habían ido a servir a ninguna parte.
+
+No lloró. Se sorprendió de no llorar. Más tarde entendería que no había llorado porque el llanto es para las penas que caben dentro de uno, y aquello no cabía: era demasiado grande, tenía demasiados nombres, y el cuerpo, sabiamente, se había limitado a quedarse muy quieto, muy frío, guardando la cosa entera sin digerirla, para otro momento en que hubiera sitio.
+
+Terminó de descargar los carros. Lo hizo con una docilidad perfecta, saco tras saco, porque había comprendido en aquel mismo instante, con un instinto más viejo que su fe, que lo único que podía mantenerla a salvo era que nadie —ni la superiora, ni el administrador, ni los jinetes del elefante— sospechara que la pequeña dama acababa de oír lo que no debía.
+
+---
+
+Encontró a Dorn donde siempre, en la linde del bosque, partiendo leña.
+
+Había bajado del convento sin permiso, por el sendero empinado que unía la elevación rocosa con el pueblo, porque necesitaba estar lejos de los muros y porque, cuando el mundo se le ponía demasiado grande, los pies la llevaban casi solos hacia las afueras, donde el leñador trabajaba sin hablar y le dejaba a ella no hablar tampoco.
+
+Nadie en Mildraugh sabía de dónde había salido Dorn. Llevaba allí desde antes de que Hope tuviera memoria, que para una muchacha de su edad era lo mismo que decir desde siempre. Vivía solo, en una cabaña en el límite donde los árboles empezaban a ganarle terreno al pueblo, y partía leña para quien se la pagara y para unos cuantos que no podían pagarla y a los que se la dejaba igual en la puerta, sin llamar, como si le avergonzara que lo descubrieran siendo bueno. Los niños le tenían miedo. Era por la cara: un tajo viejo le cruzaba el rostro entero, desde la ceja izquierda, partiéndole la nariz, hasta perderse bajo la mandíbula del lado derecho, y le había dejado el ojo de aquel lado algo caído, de un gris lechoso que no miraba del todo a donde miraba el otro. Las madres decían a los pequeños que Dorn se había peleado con un oso. Los pequeños lo creían. Hope, que ya no era pequeña, hacía tiempo que había dejado de creerlo: los osos no dejan cortes rectos.
+
+Dorn levantó la vista cuando la oyó llegar —la oyó mucho antes de verla, giró la cabeza hacia el sendero cuando Hope aún no había doblado el último recodo, como si una parte de él estuviera siempre escuchando por si algo venía—, y volvió a bajarla hacia el tronco sin saludar. Partió otro leño. Hope se sentó en el tocón de siempre, a una distancia prudente, y lo miró trabajar.
+
+Había algo en cómo partía la leña que ella nunca había sabido nombrar y que aquella tarde, con la cabeza llena de cabos sueltos y bocas que cerrar, le pareció de pronto importante. No era fuerza, aunque fuerza tenía. Era exactitud. El hacha caía siempre en el mismo punto, con el mismo gesto corto y económico, sin un movimiento de más, sin rabia, sin esfuerzo visible; el leño se abría en dos mitades casi iguales y Dorn ya estaba colocando el siguiente antes de que las mitades terminaran de caer. Lo hacía como quien ha repetido un gesto tantas miles de veces que el gesto ha dejado de pertenecerle, como si la mano supiera por su cuenta dónde golpear para separar una cosa de otra limpiamente, sin astillas, sin dolor de más. A Hope le vino a la cabeza, sin querer, que así debía de partirse también otra clase de cosas. Apartó el pensamiento. Le dio miedo.
+
+—Se te ha puesto cara de funeral —dijo Dorn, sin dejar de trabajar. Hablaba poco, y cuando hablaba lo hacía con una voz rasposa, de usarla poco, que a Hope le gustaba precisamente por eso: porque no gastaba palabras en adornar nada—. ¿Se te ha muerto otro pájaro?
+
+—No es un pájaro.
+
+—Peor, entonces. —partió otro leño—. Los pájaros se entierran y se reza y se acaba. Lo que no es un pájaro no se acaba tan fácil.
+
+Hope se abrazó las rodillas. Quiso contárselo. Las palabras se le agolparon en la garganta —Perla, la concha, las bocas, el elefante, *lo que haya que cerrar se cierra ya*—, y se detuvieron allí, porque decirlas en voz alta era hacerlas ciertas, y porque una parte de ella, la parte que todavía rezaba como quien discute, seguía queriendo creer que se había equivocado, que había oído mal, que la superiora tenía razón y ella solo era una muchacha con demasiado amor y demasiado poco mundo.
+
+—Dorn. —dijo al fin—. ¿Tú crees que hay cosas que es mejor no saber?
+
+El leñador detuvo el hacha. Fue la primera vez en toda la tarde que interrumpió el gesto, y el silencio que dejó el hacha al quedarse quieta fue más elocuente que cualquier respuesta. Se volvió hacia ella, y la miró con el ojo bueno y con el ojo lechoso, y por un momento Hope tuvo la sensación incómoda de que aquel hombre que partía leña para un pueblo de mineros había sabido, en algún otro tiempo y en algún otro lugar, muchas cosas que había pasado el resto de su vida intentando no saber.
+
+—Hay cosas que no cambian porque las sepas —dijo despacio—. Esas da igual saberlas o no. —apoyó el hacha en el tocón—. Y hay cosas que, en cuanto las sabes, te obligan a hacer algo. Esas son las peligrosas. Porque saberlas y no hacer nada te pudre por dentro, y hacer algo casi siempre te cuesta más de lo que tienes. —la miró fijo—. Tú no me preguntas por las primeras, pequeña. A nadie se le pone esa cara por las primeras.
+
+Hope no contestó. No hacía falta. Dorn asintió, como si el silencio hubiera confirmado lo que ya suponía, y recogió el hacha.
+
+—Cuando sepas qué vas a hacer —dijo, volviendo a su leño—, y no antes, ven a verme. Hay cosas que una muchacha reza y hay cosas que una muchacha necesita saber hacer con las manos. Y últimamente —partió el leño de un golpe limpio— tengo la impresión de que a estos valles les va a hacer más falta lo segundo que lo primero.
+
+Fue una cosa extraña de decir, y Hope la guardó sin entenderla, en el mismo lugar donde guardaba el relicario y las frases de su madre y todo lo que algún día haría falta. No sabía todavía que la guardaba. La memoria tiene esa piedad: a veces almacena un arma antes de que sepamos que va a haber guerra.
+
+---
+
+Supo lo de Eloy al atardecer, y lo supo mal, como se saben las cosas que importan: de refilón, por un tercero, cuando ya no había remedio.
+
+Fue la mujer del herrero, que se lo soltó sin malicia mientras Hope pasaba de vuelta hacia el sendero del convento: *qué suerte la del chico de Bron, ¿verdad?, llamado a la capital, a estudiar con los sabios, no todos los días un pueblo como este da a alguien que merezca la pena.* Hope se detuvo en seco. Preguntó, con una voz que se esforzó en mantener ligera, qué chico de Bron. Y la mujer, extrañada de que la pequeña dama no lo supiera siendo tan amiga del muchacho, se lo contó entero: la carta de la Ciudadela, el mensajero de botas embarradas, Adoral, el traslado. Todo el pueblo lo sabía. Todo el pueblo menos ella.
+
+Hope dio las gracias y siguió andando, y solo cuando dobló el recodo y los árboles la escondieron se permitió detenerse, apoyar la espalda contra un pino y cerrar los ojos.
+
+No estaba enfadada. Se buscó el enfado, casi con ganas, porque el enfado habría sido más fácil de llevar, y no lo encontró. Encontró, en su lugar, algo más hondo y más triste: la certeza de que Eloy no se lo había dicho porque no sabía cómo, y de que no saber cómo despedirse de alguien es, casi siempre, la forma que tiene el cariño de volverse cobarde. Lo conocía. Lo conocía desde antes de que ninguno de los dos tuviera edad de elegir a quién conocer. Sabía exactamente cómo habría sido: Eloy decidiéndolo en silencio, guardándoselo, posponiéndolo un día y otro día con la excusa de encontrar el momento bueno, y el momento bueno sin llegar nunca, porque para las cosas que de verdad duelen no hay momentos buenos, solo momentos que se acaban.
+
+Se iba. Eloy se iba a Adoral. El único que hacía preguntas como ella —distintas, las suyas eran de leyes y materia y magia, las de Hope eran de dioses y de por qués, pero preguntas al fin, las dos clases de pregunta que el mundo prefería que nadie hiciera—, el único que no la miraba como a «la pequeña dama» sino como a Hope a secas, el único que entraba sin llamar y la llamaba tonta y le creía capaz de entender un trozo de jarra convertido en metal. Se iba al mismo sitio del que venían los jinetes del elefante. A la misma Adoral donde un hombre había decidido que su convento era un cabo suelto.
+
+Y Hope, apoyada en el pino, con el relicario robándole el calor del pecho y la tarde muriéndose deprisa sobre el valle, tuvo por primera vez un pensamiento que no era de fe ni de amistad ni de miedo, sino de las tres cosas a la vez, enredadas: que quizá marcharse no fuera, como le había dicho siempre la superiora, una cosa que se padece. Que quizá fuera una cosa que se hace. Que el mundo que ella conocía —el convento, las plegarias de antes del amanecer, las muchachas que desaparecían una tras otra sin que nadie dijera sus nombres— se había vuelto un lugar donde quedarse quieta era otra forma de dejar que te cerraran la boca. Y que Eloy, el cobarde, el tonto, el que no sabía despedirse, acababa de hacer, sin pretenderlo, lo único valiente que a ella todavía no se le había ocurrido: irse.
+
+Levantó la vista hacia el convento.
+
+Estaba allá arriba, como siempre, recortado contra el último gris del cielo sobre la elevación rocosa: los muros bajos, la torre de la campana, las ventanas estrechas empezando a encenderse una a una conforme las hermanas prendían las lámparas para la oración del anochecer. Su casa. El único hogar que había conocido. Desde allí abajo, con la distancia y la penumbra, parecía un lugar de paz, igual que —habría pensado Hope si hubiera sabido pensarlo— toda miseria parece orden vista desde lejos.
+
+Fue entonces cuando lo notó.
+
+No supo decir qué, al principio. Las ventanas se encendían como cada tarde, pero había algo distinto en el modo en que se encendían, un orden que no era el de las lámparas de las hermanas. Y había luces que no eran ventanas. Luces sueltas, móviles, naranjas y temblorosas, que no estaban dentro del convento sino fuera, en el patio, en el sendero, bajando. Antorchas. Muchas. Bajaban del convento hacia el pueblo en fila, despacio, con la paciencia de quien no tiene ninguna prisa porque sabe que nadie lo espera, y entre ellas, por un instante, cuando una de las antorchas se alzó más que las demás, a Hope le pareció ver una tela desplegándose en lo alto de un palo, un estandarte oscuro con una forma que la distancia no le dejó distinguir.
+
+No entendió qué era. Pensó, con el último resto de su esperanza, que serían peregrinos. Que serían hombres de los benefactores con más carros. Que sería cualquier cosa de las muchas cosas inofensivas que podía ser una hilera de luces bajando de un convento al anochecer.
+
+No sabía —no podía saberlo, nadie en Mildraugh podía saberlo todavía, aunque a pocas leguas de allí, en el fondo del mismo valle, una viajera que llevaba a un muchacho muerto a cuestas acababa de ver desplegarse esa misma tela y sí sabía leerla— que lo que bajaba por el sendero de su casa, en fila y con antorchas y sin ninguna prisa, cantando por lo bajo una canción que el viento aún no le traía, no venía de visita.
+
+Venía a cerrar el cabo suelto.

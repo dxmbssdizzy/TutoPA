@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.5 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
+Versión 0.6 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -484,8 +484,10 @@ Veterana endurecida que sabe que el mundo no es justo ni sencillo, frente al ide
 - **El complot:** el convento, bajo la **hermana superiora**, «acoge» a mujeres y niñas vulnerables; **Aurelvar lo financia** para que *entre* más gente; parte de esas personas **desaparecen**, vendidas a los **Hijos de la Horca** para sus fines sectarios (§6 bis). Las chicas que faltan son la **primera grieta de fe de Hope hecha carne**.
 - **Cómo lo vive Hope:** lo *siente* raro antes de poder nombrarlo. La superiora normaliza las desapariciones con discurso de disciplina y gratitud a los benefactores. La incomodidad de Hope es moral antes que informada.
 - **Conexión con Iliana (eco mudo):** Iliana fue esclavizada de niña por una deuda; ahora escolta a un «activo» hacia una capital donde una casa noble **comercia con personas**. Su trauma y la conspiración se tocan sin que ella lo sepa aún.
-- **Cadena causal:** la decisión del rey (§5) → repliegue de Aurelvar → se retira la financiación y se **tapa la red** → ataque a Mildraugh como **encubrimiento** (Acto II).
-- **Ritmo de revelación:** el **Cap. 2 solo siembra** (chicas que faltan, incomodidad de Hope, repliegue de Aurelvar). La conexión explícita convento–Aurelvar–Hijos de la Horca se **paga en el Acto II**.
+- **Cadena causal:** la decisión del rey (§5) → repliegue de Aurelvar → se retira la financiación y se **tapa la red** → ataque a Mildraugh como **encubrimiento**.
+- **El convento como puerta del horror — CANON (v0.6):** los **Hijos de la Horca llegan a Mildraugh pasando primero por el convento** (sobre la elevación rocosa). El lugar de la fe es, literalmente, **el canal por el que la secta baja a arrasar el pueblo**: el primer eslabón de la red que hay que «limpiar». Para Hope, demoledor: su hogar espiritual no solo escondía la traición (chicas vendidas); es el camino por el que la muerte desciende sobre su gente. *«Su fe no apartó la mirada: abrió la puerta.»*
+- **Última visión de Mildraugh en pie (Cap. 2, cierre del POV de Hope):** el POV de Hope es el último que ve Mildraugh intacto. Cierra con Hope mirando hacia el convento y viendo **empezar a bajar algo** (antorchas, siluetas, un estandarte que no distingue) **sin comprender qué es**. El lector —que acaba de ver el estandarte del ahorcado con Iliana— **sí lo comprende**. Bisagra deliberada con lo que vio Iliana.
+- **Ritmo de revelación:** el **Cap. 2 solo siembra** (chicas que faltan, incomodidad de Hope, repliegue de Aurelvar, el leñador Dorn). La huida en carreta, la despedida de Bron y Yiel, la explosión de la mina y el contraplano de Hope viendo a Seth/Iliana se **pagan en el Cap. 3** (ver §16).
 - PREGUNTA ABIERTA: cuánto sabe la hermana superiora (¿cómplice plena, instrumento, autoengaño piadoso?); si alguna chica concreta (nombre) ancla la grieta de Hope; cómo descubre Hope la verdad y cuándo.
 
 ### La fe de Hope
@@ -500,11 +502,32 @@ Tentación: una diosa del culto se manifiesta y Seth acaba petrificándola como 
 - Si Seth puede petrificarla, ¿deja de ser diosa o demuestra que la idea humana de divinidad es insuficiente?
 - La escena no debe existir solo para lucir el poder de Seth ni resolver fácil la fe de Hope. La magia necesita coste para que derrotar a una diosa no vuelva irrelevantes las amenazas posteriores.
 
+### El arco guerrero: de «la pequeña dama» a Santa Hope de Mildraugh — CANON / DIRECCIÓN PREFERIDA (v0.6)
+
+> Hope no se queda en víctima piadosa: se convierte en **guerrera devota**, y llega a **destacar ligeramente en batalla**.
+
+- **Quién le enseña:** **Dorn**, el leñador de Mildraugh (ex-caballero de otras tierras — ver abajo), le pone la espada en la mano durante la huida del Cap. 3 y la entrena en el camino (desarrollo en el Acto II). Que la de la misericordia aprenda a matar es una **grieta de su arco**, no una vocación: aprende porque el mundo acaba de enseñarle que la misericordia sola no la mantiene viva ni salva a los suyos.
+- **Ideología de combate (ref. Desmond Doss, *Hasta el último hombre* + Juana de Arco):** reza a sus dioses **y** pelea, bajo el lema de **«salvar a uno más»**. No empuña para matar, sino para *salvar*; pero acaba en el corazón de la batalla. Estampa de doncella iluminada que arrastra a un pueblo.
+- **Intervención divina — DIRECCIÓN PREFERIDA:** en un momento crítico, su diosa **se manifiesta y cura a todos los que pelean a su lado**, logrando una gran victoria. El pueblo la recuerda y la nombra **«Santa Hope de Mildraugh»**.
+- **Salvaguardas de oficio (para no romper §11 «problema de la divinidad» ni el sistema de magia que siempre cobra precio):**
+  1. **La intervención tiene coste o ambigüedad:** cura a todos, pero algo se paga, o nunca queda claro si fue la diosa, la ceniza, o algo que *usó* la forma de su diosa. El milagro deslumbra sin resolver el misterio metafísico (coherente con los Vigilantes).
+  2. **«Santa» es bendición y condena:** la santidad la vuelve **símbolo** — y los símbolos, en esta novela, se usan (como «Rey del Barro» usa a Seth). Su santidad puede ser la trampa que la ata al destino trágico final. Corona de santa y mortaja riman.
+  3. **«Salvar a uno más» es su grieta, no solo su virtud:** el impulso de salvar a todos es, temáticamente, **el mismo error de Seth** a otra escala. Hope y Seth son dos formas del mismo impulso llevado a la atrocidad; esa raíz compartida vuelve su encuentro final inevitable y desgarrador.
+- **Siembras ya en el Cap. 2 (POV de origen):** compasión que choca con la disciplina (el ave, Cap. 1); voluntad férrea bajo la dulzura (la «pequeña dama» tiene espina); un «salvar a uno más» en pequeño; la fe vivida como algo personal e intenso (no rutinario); y Dorn notando en ella una terquedad/agallas que los demás confunden con ternura.
+
 ### Destino trágico — DECISIÓN NARRATIVA (reciente)
 
 > Hope acompañará al Clérigo e intentará sacrificarse para que **ambos se vuelvan ceniza**. No significa que su única función sea morir: su arco, sus creencias y sus decisiones previas deben hacer comprensible esa elección.
 
-Su intención no debe volverse una obligación de salvar a Seth. Puede amarlo y, a la vez, reconocer el daño que causa. El sacrificio necesita lógica propia, ligada a su trayectoria espiritual y moral.
+Su intención no debe volverse una obligación de salvar a Seth. Puede amarlo y, a la vez, reconocer el daño que causa. El sacrificio necesita lógica propia, ligada a su trayectoria espiritual y moral. **Coherencia del arco:** la guerrera que salva «a uno más» termina queriendo salvar al que ya no puede salvarse (Seth/Clérigo); su último acto es el «salvar a uno más» definitivo, vuelto del revés.
+
+### Dorn, el leñador — CANON (v0.6)
+
+- **Fachada:** el leñador de Mildraugh. Vive apartado, en la linde del bosque. Habla poco; parte leña para medio pueblo y no cobra a quien no puede pagar. Los niños le temen por la cicatriz; los adultos lo respetan sin saber bien por qué.
+- **Verdad (se revela en Cap. 3 / Acto II):** fue **caballero de otras tierras** (región lejana, deliberadamente imprecisa — un hombre que huye de su pasado). Una herida lo sacó del oficio.
+- **La cicatriz:** un tajo de espada que le cruza casi todo el rostro —de la ceja a la mandíbula del lado opuesto, cruzando la nariz—; le afectó un ojo (caído o nublado). Explica por qué «un hombre así» acabó partiendo leña.
+- **Función:** Bron y Yiel le piden que saque a Eloy y a Hope de Mildraugh y los lleve a Adoral (Eloy ya tiene un propósito allí). Los evacúa en una **carreta tirada por un caballo** durante el ataque (Cap. 3). Enseña a Hope a blandir la espada. Mentor de combate de la convergencia.
+- **Siembras mudas en el Cap. 2 (sin destripar su pasado):** nunca se coloca de espaldas a una puerta (rima muda con el mismo reflejo de Iliana); parte la leña demasiado limpio, «como quien ha cortado otras cosas»; un silencio elocuente ante Hope cuando ella habla de fe o misericordia.
 
 ### Preguntas abiertas de Hope
 
@@ -650,8 +673,10 @@ El mundo repite ciclos. Una maldición/fenómeno, el **«olvido»**, causa pérd
 
 **Mapa del Acto I (capítulos) — BASE DE TRABAJO:**
 - **Cap. 1 — «Aquel que permanece».** Presentación coral (6 POV). Gancho de Seth; política de Adoral; Magnus preso; anomalía del relicario de Eloy; grieta de fe de Hope; Iliana rumbo a la prueba de la Corte Dorada. *(Material: la v2 actual es la base de este capítulo; falta llevar cada POV a densidad y entrelazarlos.)*
-- **Cap. 2.** Entre otras cosas, **Eloy recibe la carta de traslado a la Ciudadela de Adoral.** (Aquí, no en el Cap. 1.)
-- **Cap. 3.** Cierre del acto: **se cimenta la guerra civil.**
+- **Cap. 2 — «Lo que el invierno se lleva».** El **detonante del norte.** Eloy recibe la carta de traslado a la Ciudadela; el rey Darius aprieta a las casas; Iliana en ruta encuentra a Seth; Hope vive la grieta de fe y la siembra de la trata (último POV que ve Mildraugh en pie). **Mildraugh cae** durante este capítulo (asalto de los Hijos de la Horca), pero visto de modo oblicuo: Iliana corta en el filo del asalto; Seth lo retoma y, al fondo, él e Iliana ven **el incendio y la explosión gigantesca sin contexto**. Tragedia local y personal, todavía no «la guerra». *(Orden de POV: Eloy → Adoral → Iliana → Hope → [Adoral II / el complot, opcional] → Magnus → Seth.)*
+- **Cap. 3 — cierre del acto.** Dos frentes rotos a la vez:
+  - **Norte (contraplano de Mildraugh):** la huida en carreta de Hope y Eloy con **Dorn**; la **despedida emotiva de Bron y Yiel** en medio del caos (les piden que se los lleve a Adoral); la **explosión de la mina** (Yiel + el gas); **Hope ve a Seth e Iliana** unos segundos por la rendija de la lona mientras la carreta sale por donde ellos llegaron (paralelismo: Seth «siente» desde fuera que lo más importante de su mundo pasa a su lado). Se paga aquí lo que el Cap. 2 mostró sin contexto.
+  - **Sur (la capital):** **se cimenta la guerra civil** — magnicidio del rey Darius y **fuga de Magnus** (disparada por la muerte de su padre).
 
 ### Acto I — Introducción de las vidas
 - Presentar a los protagonistas con vidas, objetivos y conflictos propios. *(Cap. 1 borrador v2 con los cinco POV + Adoral. Falta densidad/entrelazado y Caps. 2-3.)*
@@ -855,6 +880,10 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.5)** | **Fuga de Magnus reescrita:** runa por entregas **en las comidas** durante un **time skip <2 semanas** (Cap. 2); Magnus comprende y **se talla la runa en ambas palmas con las uñas**; la fuga (Cap. 3) se **dispara con la muerte del padre** (duelo/furia), no por «runa lista». | **§9 (fuga) reescrita.** |
 | **31 oct 2026 (v0.5)** | **Última conversación padre-hijo (Cap. 2), 100% desde el POV de Magnus:** Darius le demuestra amor con actos (le cuenta sus medidas), sin nombrar el parentesco; Magnus hace las paces en silencio. El POV de Adoral muestra solo el entorno reaccionando. | **§9 (nueva subsección); §5.** |
 | **31 oct 2026 (v0.5)** | **Orden de POV del Cap. 2 fijado:** Eloy → Adoral → Iliana → Hope → Magnus → Seth. Time skip <2 semanas para todos salvo Seth (cae «ahora» en la ruta de Iliana). | **`manuscrito/cap-2-escaleta.md` actualizada.** |
+| **31 oct 2026 (v0.6)** | **Reparto norte/sur del Acto I:** Mildraugh **cae en el Cap. 2** (visto oblicuo: incendio/explosión sin contexto desde Seth/Iliana). El **contraplano** (huida en carreta con Dorn, despedida de Bron/Yiel, explosión de la mina, Hope viendo a Seth/Iliana) se paga en el **Cap. 3**, junto al magnicidio y la fuga de Magnus. | **§16 reescrita (mapa Acto I).** |
+| **31 oct 2026 (v0.6)** | **Los Hijos de la Horca bajan a Mildraugh pasando por el convento** (la fe como puerta del horror). El POV de Hope cierra el Cap. 2 viéndolos bajar sin comprender (bisagra con el estandarte que vio Iliana). | **§11 (red de trata) ampliada.** |
+| **31 oct 2026 (v0.6)** | **Arco guerrero de Hope:** de «la pequeña dama» a **Santa Hope de Mildraugh** (guerrera devota, «salvar a uno más», ref. Desmond Doss + Juana de Arco; intervención divina que cura a los suyos). Con salvaguardas (coste/ambigüedad; «santa» = símbolo usable; «salvar a todos» = mismo error que Seth). | **§11 (nueva subsección).** |
+| **31 oct 2026 (v0.6)** | **Dorn, el leñador ex-caballero** (cicatriz de espada que le cruza el rostro, de otras tierras). Saca a Hope y Eloy de Mildraugh y entrena a Hope en la espada. | **§11 (nueva subsección); §16.** |
 
 ---
 

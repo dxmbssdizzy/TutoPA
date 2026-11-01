@@ -28,6 +28,10 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A13 | Fuga de Magnus | **Runa por entregas en las comidas** durante time skip <2 sem.; Magnus comprende y **se la talla en ambas palmas con las uñas**; la fuga (Cap. 3) se **dispara con la muerte del padre**. | Biblia §9. |
 | A14 | Conversación padre-hijo (Cap. 2) | **100% desde el POV de Magnus;** Darius demuestra amor con actos, sin nombrar el parentesco (§9 reserva la revelación); Magnus hace las paces en silencio. Adoral solo muestra el entorno reaccionando. | Biblia §9, §5. |
 | A15 | Time skip del Cap. 2 | **<2 semanas para todos los POV salvo Seth** (cae «ahora» en la ruta de Iliana; único presente inmediato). Orden de POV: Eloy → Adoral → Iliana → Hope → Magnus → Seth. | Escaleta Cap. 2. |
+| A16 | Reparto norte/sur del Acto I | **Mildraugh cae en el Cap. 2** (visto oblicuo). El **contraplano** (carreta con Dorn, despedida Bron/Yiel, explosión de la mina, Hope viendo a Seth/Iliana) + **magnicidio + fuga de Magnus** = **Cap. 3**. | Biblia §16. |
+| A17 | Convento = puerta del horror | **Los Hijos de la Horca bajan a Mildraugh pasando por el convento.** El POV de Hope cierra el Cap. 2 viéndolos bajar sin comprender (bisagra con el estandarte de Iliana). | Biblia §11. |
+| A18 | Arco guerrero de Hope | De «la pequeña dama» a **Santa Hope de Mildraugh** (guerrera devota; «salvar a uno más»; intervención divina que cura a los suyos). Con salvaguardas. Dorn la entrena. | Biblia §11. |
+| A19 | Dorn, el leñador | **Ex-caballero de otras tierras**, cicatriz de espada en el rostro. Saca a Hope y Eloy de Mildraugh (petición de Bron/Yiel) y entrena a Hope. Se presenta en el POV de Hope (Cap. 2) sin destripar su pasado. | Biblia §11, §16. |
 
 ---
 
