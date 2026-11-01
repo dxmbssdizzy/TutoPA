@@ -494,13 +494,22 @@ Veterana endurecida que sabe que el mundo no es justo ni sencillo, frente al ide
 
 La fe puede ser hogar, comunidad, identidad, obediencia, memoria o modo de interpretar el sufrimiento. No debe ser mera fuente de exposición religiosa: influye en lo que desea, teme, justifica y considera sagrado, y en lo que hace cuando sus creencias dejan de bastar.
 
-### La diosa y el problema de la divinidad — DIRECCIÓN EXPLORATORIA
+### La diosa y el problema de la divinidad — CANON CONFIRMADO (v0.6, modelo B)
 
-Tentación: una diosa del culto se manifiesta y Seth acaba petrificándola como demostración de poder. En evaluación, no canon. Tres modelos: (A) diosa objetivamente real; (B) entidad real de divinidad discutible (ser antiguo o manifestación mal interpretada); (C) manifestación real pero incomprensible. Preferencia: explorar **B con elementos de C**.
+> Resuelto: la diosa de Hope es **real pero mortal** — una entidad antigua que depende de la fe humana para existir. Modelo **B** (entidad real de divinidad discutible). Deja elementos de **C** abiertos (ver conexión con Vigilantes).
 
-- ¿Qué es una diosa para quien no cree en ella?
-- Si Seth puede petrificarla, ¿deja de ser diosa o demuestra que la idea humana de divinidad es insuficiente?
-- La escena no debe existir solo para lucir el poder de Seth ni resolver fácil la fe de Hope. La magia necesita coste para que derrotar a una diosa no vuelva irrelevantes las amenazas posteriores.
+- **Una diosa agonizante.** La **Madre de los Caminos** (nombre de trabajo) es tan **antigua** que casi no le quedan seguidores. Es una divinidad en extinción: sin creyentes que la sostengan, **se muere**. El convento de Mildraugh era uno de sus últimos reductos de fe.
+- **La masacre del convento (Cap. 3) la debilita casi hasta el final.** Al perder a sus fieles de Mildraugh, la diosa queda al borde de desaparecer. *(Capa oculta bajo la masacre: el horror que arrasa el convento es, sin que el lector lo sepa aún, el golpe que casi mata a la diosa.)*
+- **La inversión fe→poder (corazón temático).** Desesperada, la diosa **busca a Hope en sueños** y le **ruega** que difunda su religión para no morir. Normalmente el fiel ruega al dios; aquí **el dios ruega al fiel**. Encaja con la tesis del libro sobre poder y devoción: la fe no es sumisión automática, es una **negociación**.
+- **Hope se niega — y le reprocha.** Hope le echa en cara su **egoísmo**: las veces que no la escuchó, las plegarias que no atendió *(eco directo del ave muerta del Cap. 1: la primera grieta de fe)*. La criatura reprochándole al creador. Al negarse, pone a la diosa en **riesgo de morir** (nadie más cree en ella).
+- **El pacto — puro Hope.** Hope acepta difundirla **con una condición**: que le permita **salvar a quienes lo necesiten**. No pide poder, ni gloria, ni venganza: pide **salvar**. (Semilla de su tragedia: Hope es «salvar a uno más» hecho persona; el mismo impulso que destruye a Seth a otra escala — ver arco guerrero.)
+- **La bendición — límite calibrado:** Hope obtiene el don de **sanar con sus plegarias**, con un límite preciso y deliberado: **no sana al instante — asegura que no mueran.** Los heridos siguen heridos, siguen sufriendo; solo que **no mueren mientras ella reza/sostiene**. Esto:
+  - Evita el botón de «resurrección» que trivializaría las batallas (riesgo que §11 avisaba).
+  - Mantiene el horror y el coste: escenas de Hope sosteniendo con su plegaria a multitudes de agonizantes que no pueden morir ni sanar. Tan terrible como hermoso.
+  - Produce **el milagro del campo de batalla** (gran victoria) y su consagración como **Santa Hope de Mildraugh** (ver arco guerrero).
+- **El coste de la bendición — DIRECCIÓN PREFERIDA (a precisar):** mantener vivos a los heridos **le cuesta a Hope** algo físico y brutal (agotamiento extremo; se destroza sosteniendo a los suyos). La **naturaleza profunda** del precio se deja **abierta** (coherente con el sistema de magia §4 —todo poder cobra— y con dejar el misterio mayor sin cerrar).
+- **Conexión con la ceniza / los Vigilantes — PREGUNTA ABIERTA (deliberada):** no decidir todavía si esta diosa antigua es de la misma naturaleza que lo que hay detrás de la ceniza o de los Vigilantes (§14). **Puerta abierta**: podría ser *una* de esas entidades antiguas mal interpretadas, sin confirmarlo. No cerrar el misterio mayor.
+- **Contraste con la tentación antigua (Seth petrifica a la diosa):** sigue sin ser canon. Si llega a ocurrir, ahora tiene más sentido: petrificar a una diosa ya **agonizante y mortal** no demuestra el poder de Seth, sino la insuficiencia de la idea humana de divinidad — y sería el golpe final a algo que Hope mantenía vivo casi sola.
 
 ### El arco guerrero: de «la pequeña dama» a Santa Hope de Mildraugh — CANON / DIRECCIÓN PREFERIDA (v0.6)
 
@@ -532,11 +541,12 @@ Su intención no debe volverse una obligación de salvar a Seth. Puede amarlo y,
 ### Preguntas abiertas de Hope
 
 - Objetivo personal al comienzo, separado de su fe y de Seth.
-- Cómo evoluciona su crisis de fe antes de conocer el destino de Seth (el ave es el primer paso).
-- ¿Conoce a la diosa antes de que Seth la petrifique, o la manifestación ocurre con su fe ya quebrada?
+- Cómo evoluciona su crisis de fe antes de conocer el destino de Seth (el ave es el primer paso; la trata del convento, el segundo).
+- ✅ *Resuelto (v0.6):* **conoce a la diosa en sueños** tras la masacre del convento, con su fe ya quebrada; la diosa le ruega y pactan (ver «La diosa y el problema de la divinidad»).
 - ¿Qué cree lograr al acompañar al Clérigo? ¿Redención, liberación, expiación, unión?
 - ¿Cuánto hay de lucidez y cuánto de desesperación o idealización en su decisión final?
 - Relación de su sacrificio con el reinicio y con la imagen inicial de Seth.
+- **Nuevas (v0.6):** nombre definitivo de la diosa (trabajo: «Madre de los Caminos»); naturaleza exacta del **coste** de la bendición; si la diosa conecta con la ceniza/los Vigilantes; cómo se difunde la religión (¿Hope predicadora, o su leyenda de santa difunde la fe por ella?); qué queda de la diosa si Hope muere.
 
 ---
 
@@ -884,6 +894,7 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.6)** | **Los Hijos de la Horca bajan a Mildraugh pasando por el convento** (la fe como puerta del horror). El POV de Hope cierra el Cap. 2 viéndolos bajar sin comprender (bisagra con el estandarte que vio Iliana). | **§11 (red de trata) ampliada.** |
 | **31 oct 2026 (v0.6)** | **Arco guerrero de Hope:** de «la pequeña dama» a **Santa Hope de Mildraugh** (guerrera devota, «salvar a uno más», ref. Desmond Doss + Juana de Arco; intervención divina que cura a los suyos). Con salvaguardas (coste/ambigüedad; «santa» = símbolo usable; «salvar a todos» = mismo error que Seth). | **§11 (nueva subsección).** |
 | **31 oct 2026 (v0.6)** | **Dorn, el leñador ex-caballero** (cicatriz de espada que le cruza el rostro, de otras tierras). Saca a Hope y Eloy de Mildraugh y entrena a Hope en la espada. | **§11 (nueva subsección); §16.** |
+| **31 oct 2026 (v0.6)** | **La diosa resuelta (modelo B):** entidad antigua y **mortal**, casi sin fieles; la masacre del convento la debilita; busca a Hope en sueños y le ruega difundirla; Hope se niega y le reprocha; pactan: Hope difunde la fe a cambio de **salvar** → bendición de **sanar (no al instante: asegura que no mueran)** → milagro del campo de batalla → «Santa Hope». Coste real a precisar; conexión con Vigilantes abierta. | **§11 («La diosa y el problema de la divinidad») reescrita a CANON.** |
 
 ---
 

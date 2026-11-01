@@ -32,6 +32,7 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A17 | Convento = puerta del horror | **Los Hijos de la Horca bajan a Mildraugh pasando por el convento.** El POV de Hope cierra el Cap. 2 viéndolos bajar sin comprender (bisagra con el estandarte de Iliana). | Biblia §11. |
 | A18 | Arco guerrero de Hope | De «la pequeña dama» a **Santa Hope de Mildraugh** (guerrera devota; «salvar a uno más»; intervención divina que cura a los suyos). Con salvaguardas. Dorn la entrena. | Biblia §11. |
 | A19 | Dorn, el leñador | **Ex-caballero de otras tierras**, cicatriz de espada en el rostro. Saca a Hope y Eloy de Mildraugh (petición de Bron/Yiel) y entrena a Hope. Se presenta en el POV de Hope (Cap. 2) sin destripar su pasado. | Biblia §11, §16. |
+| A20 | La diosa de Hope (modelo B) | **Entidad antigua y mortal**, casi sin fieles; la masacre del convento la debilita; busca a Hope en sueños a rogarle que la difunda; Hope se niega/reprocha; pactan: difundir la fe a cambio de **salvar** → don de **sanar (no al instante; asegura que no mueran)** → milagro de batalla → «Santa Hope de Mildraugh». Nombre de trabajo: **Madre de los Caminos** (ya usado en el manuscrito). Coste y conexión con Vigilantes: abiertos. | Biblia §11. |
 
 ---
 
