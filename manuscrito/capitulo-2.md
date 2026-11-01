@@ -902,3 +902,129 @@ No rezó. Nunca rezaba. Pero aquella noche, con las palmas ardiendo y los pasos 
 No se lo dio. Los reinos no dan tiempo. Lo quitan.
 
 Y en algún lugar de la ciudad, sobre una mesa de cuentas rayada en un almacén que no era de nadie, tres hombres ya habían decidido cuánto le quedaba.
+
+
+# SETH
+
+
+Volvió al mundo por el dolor, igual que la primera vez.
+
+No supo dónde estaba. No supo quién era —eso ya era costumbre, una ausencia con la que había despertado una vez y que empezaba a reconocer como el único suelo firme bajo sus pies—, pero esta vez a la ausencia se sumaba el desorden: el mundo se sacudía, lo zarandeaba de un lado a otro, y había un olor a animal y a cuero muy cerca de su cara, y un ritmo de golpes bajo el cuerpo que tardó en reconocer como los cascos de un caballo al trote. Estaba boca abajo, doblado sobre algo que se movía. Cada sacudida le clavaba un dolor nuevo en la cabeza, en el hombro, en las costillas, en una lista de sitios tan larga que renunció a contarlos.
+
+Después, los gritos.
+
+Llegaron de todas partes a la vez, y con ellos el mundo recuperó de golpe la velocidad que el aturdimiento le había quitado. Gritos de hombres. No de miedo: de entusiasmo. Esa fue la primera cosa que la mente de Seth, todavía a medio encender, identificó como profundamente equivocada. Conocía —sin saber de dónde— el sonido del miedo, y aquello no lo era. Los hombres que gritaban lo hacían como quien celebra, como quien ha esperado mucho una fiesta y por fin ha llegado, y bajo los gritos corría, hilándolos, una melodía ronca, una canción que varias gargantas cantaban a la vez sin preocuparse de afinar.
+
+El caballo se encabritó. Seth resbaló.
+
+Cayó al suelo nevado desde la grupa, de mala manera, y el golpe le arrancó el poco aire que había logrado reunir. Rodó sobre el costado. Por un instante el cielo gris giró sobre él, el mismo cielo de ceniza bajo el que había despertado la primera vez, y Seth tuvo la sensación vertiginosa de que no había pasado el tiempo, de que seguía en aquellas ruinas, de que todo cuanto creía haber vivido desde entonces —¿cuánto?, ¿horas?, ¿días?— no había sido más que el último pensamiento de un hombre que se moría.
+
+Entonces una bota le pasó rozando la cara, y la ilusión se rompió.
+
+Se incorporó sobre un codo. A su alrededor, el claro del bosque se había convertido en otra cosa. Había una mujer —la mujer, comprendió, aunque no recordaba haberla visto nunca: la que debía de haberlo subido al caballo, porque no había otra explicación para que él estuviera allí en lugar de muerto en la nieve donde fuera que lo hubiera dejado—, y la mujer peleaba. Peleaba bien, con una economía de movimientos que Seth, sin saber por qué, fue capaz de apreciar como se aprecia algo que uno entiende: no malgastaba un gesto, cubría siempre el flanco, retrocedía hacia la pared de roca para que no la rodearan. Pero eran demasiados. Tres, cuatro, cinco siluetas oscuras cerrándose sobre ella, y de entre los árboles salían más, y la canción no paraba.
+
+Seth los vio bien por primera vez, y algo en él —algo anterior a la memoria, anterior al nombre que no tenía— se rebeló.
+
+No eran soldados. No llevaban orden ni uniforme; llevaban harapos y pieles y correas de las que colgaban cosas que Seth, por un momento de piedad involuntaria hacia sí mismo, decidió no mirar de cerca. Tenían la cara pintada o tiznada, no sabía cuál de las dos, y se movían con esa alegría atroz que convierte la crueldad en juego. Uno de ellos sostenía en alto, por costumbre más que por necesidad, una lanza de la que colgaba un estandarte empapado: un hombre ahorcado, y donde debería ir la soga, un cordón. Seth no sabía qué significaba. No le hizo falta. Hay cosas que no necesitan explicarse para entenderse, y aquel trapo era una de ellas.
+
+La mujer cayó sobre una rodilla. Un tajo le había alcanzado el muslo —Seth lo vio, vio el rojo extenderse deprisa sobre la tela—, y uno de los hombres, el de la lanza del estandarte, echó el brazo atrás para rematarla con una lentitud golosa, saboreándolo, cantando.
+
+Seth no decidió moverse. Eso fue lo extraño, lo que lo perseguiría después cuando intentara reconstruir aquel instante: que no hubo decisión. No pensó *debo ayudarla*, no sopesó, no calculó las posibilidades como la mujer habría calculado. Simplemente se encontró de pie, sin recordar haberse levantado, y se encontró lanzándose contra el hombre de la lanza, y se encontró —esto fue lo más raro de todo— **sabiendo** lo que hacía con el cuerpo aunque no supiera hacerlo con la cabeza.
+
+Le arrebató a un caído la espada antes de ser consciente de que había un caído, o una espada. Y en cuanto el peso del acero le llenó la mano, algo despertó en el brazo. No una técnica —no habría sabido nombrar una sola guardia, un solo nombre de golpe—, sino algo más hondo y más tonto: una costumbre. El cuerpo recordaba. Las manos sabían cerrar sobre la empuñadura en el ángulo correcto; los pies sabían, vagamente, que no debían cruzarse; el hombro sabía de dónde sale la fuerza de un tajo. No era destreza. Era la sombra de una destreza, el surco que deja un oficio repetido mil veces en la carne de un hombre mucho después de que la mente haya olvidado el oficio y hasta el nombre del hombre.
+
+Fue torpe. Fue, de hecho, bastante malo. El primer golpe de Seth erró por un palmo y estuvo a punto de hacerle perder el equilibrio; el segundo chocó contra el asta de la lanza con más suerte que arte y le entumeció el brazo hasta el codo. No era un guerrero. Era un cuerpo con memoria de haberlo sido, manejado por una mente que no recordaba nada, y la diferencia se notaba en cada movimiento inseguro, en cada paso de más, en el modo en que el acero le pesaba como si fuera la primera vez y a la vez le resultaba terriblemente familiar.
+
+Pero bastó para lo único que tenía que bastar: para que el hombre de la lanza dejara de mirar a la mujer y empezara a mirarlo a él.
+
+—¡Detrás! —gritó la mujer, y era la primera palabra humana que Seth oía en aquel claro que no fuera una canción, y le sonó, absurdamente, a hogar.
+
+Se agachó por instinto. Una hoja le pasó por encima, donde había estado su cuello. Rodó, se levantó mal, volvió a plantar los pies. El de la lanza se le venía encima; Seth paró el golpe de pura chiripa, sintió el impacto subirle por los huesos, y respondió con un tajo feo, sin forma, que sin embargo encontró carne porque el otro había cantado en lugar de cubrirse, demasiado acostumbrado a matar a gente que no devolvía los golpes.
+
+Vio, en los huecos de la pelea, lo que aquellos hombres hacían, y lo vio del modo en que se ven las cosas que no se olvidan: a trozos, sin orden, con una nitidez atroz en los detalles equivocados. Vio que no mataban deprisa. Que a uno de los suyos caído lo remataban dos de ellos tomándose su tiempo, turnándose, sin dejar de cantar. Vio que lo que colgaba de sus correas no eran trofeos de guerra sino de personas, y que los llevaban con el orgullo tranquilo de quien exhibe una fe. Comprendió, sin palabras, que aquello no era una banda de ladrones hambrientos a los que el invierno había echado de sus casas —la clase de desesperados que roban para comer y matan solo si se los obliga—; era otra cosa, peor, más antigua. Hombres para quienes el dolor ajeno no era un medio sino un rito. Que mataban como otros rezan. Y que bajaban hacia el valle, hacia el fuego que aún no ardía, con la misma alegría con que habían subido a aquel claro: la de quien va a una celebración.
+
+Algo en Seth —el mismo algo que lo había puesto de pie— se endureció al entenderlo. No fue odio; no tenía memoria suficiente para odiar, el odio necesita un pasado y él no lo tenía. Fue una certeza más simple y más fría: la de que había cosas en el mundo que no debían seguir existiendo, y que si su cuerpo roto y sin nombre servía para que una de ellas existiera un poco menos, entonces para eso serviría.
+
+A partir de ahí, Seth dejó de intentar entender lo que hacía y dejó que el cuerpo lo hiciera.
+
+No fue elegante. Él y la mujer peleaban mal juntos —no se conocían, no se coordinaban, se estorbaban tanto como se cubrían—, pero peleaban, y los Hijos de la Horca, que habían venido a una matanza y no a una batalla, no sabían del todo qué hacer con dos presas que devolvían el hierro. Seth recibió un corte en el antebrazo que no sintió hasta mucho después. Resbaló en la nieve roja y estuvo a punto de ensartarse él solo. Salvó a la mujer una vez, torpemente, metiendo la espada donde no debía haber llegado a tiempo y llegando de milagro; ella lo salvó a él dos, con una eficacia seca que a Seth, en mitad de todo, le arrancó algo parecido a la admiración. Eran un desastre. Pero eran un desastre vivo, y los otros, uno a uno, dejaron de estarlo o dejaron de tener ganas de averiguar cuánto les costaría acabar el trabajo.
+
+Los últimos tres huyeron. No por miedo —Seth lo entendió al verlos marchar sin prisa, recogiendo su estandarte empapado, aún canturreando— sino por cálculo: tenían un pueblo entero esperándolos valle abajo, presas más fáciles, una fiesta mayor. Dos desconocidos tercos en un claro no valían el esfuerzo. Se fueron como se va de una casa cuando hay otra mejor en la misma calle.
+
+El silencio que dejaron fue repentino y enorme.
+
+---
+
+Seth se quedó de pie en medio del claro, con la espada ajena colgándole de una mano que había empezado a temblar, respirando como si el aire se le escapara por los cortes. La nieve a su alrededor estaba pisoteada, negra de sangre y de barro. Había cuerpos. No los miró. Descubrió que no quería saber cuántos de ellos había dejado así él, con aquel cuerpo que sabía cosas que él no sabía, y decidió —otra decisión que no fue decisión— archivar esa pregunta con todas las demás que no tenían respuesta.
+
+La mujer se había dejado caer contra la pared de roca, con las dos manos apretadas sobre el muslo herido. Estaba pálida, apretaba los dientes, y lo miraba a él con una expresión que Seth no supo leer: no era gratitud, desde luego. Era algo más complicado. Era el modo en que se mira un resultado que no cuadra con ninguna de las cuentas que uno había hecho.
+
+Seth se acercó. Soltó la espada —le pareció de pronto obsceno seguir sosteniéndola— y se arrodilló junto a ella, torpe, sin saber qué hacer con las manos ahora que no empuñaban nada.
+
+—Déjame ver —dijo. La voz le salió ronca, rota, como si llevara siglos sin usarla; quizá los llevaba.
+
+—No me toques. —ella apartó el cuerpo, un reflejo seco, instintivo, el de alguien a quien tocar sin permiso le había costado caro alguna vez—. Estoy bien.
+
+—No estás bien. Estás sangrando.
+
+—Las dos cosas pueden ser ciertas. —apretó más fuerte, y una mueca la traicionó—. He tenido peores.
+
+Seth no insistió con las manos, pero no se movió. Se quedó allí, arrodillado a una distancia prudente, mirándola apretarse la herida con una terquedad que le resultó, también ella, vagamente familiar, como si en algún lugar de su vida borrada hubiera conocido a alguien que prefería desangrarse antes que aceptar una mano. Se quitó la capa —la capa oscura, hecha jirones, que no recordaba haberse puesto nunca— y se la tendió, doblada, sin tocarla a ella.
+
+—Para apretar —dijo—. No voy a tocarte. Solo… úsala tú.
+
+La mujer lo miró. Miró la capa. Miró de nuevo su cara, largamente, con esa atención incómoda de quien intenta resolver un problema mirándolo muy fijo. Y por fin, sin dar las gracias, cogió la tela y se la apretó ella misma sobre el muslo.
+
+—¿Por qué lo has hecho? —preguntó. No sonó amable. Sonó a interrogatorio.
+
+—¿El qué?
+
+—Meterte. —hizo un gesto con la barbilla hacia el claro, hacia los cuerpos que Seth no quería contar—. Estabas desmayado en mi caballo. Podrías haberte quedado tirado, haberte hecho el muerto. Nadie te habría culpado. Yo misma te habría dejado si llega a ser al revés. —entrecerró los ojos—. En cambio te levantas, medio roto, sin saber ni dónde estás, y te tiras contra un hombre con una lanza para proteger a una desconocida que te ha subido a un caballo solo porque le dio la gana. Eso no lo hace nadie. Los que hacen eso están muertos a los quince años. —una pausa—. Así que o eres idiota, o eres otra cosa, y llevo toda la vida aprendiendo a distinguir las dos, y contigo no me sale la cuenta.
+
+Seth consideró la pregunta con la seriedad que merecía, porque era, se dio cuenta, la misma pregunta que se estaba haciendo él.
+
+—No lo sé —dijo al fin—. No… lo pensé. No decidí hacerlo. Simplemente lo hice. —se miró las manos, los cortes, la sangre que no sabía de quién era—. Igual que no decidí respirar cuando desperté. Es solo que, cuando te vi en el suelo, supe que no podía quedarme quieto. No de una manera que pueda explicarte. Supe que no podía, igual que uno sabe que no puede meter la mano en el fuego. No es valor. Ni siquiera estoy seguro de que sea bueno. Es solo… algo que hay en mí antes que yo. Algo que estaba ya cuando desperté sin lo demás.
+
+La mujer lo miró un rato muy largo. Y Seth vio cómo algo cambiaba en su cara —no se ablandaba, exactamente; más bien se complicaba, como si acabara de añadir una columna nueva a una cuenta que creía cerrada—, y entendió, sin saber del todo cómo, que acababa de decir la verdad y que la verdad, por una vez, había sido más desarmante que cualquier mentira.
+
+—Lástima —murmuró ella, para sí misma, con una media sonrisa amarga que no iba dirigida a él—. Me da lástima. Mira que es idiota la cosa. —negó con la cabeza, hablando ya casi sola—. Un desconocido medio muerto se tira por mí contra los lobos, y lo que siento no es alivio, ni deuda. Es lástima. Porque los que son así no llegan a viejos. Y una ya está cansada de enterrar a los que son así.
+
+Seth no entendió del todo lo que quería decir. Pero entendió que no se lo decía a él, y tuvo el tacto —otra cosa que estaba en él antes que él— de no preguntar.
+
+---
+
+Fue poco después, mientras ella se vendaba el muslo con tiras de su propia camisa y él recuperaba el aliento sentado en una piedra, cuando los dos lo vieron a la vez.
+
+Al fondo del valle, donde al caer la tarde debería haber empezado a encenderse el humo tranquilo de los hogares —el mismo humo doméstico que la mujer había mirado horas antes con un alivio que ya no recordaba—, crecía ahora otra cosa. No humo de cocinas. Una columna espesa, negra por abajo y roja por arriba, que subía hacia el cielo gris y lo manchaba, y que se ensanchaba a ojos vista, alimentada por algo mucho mayor que un fuego de leña. Un resplandor anaranjado latía en la base, pulsando como un corazón enfermo, allá abajo, en el fondo del valle, en el lugar exacto hacia el que los dos se dirigían y del que acababa de huir, canturreando, la partida que los había atacado.
+
+Ninguno dijo nada durante un rato. No hacía falta ser de allí para leer aquel fuego. Un pueblo. Un pueblo entero ardiendo al anochecer, demasiado lejos para oír los gritos, lo bastante cerca para ver las llamas.
+
+—Mildraugh —dijo la mujer en voz baja, y por primera vez desde que Seth había vuelto en sí, algo en su voz dura se quebró—. Iba a Mildraugh.
+
+Seth miró el fuego. No sabía qué era Mildraugh. No sabía que en aquel pueblo había un muchacho rubio que reparaba relicarios con preguntas en la cabeza, ni una muchacha que rezaba como quien discute, ni un leñador con la cara partida que afilaba su hacha pensando ya en la huida. No sabía que el resplandor que crecía al fondo del valle era, en aquel mismo instante, el final de un mundo y el principio de varios. No sabía nada de nada; era, otra vez, un hombre sin memoria mirando un desastre ajeno bajo un cielo de ceniza.
+
+Pero sintió —y esto sí, esto lo reconoció, porque era lo mismo que había sentido entre las ruinas sosteniendo un cuerpo que se deshacía— la vieja punzada de haber llegado tarde a un lugar donde todavía debía existir alguien.
+
+—¿Llegamos a tiempo? —preguntó. Y no sabía a tiempo de qué, pero lo preguntó igual, porque el cuerpo que sabía blandir espadas sin recordar también sabía, por lo visto, hacer esa pregunta.
+
+—No —dijo la mujer—. A eso no se llega nunca a tiempo. —se puso de pie apoyándose en la roca, probó el peso sobre la pierna herida, apretó los dientes y aguantó—. Pero hay recursos en un pueblo que arde. Agua, vendas, caballos sueltos. Y la gente que huye de un fuego necesita a veces que alguien la detenga antes de que corra hacia uno peor. —lo miró—. Voy a bajar. No porque sea valiente. Porque estoy herida y necesito lo que haya quedado abajo, y porque no sé hacer otra cosa que ir hacia los sitios de los que todos huyen. Tú haz lo que quieras. No me debes nada. Más bien al revés.
+
+Recogió las riendas del caballo, que había vuelto a acercarse, tembloroso, al cesar los gritos. Y antes de montar —con dificultad, con la pierna rígida— se volvió hacia él una última vez, con una mezcla de fastidio y de algo que no era fastidio.
+
+—Si vienes, necesito saber cómo llamarte. No pienso gritar «eh, tú» cada vez que te vayas a hacer matar. —lo miró de arriba abajo, el pelo negro, la cara pálida, la expresión perdida—. Te vi murmurar algo mientras estabas desmayado. Un nombre, me pareció. No lo entendí bien. Sonaba a… no sé. Para mí eras «el muerto que resultó no estarlo». Pero eso es largo. Así que, hasta que recuerdes otra cosa, te voy a llamar…
+
+—Seth.
+
+La palabra salió de él antes de que la mujer terminara. Salió sola, limpia, sin que Seth la buscara, igual que había salido la espada de la mano del caído y el impulso de interponerse: desde ese lugar de debajo de la memoria donde su cuerpo guardaba lo que su mente había perdido.
+
+Se quedó tan sorprendido como ella. Lo repitió, más despacio, probándolo, como se prueba una llave en una cerradura a oscuras.
+
+—Seth. Me llamo Seth. —y aunque no tenía ni un recuerdo, ni una cara, ni una historia que respaldara aquella certeza, supo, con la misma seguridad tonta con que había sabido que no debía soltar un cuerpo de ceniza, que aquello era cierto. Que de todo lo que había perdido, el nombre era lo único que había vuelto. Un nombre, y nada más: sin rostro, sin pasado, sin saber si era suyo de verdad o el de alguien a quien había querido, o perdido, o sido, en una vida de la que no le quedaba ni el eco—. No sé de dónde lo saco. Pero es ese. Estoy seguro de que es ese.
+
+La mujer lo miró desde la grupa del caballo, con el fuego de Mildraugh ardiéndole a la espalda, tiñéndole de naranja el borde del pelo.
+
+—Iliana —dijo, tras un momento, como quien devuelve algo que no está segura de querer prestar—. Ya que estamos.
+
+Y espoleó hacia el valle en llamas, hacia el pueblo que ardía, hacia todo lo que el fuego significaba y que ninguno de los dos sabía todavía nombrar; y Seth, que no tenía ningún motivo para seguirla y todos los motivos del mundo para echar a correr en la dirección contraria, recogió la espada ajena de la nieve y fue tras ella, cojeando, sangrando, vivo sin saber por qué, hacia el resplandor.
+
+A su espalda, el claro quedó en silencio, con sus muertos y su nieve pisoteada. Y por encima del valle, el cielo —gris de nubes por el oeste, naranja de incendio por el fondo— siguió, impasible, haciendo lo único que sabía hacer sobre las cosas de los hombres: mirar, y no decir nada, y esperar a que la ceniza subiera a su encuentro.
