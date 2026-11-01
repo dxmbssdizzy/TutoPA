@@ -780,3 +780,125 @@ Lo averiguaría. Tenía toda la paciencia del mundo, y, por primera vez en veint
 Guardaría esa puerta para el final. Las mejores, siempre se guardan para el final.
 
 Salió al frío del puerto, y la primera luz, cuando llegó, lo encontró ya lejos, caminando sin prisa hacia la ciudad que dentro de muy poco iba a quedarse, por su mano y la de otros dos, sin su único hombre honrado.
+
+
+# MAGNUS
+
+
+Para cuando llegó el séptimo trazo, Magnus ya había dejado de creer que fueran un accidente.
+
+Habían venido despacio, a lo largo de las semanas, uno por vez, siempre del mismo modo: bajo el cuenco, envueltos en la misma clase de papel basto, cada uno con una frase breve y corriente en el anverso —*aguanta*, *pronto*, *no ceses*, cosas que podían ser de cualquiera— y, en el reverso, un trazo. Siempre un trazo distinto. Una curva aquí, una recta quebrada allá, un punto solo, una vez, que lo tuvo tres días convencido de que alguien se estaba burlando de él. Al principio los había descartado uno a uno, igual que había descartado el primero: tinta sobrante, prueba de pluma, el garabato de una mano con prisa. Pero Magnus contaba cosas. Era lo único que la prisión no había logrado quitarle, y un hombre que cuenta acaba, tarde o temprano, viendo las series donde los demás solo ven ruido.
+
+Siete papeles. Siete trazos. Y una noche, sin proponérselo, mientras giraba el sexto bajo la línea de luz por puro aburrimiento, se dio cuenta de que el quiebro final del sexto encajaba exactamente donde empezaba la curva del tercero. No era casualidad. No podía serlo. Los trazos no eran siete garabatos: eran siete pedazos de un solo dibujo, troceado y repartido en el tiempo para que ningún guardia que interceptara un papel —ni el propio preso, si era un soplón— pudiera reconstruir el conjunto a partir de una sola pieza.
+
+Aquella noche Magnus extendió los siete papeles sobre la manta, en el suelo, bajo la rejilla de luz, y se pasó horas moviéndolos como quien resuelve un juego de niños endiablado. Le faltaban piezas; lo sabía, porque los bordes de lo que iba armando pedían a gritos trazos que todavía no habían llegado. Pero ya se adivinaba la forma. Una figura cerrada, de líneas que se cruzaban sobre sí mismas con una lógica interna que Magnus no entendía pero que *sentía*, del mismo modo en que se siente que una frase en una lengua desconocida es una frase y no un montón de sonidos. Aquello significaba algo. Aquello **hacía** algo. No sabía qué, ni cómo, ni quién se lo mandaba. Solo sabía, con una certeza que no venía de la razón, que tenía entre las manos la primera cosa en meses que el edificio no controlaba.
+
+Y no podía dejar de mirarla.
+
+Era —pensó, con una media sonrisa amarga en la oscuridad— exactamente lo que le pasaba a los demás con las cosas que de verdad importan: que no se eligen. Él, que había hecho de no obedecer su única religión, se descubría obedeciendo a una serie de rayas sin firma, mirándolas como un devoto mira un ícono, con la misma mezcla de incomprensión y certeza. En algún lugar de Adoral —o más lejos, quién sabía— había una mano que le enviaba, trozo a trozo, una llave. Y Magnus, que desconfiaba por oficio de todo lo que entrara en su celda, había decidido confiar en aquella raya partida por la única razón por la que un preso confía en algo: porque era lo único que tenía.
+
+---
+
+Comprenderla del todo le llevó aún más tiempo, y le llegó de la peor manera: no entendiéndola con la cabeza, sino con las manos.
+
+Faltaban dos trazos todavía, pero Magnus ya no podía esperar a tenerlos para empezar a probar. Reconstruía la figura de memoria sobre el polvo del suelo, la borraba, la volvía a trazar, la corregía. Una noche, sin pensarlo demasiado, la dibujó sobre la palma de su propia mano con la uña del índice, apretando apenas, solo para sentir el recorrido de la línea en la piel en lugar de en la piedra. Y algo —no supo describirlo mejor que así— algo *respondió*. Un calor mínimo, un hormigueo, como el de un miembro dormido que empieza a despertar, recorriéndole la palma por el trazado exacto de la figura.
+
+Se quedó muy quieto. Lo repitió. El mismo calor, un poco más fuerte.
+
+No era magia como la de los cuentos. No hubo luz, ni fuego, ni voces. Fue algo mucho más íntimo y más aterrador: la sensación de que su propio cuerpo reconocía aquella forma, de que la figura no estaba hecha para el papel ni para la piedra sino para la carne, y de que la carne, al recibirla, se acordaba de algo que Magnus no sabía que supiera. Comprendió entonces —de golpe, como se comprenden las cosas verdaderas, sin pasos intermedios— dos verdades a la vez. La primera: que aquella llave no abría una puerta de madera. Abría algo más grande, algo prohibido, algo de lo que la gente hablaba en voz baja cuando hablaba de la vieja guerra de los magos. La segunda: que para usarla no bastaba con dibujarla. Había que **grabarla**. Que la piel tenía que recordarla no durante un instante, sino siempre.
+
+Magnus miró la uña rota de su índice. Después miró la palma de su mano, abierta bajo la luz, surcada por las líneas que todos los hombres tienen y por las que ninguno sabe leer.
+
+No lo dudó tanto como debería. Esa fue, pensaría después, la medida exacta de lo desesperado que estaba: que la decisión de abrirse la carne con las propias uñas, de tallarse en ambas palmas una figura que no comprendía enviada por una mano que no conocía, le costó menos deliberación que cualquiera de las conversaciones que había tenido con el guardia de la cicatriz.
+
+Empezó aquella misma noche.
+
+Fue lento, y fue sucio, y dolió de un modo limpio y creciente que —para su propia sorpresa— no le resultó del todo insoportable. Había algo casi sereno en el dolor que uno se inflige por una razón, tan distinto del que otros te infligen por ninguna. Rascaba la línea una y otra vez sobre la misma herida, noche tras noche, abriendo apenas, dejando que cerrara mal, volviendo a abrir sobre la costra para que la marca se asentara en relieve en lugar de borrarse como se habían borrado sus rayas de la pared. Una mano y luego la otra. Aprendió a hacerlo en la oscuridad, por el tacto, para que la luz de la mirilla no lo delatara. Aprendió a comer y a sostener la taza con los dedos de modo que las palmas, en carne viva, no rozaran nada delante del guardia. Aprendió a apretar los puños cuando alguien se acercaba, como quien esconde en las manos lo único que le queda.
+
+Y mientras se tallaba, mientras la figura iba quedando grabada en su carne surco a surco, sentía crecer bajo las palmas aquel calor que ya no era mínimo. Algo se acumulaba. Algo esperaba. Magnus no sabía qué lo soltaría —qué palabra, qué gesto, qué instante haría que todo aquel calor contenido se convirtiera por fin en acto—, pero sabía que estaba allí, cargado, como el aire pesado y quieto que precede a las tormentas que de niño veía llegar sobre los tejados del sur.
+
+Siguió, mientras tanto, plantando sus semillas. No lo dejó, ni siquiera entonces, con las manos en carne viva y una llave prohibida grabándose en ellas; al contrario, lo hizo con más cuidado que nunca, porque había aprendido que un hombre que trama algo grande debe parecer, por fuera, exactamente el mismo de siempre. De modo que siguió preguntando por los enfermos de abajo. Siguió ofreciendo su parte de pan. Y una noche, cuando el guardia de la cicatriz le bajó la sopa fría de los lunes, Magnus notó algo que no esperaba: que el hombre, al dejar la bandeja, miró un instante de más hacia sus manos cerradas, y después, en lugar de preguntar, apartó la vista deprisa. Como quien ha decidido no ver.
+
+—¿Cómo están tus hijos? —preguntó Magnus, por decir algo, por cubrir aquel silencio incómodo.
+
+—Comen —dijo el guardia. Y, tras una pausa, con una aspereza que no lograba del todo esconder lo que había debajo—: Esta semana comen mejor. Dicen que el rey ha mandado revisar no sé qué de las raciones. De los presos y de los que los guardan. —se encogió de hombros, incómodo con su propia gratitud—. Será mentira. Siempre lo es.
+
+Magnus no respondió enseguida. Pensó en su padre, en algún lugar sobre ellos, firmando papeles que a un carcelero de los sótanos le llenaban por fin el plato de sus hijos, y sintió otra vez aquella cosa pequeña y tozuda que no era rabia. La escondió, como escondía las manos.
+
+—A lo mejor esta vez no es mentira —dijo solamente.
+
+El guardia lo miró raro, como se mira a un preso que de pronto defiende a quien lo encierra, y se marchó sin contestar. Pero no borró, aquella noche, la raya que Magnus había vuelto a hacer sin querer en el polvo del suelo. Y Magnus, que lo contaba todo, contó también eso: que por primera vez en meses, el hombre de la cicatriz había salido de su celda un poco menos seguro de cómo funcionaba el mundo. Una semilla más. La más pequeña de todas, y quizá la única que vería germinar.
+
+Lo que no sabía era qué esperaba. Y lo que esperaba, aunque él aún lo ignorase, no era un trazo más ni una palabra mágica.
+
+Era una noticia.
+
+---
+
+El rey bajó a la celda un atardecer, sin anunciarse.
+
+Magnus lo supo por los pasos, como lo sabía todo. No eran los diecinueve del guardia ni los lentos y arrastrados del viejo leal. Eran unos pasos que no encajaban en el corredor: demasiado firmes para un preso, demasiado solos para un carcelero —nadie bajaba solo a aquel sótano—, acompañados de un roce de tela que no era de hábito ni de librea, sino de algo más pesado, más caro, que arrastraba levemente por la piedra. Magnus cerró los puños sobre las palmas grabadas por puro instinto, escondió las manos en las mangas, y se levantó.
+
+La figura que apareció al otro lado de la rejilla lo hizo retroceder medio paso antes de que pudiera impedírselo.
+
+No lo había visto de cerca en años. En su memoria, el rey era un hombre grande, erguido, de voz que llenaba las salas; el padre que, de niño —cuando aún se le permitía a Magnus una proximidad que después la política haría imposible—, lo levantaba en brazos por encima de las almenas para que viera la ciudad. El hombre que estaba al otro lado de los barrotes no era aquel. Era un viejo. Se había quedado viejo de una manera que a Magnus, absurdamente, le dolió más que cualquiera de las cosas que el rey le había hecho o dejado de hacer: los hombros vencidos, la piel floja en el cuello, las manos —esas manos que lo habían alzado sobre las almenas— manchadas ya por la edad. Solo los ojos seguían siendo los mismos. Cansados, pero los mismos.
+
+Ninguno de los dos dijo nada durante un rato largo. Se miraron a través de la rejilla, el rey de pie en el corredor, el preso de pie en la celda, dos hombres separados por una reja de hierro y por todo lo que no podían decirse.
+
+—Estás más flaco —dijo el rey al fin. Fue lo primero que se le ocurrió, y Magnus oyó, bajo las tres palabras torpes, todo el peso de lo que el hombre no sabía cómo empezar a decir.
+
+—Tú estás más viejo.
+
+—Sí. —una sombra de sonrisa, apenas—. En eso al menos los dos cumplimos con lo que se espera de nosotros.
+
+Magnus no sonrió. No podía. Tenía delante al hombre que podía abrir aquella puerta con una sola orden y que, durante meses, había elegido cada día no darla; al hombre que lo había encerrado; al hombre que lo había visto de niño y que ahora lo miraba a través de una reja como se mira una cuenta pendiente. Toda la rabia que le había servido de abrigo tantas noches estaba ahí, intacta, pidiendo salir. Y, sin embargo, por debajo de la rabia, en un sitio que Magnus había clausurado hacía mucho y que odiaba descubrir todavía abierto, había otra cosa, pequeña y tozuda, que no era rabia en absoluto y que la visión de aquellas manos manchadas por la edad acababa de despertar.
+
+No la nombró. No pensaba nombrarla. Ninguno de los dos iba a nombrar nada aquella tarde, y los dos lo sabían, y esa era quizá la única cosa en la que estaban completamente de acuerdo.
+
+—He venido a decirte algo —dijo el rey—. No a discutir. Lo segundo lo hemos hecho ya bastante, y nunca se nos ha dado bien.
+
+—En eso también cumplimos.
+
+El rey dejó pasar la pulla. Apoyó una mano en el barrote —no para abrirlo, no tenía la llave, había bajado solo y sin llave, lo cual Magnus registró y guardó sin saber aún qué significaba— y habló despacio, escogiendo las palabras como quien camina sobre un hielo que sabe fino.
+
+—He ordenado una revisión de las cuentas de la casa Aurelvar. Una de verdad. Inspectores de la corona dentro de sus libros, sin aviso. —hizo una pausa—. Sé lo que eso provoca. Lo he hecho igual.
+
+Magnus no dijo nada. Pero algo se le tensó por dentro, porque aquello —fuera lo que fuera que su padre estaba haciendo— no era la clase de gesto prudente que esperaba de él.
+
+—Y he ordenado otra cosa. —el rey bajó aún más la voz—. Un censo de los detenidos traídos de los barrios del sur. Cuántos hay. Por qué están presos. Quién los detuvo y bajo qué cargo. Y que se cumplan, con ellos, las ordenanzas que llevan décadas escritas y que nadie se ha molestado nunca en aplicar. Las de la comida. Las del descanso. Las del derecho a que alguien responda cuando preguntan por ellos. —lo miró a los ojos—. No son leyes nuevas. Son las viejas. Solo que, por una vez, van a existir también los días en que pueden proteger a alguien.
+
+Magnus se quedó muy quieto.
+
+Conocía aquellas palabras. Las conocía porque eran suyas. Eran, casi exactas, lo que había escrito en su petición —*no pueden pedirme que confíe en las leyes si las leyes solo existen cuando les convienen*—, traducido ahora de la boca de un preso a los actos de un rey. Su padre no había respondido a la petición con una orden de liberación ni con una visita de administradores ni con el silencio que Magnus había dado por seguro. Había respondido haciendo. Había tomado la frase más peligrosa que su hijo había escrito jamás y, en lugar de castigarla, la había **obedecido**.
+
+Y había bajado, solo, sin llave, al sótano del viejo edificio de los documentos, a decírselo a la cara.
+
+—¿Por qué me cuentas esto? —la voz le salió más ronca de lo que pretendía.
+
+—Porque lo pediste tú. —el rey lo dijo con sencillez, sin énfasis, como si fuera evidente, y esa sencillez fue lo que estuvo a punto de quebrar a Magnus—. Porque alguien debía decirte que lo que escribiste llegó a alguna parte. Que no escribiste al vacío. —apartó la mano del barrote—. Vas a oír, dentro de poco, que el rey ha perdido la cabeza. Que ha roto el equilibrio, que ha provocado a las casas, que se ha vuelto imprudente al final de su reinado. Puede que todo eso sea verdad. Pero quería que una persona en todo el reino supiera que no lo hice por locura. Lo hice porque un hombre al que no puedo... —se detuvo. La frase se quedó colgando sobre el abismo de todo lo que no se permitía decir, y el rey, con un esfuerzo que a Magnus no se le escapó, la bajó a terreno seguro—... un hombre que está preso en mi reino me recordó que las leyes que no protegen a nadie no merecen que nadie las obedezca. Y tenía razón.
+
+*Un hombre al que no puedo.* Magnus oyó la frase rota, oyó dónde se había quebrado, oyó la palabra que su padre había tragado en el último instante, y no dijo nada, porque decir algo habría sido obligar al otro a terminarla, y terminarla los habría matado a los dos. En lugar de eso, hizo lo que llevaba toda la vida haciendo con lo que no podía decir: lo contó. Contó las manchas de la edad en las manos del rey. Contó las arrugas nuevas. Contó los años que no habían pasado juntos y que ya no pasarían, y los sumó, y supo que la suma daba una cifra que ningún censo del mundo iba a recoger jamás.
+
+—Estás cometiendo un error —dijo Magnus al fin, y para su propio asombro no había rabia en su voz; había miedo—. Las casas no perdonan lo que has hecho. No a tu edad. No sin ejército propio. Lo que acabas de contarme es la forma más rápida que conozco de que un rey deje de serlo.
+
+—Lo sé.
+
+—Entonces deshazlo.
+
+—No. —el rey sonrió, y fue una sonrisa terrible, serena, de hombre que ha hecho las cuentas y ha decidido que la respuesta le gusta aunque le cueste—. He pasado veinte años sin hacer nada por no perder lo poco que podía proteger. Y un día me di cuenta de que, a fuerza de no perderlo, tampoco lo había protegido. Solo lo había... conservado. Como se conserva algo en un sótano. —y al decir *sótano* paseó la mirada por la celda, por las paredes húmedas, por la rejilla, y Magnus entendió que no hablaba solo de un reino—. Hay cosas que no se protegen guardándolas donde no les dé el aire, muchacho. Eso no es protegerlas. Es solo retrasar el momento de perderlas. Lo he entendido tarde. Pero lo he entendido.
+
+Se quedaron callados otra vez. En algún lugar del corredor, el guardia de la cicatriz debía de estar fingiendo con todas sus fuerzas que no oía nada, porque no se oía nada en absoluto, ni una tos, ni el tintineo de un manojo de llaves, solo el silencio espeso de dos hombres que se habían dicho, sin decírsela, la única cosa importante.
+
+—No volveré a bajar —dijo el rey, y lo dijo como quien cierra una puerta con cuidado para no despertar a nadie—. No conviene. Ya es demasiado que haya bajado hoy. —vaciló un instante, y por un momento pareció que iba, por fin, a cruzar la línea, a decir el nombre, a llamar las cosas por lo que eran. No lo hizo. Era un rey, y los reyes aprenden antes que nadie que hay palabras que cuestan tronos—. Cuídate las manos —añadió en cambio, con una extrañeza que Magnus no supo interpretar—. Las llevas cerradas desde que he llegado. Un hombre que esconde las manos es un hombre que trama algo. No dejes que nadie más se dé cuenta.
+
+Y se fue.
+
+Magnus escuchó los pasos alejándose por el corredor —firmes, solos, un poco más lentos a la vuelta que a la ida, como si el hombre cargara de salida algo que no traía a la entrada—, y solo cuando el silencio volvió del todo se permitió abrir las manos.
+
+Las palmas le ardían. La figura estaba casi completa en ambas, surco rojo sobre surco a medio cerrar, cargada de aquel calor que esperaba. Magnus la miró a la luz de la antorcha, y por primera vez desde que había empezado a tallársela, sintió algo que se parecía al miedo de verdad. No miedo de la llave. Miedo de lo que haría con ella el día en que se completara. Miedo de aquella frase rota —*un hombre al que no puedo*— que su padre se había llevado escaleras arriba sin terminar. Miedo, sobre todo, de haber comprendido, demasiado tarde y por primera vez, que el viejo que acababa de bajar a un sótano a obedecer la frase más peligrosa de su hijo no era el enemigo que a Magnus le habría convenido que fuera.
+
+No rezó. Nunca rezaba. Pero aquella noche, con las palmas ardiendo y los pasos de su padre todavía resonándole por dentro, estuvo más cerca que nunca de pedirle algo a alguien: que a aquel viejo terco, que había aprendido demasiado tarde a hacer lo correcto, el reino le diera el tiempo que él, Magnus, no le había dado nunca.
+
+No se lo dio. Los reinos no dan tiempo. Lo quitan.
+
+Y en algún lugar de la ciudad, sobre una mesa de cuentas rayada en un almacén que no era de nadie, tres hombres ya habían decidido cuánto le quedaba.
