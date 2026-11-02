@@ -42,7 +42,7 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A27 | La carta de Darius a Jerah | Testamento emocional. Magnus la lee → se rompe (revelación del parentesco). Contenido completo al lector = con la muerte de Magnus. 3 capas: la madre; «se fue porque verlo le recordaba a ella»; la frase de las manos = palabras de la madre (las flores). | Biblia §5. |
 | A28 | Magnicidio justificado | Darius **sin descendencia reconocida** = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. | Biblia §5. |
 | A29 | El líder del reno | Mando de los Hijos de la Horca: capucha de cráneo/cuero de **reno** con astas, manto de piel ensangrentada, **soga de horca cortada al cuello** (el ahorcado que sobrevivió). Degüella a la superiora en el Cap. 3. Candidato a antagonista recurrente. | Biblia §6 bis. |
-| A30 | Origen de «salvar a uno más» | Nace de un **fracaso forzado**, no de un rescate: Hope abandona a la novicia **Wren** (lanza en la pierna, clavada a la nieve) porque quedarse solo añadía un cadáver. Herida fundacional; el lema es **penitencia**, no vocación. Crudeza gráfica del convento (desmembramientos, lenguas cortadas) canonizada para el Cap. 3. | Biblia §11. |
+| A30 | La herida fundacional (Wren) | Hope abandona a la novicia **Wren**: el **líder del reno** detiene a su jauría, clava la lanza a la niña y espera como cazador; Hope **huye por puro instinto de supervivencia** (no decisión noble). **Regla de escritura:** la escena NO proyecta nada del futuro de Hope (ni batallas, ni diosa, ni curar, ni el lema) — se vive solo en la crudeza del momento; la raíz del lema se paga en silencio. Crudeza gráfica del convento canonizada. | Biblia §11, §6 bis. |
 
 ---
 
