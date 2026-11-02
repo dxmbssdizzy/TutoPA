@@ -4,7 +4,7 @@
 Fantasía oscura · Política · Religión · Ciencia y magia · Tragedia cíclica
 
 <div class="meta">
-Versión 0.8 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
+Versión 0.9 — consolidación de trabajo · Corte: 31 de octubre de 2026 ·
 Estado: documento vivo; no todas las ideas registradas son canon.
 Título actual del proyecto: <strong>SILENT ASHES</strong> (antes «Reinicio», título de trabajo).
 </div>
@@ -216,10 +216,25 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
 ### Magnus y la crisis sucesoria — CANON CONFIRMADO
 
 - Magnus es el **hijo bastardo** del rey Darius; no es heredero legítimo ni reconocido por la ley.
+- **La madre de Magnus — CANON CONFIRMADO (v0.9):** amante de Darius (nombre: PREGUNTA ABIERTA). **Murió en labor de parto** al dar a luz a Magnus. Darius la amaba; perderla marcó el resto de su vida. Cada vez que miraba a Magnus veía los ojos de ella, y no soportaba sostener esa mirada — esa es la razón profunda (no solo política) por la que evitó bajar a la celda durante años. *(El lector no lo sabe hasta que se lea la carta — ver abajo.)*
 - El rey lo mantiene **encarcelado** en la prisión real para protegerlo: liberarlo sin protección lo convertiría en arma de Dravon, en objeto de control de Cendrel y en blanco a eliminar «por estabilidad».
+- **El magnicidio se justifica porque Darius no tiene descendencia reconocida (v0.9):** un rey sin heredero legítimo = un trono vacío limpio. Las casas se atreven a matarlo precisamente porque parece un rey solitario, el último de su línea. **Ironía trágica:** sí tiene un hijo, pero lo escondió tan bien que su protección le quitó el escudo. Si hubiera reconocido a Magnus, las casas no se habrían atrevido (heredero = guerra de sucesión); pero reconocerlo habría puesto a Magnus en peligro de muerte. Darius eligió proteger a su hijo a costa de quedarse sin defensa, y murió desprotegido por amor. **La tesis del libro hecha persona.**
 - Magnus ya tenía vínculos con los barrios exteriores y el Barro antes del encierro; su petición sobre los presos revela su conciencia política.
 - Obtiene el apodo **«Príncipe del Barro»** entre quienes lo escuchan fuera de palacio.
 - Las casas temen que Magnus ofrezca «un lenguaje común» que una a comunidades que normalmente no comparten nada.
+
+### La carta de Darius — CANON CONFIRMADO (v0.9)
+
+> Bomba de relojería emocional. La verdad que llega siempre un día demasiado tarde.
+
+- **Darius deja una carta con Jerah Burdoun** (el único hombre en quien confía) antes de morir / a su muerte. Es su testamento emocional, no político.
+- **Ritmo de revelación (dos tiempos):**
+  1. **Magnus la lee** en algún punto tras la muerte de su padre → **se rompe.** Es la revelación del parentesco que §9 lleva reservando desde el Cap. 1. Momento exacto: PREGUNTA ABIERTA (a escaletar en el Cap. 3 o posterior).
+  2. **El contenido completo de la carta no se revela al lector hasta que Magnus muera.** La verdad definitiva llega cuando ya no puede cambiar nada.
+- **Contenido de la carta (tres capas de devastación):**
+  1. **La madre de Magnus.** Darius habla de ella — quién era, cómo la amó, cómo la perdió. Magnus descubre quién fue su madre **por primera vez**: no por su padre en vida, sino por su padre muerto, en una carta que otro hombre le entrega.
+  2. **«Se fue de la celda porque verlo a los ojos le recordaba a su madre.»** Reescribe retroactivamente los POV de Adoral y la conversación del Cap. 2: la «cobardía» de Darius (años sin bajar, el «al día siguiente» eterno del Cap. 1) no era solo miedo político — era **dolor**. No soportaba los ojos de su hijo porque eran los de ella.
+  3. **La frase de las manos.** Darius le dijo a Magnus en el Cap. 2: *«cuídate las manos… un hombre que esconde las manos trama algo.»* La carta revela que **esa frase se la dijo la madre de Magnus al propio Darius cuando era joven y le llevó flores por primera vez** (las escondía a la espalda). El último consejo que el padre le da al hijo en vida son, sin que ninguno lo sepa, **las palabras de la mujer que los une y que murió dándole vida**. Darius no la eligió a propósito — le salió sola, porque es lo que ella le decía. La memoria del amor inconsciente atravesando la jaula.
 
 ### La decisión del rey que aprieta a las casas — CANON CONFIRMADO (v0.5)
 
@@ -934,6 +949,9 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.7)** | **La estructura de 5 actos pasa a BAJO REVISIÓN:** la obra crecerá más allá de 5 actos (salto temporal; arco santo de Hope y villano = fase tardía, «casi el clímax de la guerra»). El Acto I no cambia; nº real de actos a fijar al diseñar el Acto II/III. | **§16 (aviso) y §14 (nota estructural).** |
 | **31 oct 2026 (v0.8)** | **Las tres casas como potencias (villanos del arco):** cada una con un **as** que las vuelve temibles y se **neutralizan mutuamente** (equilibrio disuasorio). Aurelvar = **alquimia de la ceniza** + un **alquimista-anomalía** (personaje nuevo); Dravon = Corte Dorada comprada + armamento alquímico (dependencia con Aurelvar); Cendrel = información + legitimidad. El rey es el único objetivo común. | **§5 (dos subsecciones nuevas).** |
 | **31 oct 2026 (v0.8)** | **La ironía del complot:** se alían para matar al rey mientras cada una planea **destrozar a las otras dos**; la muerte del rey **desata** la guerra de las tres contra las tres. Introducido en el 2º POV «Adoral» del Cap. 2 (coral, arranca en Cendrel). | **§5; `cap-2-escaleta.md`.** |
+| **31 oct 2026 (v0.9)** | **La madre de Magnus:** amante de Darius, **murió en labor de parto**. Darius no soportaba mirar a Magnus porque tenía los ojos de ella. Razón profunda (no solo política) de los años sin bajar a la celda. | **§5 (sucesión) ampliada.** |
+| **31 oct 2026 (v0.9)** | **La carta de Darius a Jerah:** testamento emocional (no político). Magnus la lee y se rompe; contenido completo se revela al lector con la muerte de Magnus. Tres capas: la madre, «se fue porque verlo le recordaba a ella», y la frase de las manos = palabras de la madre (flores). | **§5 (nueva subsección).** |
+| **31 oct 2026 (v0.9)** | **Magnicidio justificado:** Darius sin descendencia reconocida = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. Murió desprotegido por amor. | **§5 (sucesión) ampliada.** |
 
 ---
 

@@ -38,6 +38,9 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A23 | Estructura BAJO REVISIÓN | La obra **crecerá más allá de 5 actos** (salto temporal; arco santo de Hope y villano = fase tardía). **El Acto I no cambia**; nº real de actos a fijar al diseñar el Acto II/III. | Biblia §16, §14. |
 | A24 | Las tres casas = potencias/villanos | Cada una con un **as** que se neutraliza con los otros (equilibrio disuasorio). **Aurelvar**: alquimia de la ceniza + **alquimista-anomalía** (personaje nuevo, nombre abierto). **Dravon**: Corte Dorada comprada + armas alquímicas (dependencia con Aurelvar). **Cendrel**: información + legitimidad. El rey = único blanco común. | Biblia §5. |
 | A25 | Ironía del complot | Aliadas para matar al rey, **planeando destrozarse** entre sí; su muerte **desata** la guerra de las tres contra las tres. 2º POV «Adoral» del Cap. 2 (coral, arranca en Cendrel). | Biblia §5; escaleta Cap. 2. |
+| A26 | La madre de Magnus | Amante de Darius, **murió en labor de parto**. Darius no soportaba mirar a Magnus (tenía los ojos de ella). Razón profunda de los años sin bajar a la celda. | Biblia §5. |
+| A27 | La carta de Darius a Jerah | Testamento emocional. Magnus la lee → se rompe (revelación del parentesco). Contenido completo al lector = con la muerte de Magnus. 3 capas: la madre; «se fue porque verlo le recordaba a ella»; la frase de las manos = palabras de la madre (las flores). | Biblia §5. |
+| A28 | Magnicidio justificado | Darius **sin descendencia reconocida** = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. | Biblia §5. |
 
 ---
 
