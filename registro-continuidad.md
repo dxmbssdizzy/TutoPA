@@ -41,6 +41,8 @@ Este archivo es la **agenda viva** de coherencia del proyecto. Cada entrada regi
 | A26 | La madre de Magnus | Amante de Darius, **murió en labor de parto**. Darius no soportaba mirar a Magnus (tenía los ojos de ella). Razón profunda de los años sin bajar a la celda. | Biblia §5. |
 | A27 | La carta de Darius a Jerah | Testamento emocional. Magnus la lee → se rompe (revelación del parentesco). Contenido completo al lector = con la muerte de Magnus. 3 capas: la madre; «se fue porque verlo le recordaba a ella»; la frase de las manos = palabras de la madre (las flores). | Biblia §5. |
 | A28 | Magnicidio justificado | Darius **sin descendencia reconocida** = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. | Biblia §5. |
+| A29 | El líder del reno | Mando de los Hijos de la Horca: capucha de cráneo/cuero de **reno** con astas, manto de piel ensangrentada, **soga de horca cortada al cuello** (el ahorcado que sobrevivió). Degüella a la superiora en el Cap. 3. Candidato a antagonista recurrente. | Biblia §6 bis. |
+| A30 | Origen de «salvar a uno más» | Nace de un **fracaso forzado**, no de un rescate: Hope abandona a la novicia **Wren** (lanza en la pierna, clavada a la nieve) porque quedarse solo añadía un cadáver. Herida fundacional; el lema es **penitencia**, no vocación. Crudeza gráfica del convento (desmembramientos, lenguas cortadas) canonizada para el Cap. 3. | Biblia §11. |
 
 ---
 

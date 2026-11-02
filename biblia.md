@@ -305,10 +305,18 @@ Partida/secta que opera en los caminos y pueblos del interior. **No son mercenar
 - **En el Cap. 2** solo se **anticipan** (el asalto): se insinúa su dimensión ritual por el estandarte y la crueldad deliberada. El horror pleno es Acto II (Mildraugh).
 - **Regla de oficio:** la violencia se **sugiere** y se muestra en sus consecuencias y en los testigos; sin regodeo gratuito (límite de Berserk, §3).
 
+### El líder del reno — CANON (v0.9, manuscrito Cap. 3)
+
+- Figura de mando de los Hijos de la Horca, distinta de la tropa: más alto, más quieto, más «limpio» en medio del frenesí. No participa del caos; lo dirige.
+- **Atavío ritual:** un **yelmo/capucha hecho con el cráneo y el cuero desollados de un reno**, calado hasta las cejas, con las **astas** alzándose sobre él (su sombra en la pared es la de «una bestia coronada»). La piel del animal le cae por la espalda como manto, tiesa de sangre.
+- **Al cuello:** un **trozo de soga de horca, cortada, con el nudo todavía hecho** — como quien sobrevivió al lazo y lleva la reliquia de su propia muerte. (Conecta con el estandarte del ahorcado: el líder *es* el ahorcado que no murió.)
+- En el Cap. 3 **degüella a la hermana superiora** (que había intentado comprar su vida vendiendo a Hope) con una frialdad ritual; marca a Hope como presa sin lograr cobrarla.
+- PREGUNTA ABIERTA: nombre; si es el líder único de los Hijos de la Horca o uno de varios; su papel futuro (candidato a antagonista recurrente del Acto II — reencuentro con Hope ya guerrera / con Dorn).
+
 ### Preguntas abiertas de los Hijos de la Horca
 
-- Naturaleza exacta de su rito (qué creen lograr con la horca y el cordón).
-- Jerarquía/líder; relación operativa concreta con Aurelvar (¿contacto único?, ¿contrato?, ¿chantaje mutuo?).
+- Naturaleza exacta de su rito (qué creen lograr con la horca y el cordón; las **lenguas cortadas** de las víctimas como trofeos — collares rituales).
+- Jerarquía/líder (ver «el líder del reno»); relación operativa concreta con Aurelvar.
 - Si su culto conecta —y cuánto— con la ceniza, los Vigilantes o el culto que captura a Seth.
 
 ---
@@ -558,7 +566,8 @@ La fe puede ser hogar, comunidad, identidad, obediencia, memoria o modo de inter
   1. **La intervención tiene coste o ambigüedad:** cura a todos, pero algo se paga, o nunca queda claro si fue la diosa, la ceniza, o algo que *usó* la forma de su diosa. El milagro deslumbra sin resolver el misterio metafísico (coherente con los Vigilantes).
   2. **«Santa» es bendición y condena:** la santidad la vuelve **símbolo** — y los símbolos, en esta novela, se usan (como «Rey del Barro» usa a Seth). Su santidad puede ser la trampa que la ata al destino trágico final. Corona de santa y mortaja riman.
   3. **«Salvar a uno más» es su grieta, no solo su virtud:** el impulso de salvar a todos es, temáticamente, **el mismo error de Seth** a otra escala. Hope y Seth son dos formas del mismo impulso llevado a la atrocidad; esa raíz compartida vuelve su encuentro final inevitable y desgarrador.
-- **Siembras ya en el Cap. 2 (POV de origen):** compasión que choca con la disciplina (el ave, Cap. 1); voluntad férrea bajo la dulzura (la «pequeña dama» tiene espina); un «salvar a uno más» en pequeño; la fe vivida como algo personal e intenso (no rutinario); y Dorn notando en ella una terquedad/agallas que los demás confunden con ternura.
+- **Siembras ya en el Cap. 2 (POV de origen):** compasión que choca con la disciplina (el ave, Cap. 1); voluntad férrea bajo la dulzura (la «pequeña dama» tiene espina); la fe vivida como algo personal e intenso (no rutinario); y Dorn notando en ella una terquedad/agallas que los demás confunden con ternura.
+- **El origen del lema «salvar a uno más» — CANON (v0.9, Cap. 3):** NO nace de un rescate exitoso, sino de un **fracaso forzado**. En la masacre del convento Hope intenta salvar a una novicia, **Wren** (nueve años); una lanza atraviesa a la niña y la clava a la nieve; Hope no puede liberarla a tiempo y, haciendo la aritmética brutal de que quedarse solo añade un cadáver, **la abandona** con la niña gritando su nombre. Esa es la herida fundacional. «Salvar a uno más» no es para Hope una vocación luminosa: es una **penitencia**, la cuenta abierta de la mano que soltó. Cada moribundo que su bendición sostenga después es un pago a esa deuda que no se salda. *(Esto refuerza el paralelismo con Seth: ambos cargan una culpa de origen que su «salvar» intenta —en vano— redimir.)*
 
 ### Destino trágico — DECISIÓN NARRATIVA (reciente)
 
