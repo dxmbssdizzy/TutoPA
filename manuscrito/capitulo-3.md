@@ -335,9 +335,9 @@ Magnus se agarró a los barrotes de la trampilla. Algo le había pasado al oír 
 
 —¿Cómo? —su voz salió rara—. ¿Cómo ha muerto?
 
-—¿Y qué más da cómo? —el guardia ya recogía sus cosas, ya se echaba al hombro un hatillo pobre—. Se cayó por una escalera, dicen. Se cayó. —soltó una risa sin ninguna gracia—. Los reyes no se caen por las escaleras, preso. Pero eso van a poner en los papeles, y los papeles son lo único que sobrevive a los muertos. —se detuvo un instante, y algo en él, alguna vieja decencia que las órdenes no habían doblado del todo, lo hizo volverse una última vez—. Mira. No sé quién eres tú en realidad. Nadie lo sabe, y los de arriba te guardan como si fueras de cristal, así que serás alguien. Me dio bien, estas semanas. Lo de los enfermos de abajo. Lo del pan. —tragó—. Así que te lo digo por si te sirve de algo antes del final: las llaves de este pasillo las dejo colgadas del tercer gancho. No porque crea que vas a poder hacer nada. Porque ya me da igual, y porque un hombre al que van a dejar morir encerrado merece al menos que la puerta no esté cerrada con llave. Suerte, preso.
+—¿Y qué más da cómo? —el guardia ya recogía sus cosas, ya se echaba al hombro un hatillo pobre—. Da igual cómo. Lo que importa es lo que viene. —se detuvo un instante, con la prisa del que no debería estar perdiendo tiempo y lo pierde igual—. Vete tú también, preso, si puedes. Y si no puedes, escóndete. Ahí abajo, en cuanto corra la voz de que no hay rey, los que llevan años pudriéndose en estas celdas no van a esperar a que los suelten. Van a tomarse la justicia con sus propias manos, y tú estás arriba, tú comes mejor que ellos, tú eres el que los de palacio guardan como si fuera de cristal. —lo miró, y en la mirada hubo una advertencia sincera, casi la única cosa amable que le quedaba—. Antes de que te mate uno de los tuyos, lárgate. Es lo único que te voy a decir. Suerte.
 
-Y se fue. Sus pasos —veinte, de madrugada, pero esta vez no arrastrados, esta vez rápidos, los pasos de un hombre que corre hacia los suyos— se perdieron por el corredor y no volvieron.
+Y se fue. Sus pasos —rápidos, nada arrastrados, los de un hombre que corre hacia los suyos— se perdieron por el corredor y no volvieron. No dijo nada de llaves. No le dejó ninguna puerta abierta. Se fue por supervivencia, por sus hijos, como se iba aquella noche todo el que podía irse; y Magnus no se lo reprochó, porque era exactamente lo que él mismo habría hecho en su lugar, y porque la decencia, en un mundo así, consistía a lo sumo en avisar antes de salvarse.
 
 Magnus se quedó solo, con la palabra *muerto* instalándosele dentro como el frío se instala en la piedra: despacio, por todas las juntas a la vez, sin que se pueda señalar el momento exacto en que uno deja de estar tibio.
 
@@ -359,43 +359,41 @@ Ya no había a quién pedírselo. El único hombre de todo el reino con autorida
 
 Magnus abrió las manos.
 
-Las palmas le ardían, como le ardían desde hacía semanas, surcadas por la figura que se había tallado con las uñas noche tras noche, la runa que le había llegado trozo a trozo bajo los panes de un desconocido y que él había grabado en su propia carne sin saber del todo qué haría cuando estuviera completa. Ahora lo sabía. Lo supo con el cuerpo, igual que lo había comprendido todo, antes que con la cabeza. Faltaba un trazo —siempre había faltado un trazo, los dos últimos papeles no habían llegado nunca—, pero Magnus comprendió, mirándose las palmas abiertas a la luz de la antorcha, que el trazo que faltaba no era de tinta.
+Las palmas le ardían, como le ardían desde hacía semanas, surcadas por la figura que se había tallado con las uñas noche tras noche: la que le había llegado trozo a trozo bajo los panes de un desconocido, la que había grabado en su propia carne sin saber del todo qué era. Pero ahora lo sabía. Lo supo de golpe, con el cuerpo, con la certeza sin pasos intermedios de las cosas verdaderas, y el saberlo fue en sí mismo parte del poder: que aquello que se había tallado en las manos no era un garabato, ni una llave, ni un dibujo cualquiera. Era una **runa**. Una de las de verdad, una de las que la gente nombraba en voz baja cuando hablaba de la vieja guerra de los magos, de los que comprendían y se vaciaban, de todo lo que el mundo había decidido no volver a aprender. Lo prohibido. Lo que convertía a un hombre, a ojos del reino, en algo peor que un criminal: en una abominación de otra era. Magnus tenía dos de ellas abiertas en la carne de las manos, y por primera vez no le dieron miedo. Le dieron hambre.
 
-Era él. Era esto. Era el instante.
+La runa no había esperado nunca un último trazo de tinta. Esperaba una razón lo bastante grande para pagarla. Y la muerte de su padre —la culpa, y la rabia, y el amor que no pudo decir y que ahora no diría jamás— era la razón más grande que Magnus había tenido en toda su vida.
 
-La runa no esperaba un dibujo. Esperaba una razón lo bastante grande para pagarla. Y la muerte de su padre —la culpa, la rabia, el amor que no había podido decir y que ahora no podría decir nunca— era la razón más grande que Magnus había tenido en toda su vida.
-
-Juntó las palmas.
+Juntó las palmas. Y la rabia entró en la runa, y la runa prendió.
 
 ---
 
-Lo que vino después, Magnus no lo recordaría nunca entero, y no por la amnesia que borraba al otro —al que despertaba en las ruinas, al que Magnus no conocía ni conocería—, sino por el precio de la propia magia: porque cuando la runa prendió por fin entre sus manos, se llevó algo. Magnus lo sintió marcharse en el mismo instante en que el poder llegaba, un trueque hecho en la misma fracción de segundo, dar y perder a la vez. No supo qué perdió. Esa era la crueldad: que uno no recuerda lo que olvida. Solo le quedó, después, la sensación de haber sabido hacer algo —algo suyo, de antes, de su vida en el sur, una destreza, un oficio, el nombre de alguien quizá— y de buscarlo más tarde en su cabeza y encontrar solo el hueco liso, como la pared de la celda después de que borraran sus marcas.
+No fue dócil. No fue sereno. No fue un hombre entendiendo la piedra y la piedra apartándose cortés para dejarlo pasar; fue un preso enloquecido de duelo convertido en ariete, y el muro que lo había encerrado dieciséis meses no se abrió: **reventó**. La runa se llevó algo de Magnus en el mismo instante —lo sintió marcharse, un trueque hecho en una fracción de segundo, dar y perder a la vez, y nunca sabría qué perdió, porque esa es la crueldad del precio: que uno no recuerda lo que olvida—, pero lo que dio a cambio fue furia hecha fuerza, y el frente de la celda estalló hacia fuera en una granizada de piedra que barrió el corredor y se llevó por delante al primer guardia que acudía al ruido antes de que el hombre llegara siquiera a desenvainar.
 
-Pero en el momento no hubo hueco. Hubo poder.
+Magnus salió por el boquete humeante con las manos en carne viva y los ojos secos, y ya no era el preso que plantaba semillas y contaba toses. Era otra cosa. Algo que llevaba dieciséis meses comprimido bajo una calma forzada y que la muerte de su padre acababa de soltar entero.
 
-La figura grabada en sus palmas se encendió —no de luz, de otra cosa, de una certeza hecha calor— y la piedra lo oyó. La piedra de la celda, los barrotes, el muro que lo había contenido dieciséis meses: todo aquello dejó de ser, por un instante imposible, algo distinto de Magnus. Lo comprendió. Comprendió la piedra como se comprende un idioma propio, supo por qué era dura y cómo dejaba de serlo, y lo que supo, la piedra lo obedeció. El muro de su celda se abrió como se abre la boca de alguien que va a hablar. No estalló. No cayó. Se *apartó*, dócil, reconociendo a quien por fin la había entendido.
+Los guardias intentaron contener el caos; era su trabajo, y algunos lo intentaron con valor, y Magnus los mató. No le tembló el pulso ni le pesó entonces —le pesaría después, cuando le pesaba todo, pero entonces no—: aplastó a uno contra la pared con un empujón de la runa que dobló la piedra como se dobla la arcilla; a otro, que le cerró el paso con la lanza baja, lo atravesó haciendo que el suelo mismo se alzara en una lengua de roca. No eran sus enemigos, aquellos hombres; eran pobres diablos que cobraban por cerrar puertas, carceleros con hijos y deudas como el de la cicatriz. Daba igual. Aquella noche cualquiera que se interpusiera entre Magnus y la salida era el reino, y Magnus llevaba toda la vida esperando poder devolverle al reino siquiera una parte de lo que el reino le había hecho.
 
-Magnus salió de su celda caminando, por un hueco que la piedra le hizo, con las manos ardiendo y los ojos secos.
+Las celdas inferiores. Los enfermos por los que había pedido raciones, los del Barro que el reino guardaba allí para que no molestaran, hombres flacos que no entendían el estruendo. Magnus no tenía tiempo de abrir cerradura por cerradura, ni ganas de tocar más piedra de la necesaria —la runa se cobraba cada uso y él lo notaba, se notaba más vacío, más hueco con cada muro doblado—; así que arrancó el manojo de llaves del cinturón de uno de los guardias que había matado y lo lanzó entre los barrotes, a las manos tendidas, a los que sí sabrían usarlas.
 
-El corredor. El tercer gancho, las llaves que el guardia había dejado —no las necesitó, pero las cogió, porque las llaves eran para los otros—. Las celdas de abajo, los enfermos por los que había pedido raciones, los hombres del Barro que el reino guardaba allí para que no molestaran. Magnus abrió. Con las llaves donde bastaban las llaves, con las manos donde no. Y los hombres que salieron de aquellas celdas —flacos, sucios, muchos sin saber siquiera por qué estaban presos— lo miraron salir del muro imposible, lo miraron abrir sus puertas, y vieron en él, en aquel preso de pelo largo y manos ardientes que la piedra obedecía, no a un hombre que huía, sino algo que llevaban toda la vida esperando sin saber ponerle nombre.
+—¡Abríos vosotros! —rugió—. ¡No he venido a salvaros! ¡He venido a soltaros! ¡Lo que hagáis después es cosa vuestra!
 
-—¿Quién eres? —le preguntó uno, viejo, con la voz rota de no usarla.
+Y los presos se abrieron. Unos a otros. Y la fuga dejó de ser la de un hombre y se volvió la de un sótano entero, la de un subsuelo de olvidados vomitando hacia arriba, hacia la luz, hacia una ciudad que aquella mañana se había quedado sin el único hombre que fingía que existían.
 
-Y Magnus, que durante dieciséis meses había sido un número en un expediente aburrido, que durante toda su vida había sido un bastardo sin nombre que la ley se negaba a reconocer, se detuvo en mitad del corredor en llamas, con los presos del Barro agolpándose detrás de él y la ciudad de su padre muerto esperando arriba, y respondió por fin a esa pregunta con la única respuesta que ya no pensaba callarse.
+Uno de ellos —viejo, con la voz rota de no usarla— se le quedó mirando mientras pasaba: las manos sangrantes, la piedra obediente, la furia.
 
-—Soy el Príncipe del Barro —dijo—. Y vengo a cobrar lo que nos deben.
+—¿Quién eres? —preguntó, como se le pregunta a una aparición.
 
-No fue un grito. Fue casi suave. Pero corrió por el corredor, de boca en boca, hacia arriba, hacia las celdas superiores y los patios y las calles del sur que ya empezaban a llenarse con la noticia de un rey muerto; y para cuando Magnus llegó a las puertas de la prisión —a la cabeza de una marea de hombres que una hora antes eran presos y ahora eran otra cosa—, la frase había crecido, se había multiplicado, se había vuelto muchas voces, y ya no era una respuesta.
+Magnus se detuvo. Y la respuesta que llevaba toda la vida tragándose, el nombre que la calle le había puesto a medias en burla y que él nunca se había atrevido a reclamar, le salió por fin entera, sin susurro, sin semilla, a la cara de un reino que acababa de enseñarle que pedir permiso solo servía para que te mataran por pedirlo:
 
-Era una guerra.
+—El Príncipe del Barro.
 
-Magnus se detuvo en el umbral, bajo el cielo que empezaba a clarear sobre Adoral, con el humo de su propia fuga subiendo a su espalda y el Barro entero despertándose delante, y pensó —un último pensamiento claro antes de que todo se volviera marea— en el viejo de las manos manchadas. En que lo sentía. En que lo sentía de verdad, con todo lo que le quedaba de hijo. Y en que, aun así, no iba a desperdiciar la única cosa que la muerte de su padre le había dado sin querer: la libertad, y una ciudad sin rey, y un pueblo por fin dispuesto a dejar de pedir permiso.
+Lo dijo, y la palabra no se quedó en el corredor. Subió. Corrió de boca en boca por el sótano y los patios y las escaleras, hacia los barrios del sur que ya despertaban con la noticia de un rey muerto, multiplicándose, haciéndose muchas voces; y cuando Magnus salió por fin a las puertas de la prisión, bajo el cielo gris que clareaba sobre Adoral, con el humo de su fuga a la espalda y el Barro entero agolpándose ante él, ya no tuvo que presentarse. Ya lo coreaban. Ya era suyo el nombre y era suya la multitud y era suya, por primera vez, la rabia de todos los que durante generaciones habían callado la suya.
 
-Levantó las manos abiertas —las palmas marcadas, en carne viva, hacia la multitud—, y la multitud rugió, porque había comprendido lo que eran aquellas manos, lo que significaba un hombre del Barro que hacía lo prohibido sin miedo y sin tomo, una abominación, un milagro, un estandarte vivo.
+Levantó las manos abiertas, las palmas marcadas y sangrantes, hacia la gente.
 
-—¡Adoral tiene tres casas! —gritó Magnus, y esta vez sí fue un grito, el primero de verdad en toda su vida de susurros y semillas—. ¡Y ninguna de las tres os ha contado nunca! ¡Hoy empezamos a contar!
+—¡Adoral tiene tres casas! —y su voz, la del hombre de los susurros, llenó la plaza como no la había llenado nunca—. ¡Y ninguna de las tres os ha contado jamás! ¡Hoy empezamos a contar nosotros!
 
-Y el Barro se lanzó hacia la ciudad, y la guerra civil que las tres casas habían creído encender con cuidado, controlada, para repartirse un trono vacío entre caballeros, estalló en sus manos convertida en otra cosa que no habían previsto y que no sabrían parar: una revolución, con un príncipe de barro y manos ardientes a la cabeza, subiendo del sur como sube la marea, sin pedir permiso a nadie.
+En ese instante, el Príncipe del Barro nació.
 
 
 # BRON Y YIEL
