@@ -248,9 +248,12 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
 - **Imagen de apertura del POV de Adoral (Cap. 2):** Darius al amanecer en el **balcón**, mirando la zona del **Barro**, con la **petición/carta de Magnus en la mano** — misma composición que el Cap. 1 (el rey en la ventana), pero el objeto marca que hoy **actúa**.
 - La escena de la celda que sigue a esta decisión (Darius se la cuenta a Magnus) se narra **desde el POV de Magnus**, no desde Adoral (ver §9).
 
-### El asesinato del rey y la cadena causal — BASE DE TRABAJO (a reconciliar con la v0.1)
+### El asesinato del rey y la cadena causal — CANON (v0.9, Cap. 3)
 
-- Cendrel planea el asesinato del rey; la muerte se encubre como caída sospechosa. *(BASE DE TRABAJO.)*
+- **El magnicidio (estilo Julio César):** los **tres líderes de las casas en persona** —Edwyn Cendrel, Aldair (Dravon), Misael Aurelvar— apuñalan a Darius por turnos en una galería del ala este, cada uno diciéndole su reproche/epitafio al clavar (Cendrel: «se mató el día que empezó a gobernar»; Aldair: «un reino necesita una mano firme y la suya temblaba»; Misael: «costaba más de lo que rentaba»). Lo hacen ellos mismos a propósito: **un crimen compartido es la lealtad que no se traiciona** — la sangre del rey es el contrato que ata a las tres casas (ninguna puede delatar sin colgarse).
+- **La muerte poética de Darius:** muere **sonriendo y riéndose**, porque lo han matado **tarde** — ya logró su mandato decente (auditoría, censo, ordenanzas del Barro) y eso ya no pueden quitárselo. Se lamenta de no haber sido mejor rey para el Barro (*«quise ser mejor, no supe, no a tiempo»*). **Una última lágrima**, no por el trono sino por **no haber sido mejor padre**: muere pensando en Magnus, en los ojos de su esposa muerta que son los de su hijo, en que lo que más lamenta es no haber bajado antes a la celda ni haber dicho nunca el nombre. Fusiona la imagen de «dejar por fin de apartar la mirada» (verla a ella, aprender tarde a mirar a un hijo sin miedo).
+- **Encubrimiento:** oficialmente, una **caída** por la escalera larga del ala este («un desgraciado accidente»). Las altas casas saben la verdad; solo cuatro hombres la conocen (los tres asesinos + el muerto).
+- Dravon persigue en secreto instalar un Estado militar, traicionando a Cendrel. *(BASE DE TRABAJO.)*
 - Dravon persigue en secreto instalar un Estado militar, traicionando a Cendrel. *(BASE DE TRABAJO.)*
 - Aurelvar aún no fija posición públicamente, pero **en privado se repliega** tras la decisión del rey (ver arriba) y protege su red de trata.
 - **El magnicidio se consuma en el Acto I, Capítulo 3**, precipitado por la decisión del rey del Cap. 2.
