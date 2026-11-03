@@ -300,7 +300,8 @@ Partida/secta que opera en los caminos y pueblos del interior. **No son mercenar
 ### Estandarte y nombre — CANON CONFIRMADO
 
 - **Estandarte:** un **hombre ahorcado con un cordón umbilical**. Nacimiento (cordón) atado a muerte (horca): rima con el **ciclo**, la ceniza y la idea de «nacer ya condenado».
-- **Nombre:** **Hijos de la Horca.** Rasgo reconocible que permite identificarlos entre el **asalto a Iliana/Seth (Cap. 2)** y el **ataque a Mildraugh (Acto II)**.
+- **Nombre:** **Hijos de la Horca.** *(Nombre de proyecto / canon interno.)*
+- **REGLA DE ESCRITURA (v0.9): el nombre NO se menciona en el manuscrito.** Nadie dentro de la historia —ni el narrador, pegado a los POV— sabe todavía que se llaman así. En la prosa se los nombra solo por lo que los personajes perciben: «los hombres de la cara tiznada», «los hombres pintados», «los asaltantes», «la jauría», «los del estandarte», el **líder del reno**, la **canción**. El nombre «Hijos de la Horca» es un misterio que se revelará **dentro de la historia** cuando algún personaje lo descubra (momento por decidir). Verificado: 0 menciones explícitas en los manuscritos de los Caps. 1-3.
 
 ### Función en la trama — CANON / BASE DE TRABAJO
 
