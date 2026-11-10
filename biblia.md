@@ -268,6 +268,18 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
 
 ---
 
+## 5 bis. Fuerzas externas de la guerra civil: los piratas del viejo continente — BASE DE TRABAJO (v0.10)
+
+> Referencia de dinámica: **la fraternidad rival de reyes/caudillos nórdicos tipo Harald y Halfdan** (Vikingos) — dos hermanos que mandan juntos y chocan entre sí. Se toma la **relación fraterna y el tipo de caudillo**, no hechos ni personajes concretos.
+
+- **Qué son:** gentes del **viejo continente** —el mismo del otro lado del mar que cruzó en la **Guerra del Estrecho** (ver §5 / manuscrito Acto II)— que vuelven a cruzar el agua, ya no como invasión imperial sino como **saqueadores y mercenarios oportunistas** que huelen una guerra civil y un reino sin rey. Son la **resaca histórica** de aquella guerra: Adoral los teme por memoria, y ellos lo saben.
+- **Función confirmada en la trama (v0.10):** **Magnus los recluta como aliados** para **derrocar a las tres casas**. Son la fuerza externa que vuelve creíble que un preso fugado y un arrabal desarmado planten cara al poder militar de Adoral. Políticamente son perfectos para el Barro: extranjeros a los que la capital desprecia y teme, unidos a la gente a la que la capital abandona. Golpean además a **Aurelvar** (comercio y rutas marítimas) → alteran el equilibrio de los ases (§5).
+- **Los dos hermanos — DIRECCIÓN PREFERIDA (POV futuro):** se prevé introducir a **dos hermanos** caudillos de esos piratas, con lealtad y rivalidad entre ellos, como posible **POV nuevo**. Su vínculo fraterno rima con la tesis del libro (otra forma del amor que condiciona decisiones: hasta dónde se cubre o se traiciona un hermano). *(Nombres, número de naves, origen exacto: PREGUNTA ABIERTA.)*
+- **Cautela de oficio / dosificación:** con cinco protagonistas y molde coral ya cargado, el **POV de los hermanos no entra todavía**. En el Acto II, Cap. 1 solo se **siembra su existencia** (rumor de velas extranjeras en la costa, un parte que llega a Aldair o una preocupación de Aurelvar). El POV y la alianza plena con Magnus se desarrollan cuando la guerra civil esté caliente (final del Acto II / Acto III).
+- PREGUNTA ABIERTA: cómo contacta Magnus con ellos (¿a través del Barro portuario?, ¿de un preso fugado?); qué piden a cambio; si su lealtad es fiable o un segundo frente de traición dentro del bando del Barro.
+
+---
+
 ## 6. Instituciones militares: Corte Dorada y Fuerza Dorada
 
 ### Corte Dorada — CANON CONFIRMADO
@@ -387,6 +399,12 @@ Seth es genuinamente, incluso de forma imprudente, bondadoso: «demasiado blando
 9. **Desaparición.** Nadie sabe qué le ocurrió; se observan sus consecuencias.
 10. **Aparición del Clérigo** (acto IV).
 
+### Turpín, el caballo de Seth — CANON (v0.10)
+
+- En Mildraugh arrasado (Acto II, Cap. 1), Seth consigue su montura: un caballo grande y oscuro, superviviente del fuego pero **aterrado por él**. Iliana lo intenta montar primero y el animal la tira (lo da por «roto de la cabeza»); **Seth comprende que solo teme al fuego**, apaga/aparta las brasas a su alrededor y entonces el caballo lo acepta. Lo monta sin que nadie le enseñe (su cuerpo recuerda — §8 amnesia).
+- **El nombre:** el caballo trastabilla, torpe, y a Seth se le escapa: *«Eres un poco torpe… Turpín.»* Así lo bautiza. **Turpín.**
+- **Pago futuro — DIRECCIÓN PREFERIDA:** cuando Turpín muera, Seth —ya coronado **Rey del Barro**— **levantará / fundará la ciudad de Turpín** en su honor. Semilla de largo recorrido (una ciudad del Barro con nombre de caballo muerto: la ternura del Rey del Barro antes de la caída; candidata a objeto-eco con el Clérigo). Momento y circunstancias de la muerte de Turpín: PREGUNTA ABIERTA.
+
 ### Rey del Barro: origen del título — CANON CONFIRMADO (reformulado)
 
 - El apodo deriva del **«Príncipe del Barro»** de Magnus: el pueblo traslada a Seth el título tras recibir su encargo y ver sus actos.
@@ -402,6 +420,17 @@ Seth no se convierte en el Clérigo solo por sufrir. La tortura y la magia oscur
 ### Amnesia, recuerdos y ciclo
 
 Recuperar recuerdos trata de descubrir quién era antes de la amnesia, no de comprender el ciclo ni a los Vigilantes. La recuperación de identidad no debe resolver pronto el misterio cósmico.
+
+### La tortura y la transformación en el Clérigo — DIRECCIÓN PREFERIDA (v0.10)
+
+> Referencias de arco: **Veigar** (League of Legends) y **Shockwave / Senador Shockwave** (Transformers). Ambos empiezan siendo figuras altruistas, queridas o inofensivas, y una intervención externa sobre su mente los convierte en el monstruo que luego encarnan. Se usan como **cualidad de arco**, no como plantilla de sucesos.
+
+- **Qué se toma de Veigar:** un ser **curioso e inofensivo** al que el aislamiento y la exposición prolongada a una magia/poder que no comprende del todo le **deforman la identidad** hasta volverlo exactamente el villano que los demás proyectaban sobre él. Clave: *se convierte en el monstruo que el mundo ya esperaba que fuera.* Encaja con que las élites **necesiten** que el Clérigo exista (ver §15): no capturan a un monstruo, **fabrican** uno a partir de un buen chico.
+- **Qué se toma de Shockwave:** un **idealista** (el Senador que quería reformar el sistema desde dentro) al que, tras capturarlo, le practican una **mutilación de lo que sentía** y sale convertido en lógica fría, sin la empatía que lo hacía él. Conserva capacidad e intención; pierde el afecto que las modulaba.
+- **Fusión con el sistema de magia ya canon (§4):** este arco **no requiere inventar un mecanismo nuevo** — ya existe. Usar magia **consume la comprensión**: las razones, el «porqué», el juicio moral; deja intacto y en bruto el impulso. La tortura/experimentación del culto (§15) **no es solo dolor**: es un procedimiento que fuerza a Seth a usar/canalizar la ceniza hasta **arrancarle, capa a capa, las razones por las que quería salvar a la gente**, dejándole amplificado el puro «debo salvarlos». El resultado es, a la vez, la lobotomía emocional de Shockwave y el monstruo-que-se-esperaba de Veigar, **hechos con la propia física mágica del libro**.
+- **El Clérigo, en una frase:** *Seth al que le han extirpado el porqué y le han dejado el deber.* Ama todavía —o cree amar—, pero ya no recuerda a quién ni por qué; solo le queda la certeza de que tiene que salvarlos a todos, y nada que le frene la mano.
+- **Salvaguarda temática (coherente con §8 y §20):** la tortura y la magia **explican** la caída, no la **absuelven**. El sufrimiento deforma; no borra la responsabilidad. El Clérigo debe seguir siendo legible como deformación de Seth, no como un ser ajeno que lo sustituye.
+- PREGUNTA ABIERTA: qué parte del proceso es magia, qué parte es tortura física y qué parte es manipulación/relato (que Seth *crea* que sigue siendo bueno); grado de conciencia que conserva de su yo anterior.
 
 ---
 
@@ -729,6 +758,27 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 - Los indicios crecen en gravedad en los actos III–IV. La aparición formal del Clérigo es el acto IV.
 - **El horror como cambio de lenguaje narrativo:** a partir del Clérigo, el mundo muestra consecuencias que las herramientas humanas no bastan para comprender. El horror no anula lo político: lo vuelve más difícil, urgente e incontrolable.
 
+### El culto infiltrado en las grandes casas — BASE DE TRABAJO (v0.10)
+
+> Mecanismo que convierte la **victoria** de liberar Adoral en la **trampa** que captura a Seth. El culto no es una facción aparte que aparece al final: **ya está dentro**, en el presente de la guerra civil, operando desde las entrañas de las tres casas sin que ellas lo sepan.
+
+- **La semilla se planta pronto** (Acto II en adelante): antes de cualquier captura, el culto **hace acto de presencia** de forma oblicua — un consejero, un alquimista, un capellán, un prestamista, alguien colocado **dentro** de una o varias de las grandes casas. El lector percibe una presencia extraña ligada al poder mucho antes de entender qué es.
+- **La infiltración es invisible para las casas.** Cendrel, Aurelvar y Dravon creen que **usan** a ciertos aliados, especialistas o sectas (p. ej. la relación Aurelvar ↔ secta compradora de personas, §6 bis); en realidad **el culto las usa a ellas**. Las casas aportan recursos, cobertura política, acceso a la ceniza y a los presos, convencidas de servir a sus propios intereses. Ironía temática: el poder que quedó en pie tras la liberación —las casas, que la guerra no desmanteló— es precisamente el que el culto tenía ya colonizado.
+- **Por qué esto hace posible la captura (§15 raíz):** cuando Seth libera Adoral y es nombrado Rey del Barro, **no destruye la estructura profunda**: deja intactas unas casas que el culto manejaba desde dentro. Por eso «élites ligadas a un culto» pueden capturarlo tras la victoria sin que parezca llegado de la nada: estaban ahí todo el tiempo, esperando.
+- **Relación con los Hijos de la Horca — CANON (v0.10): son organizaciones DISTINTAS.** El culto infiltrado en las casas **no es** los Hijos de la Horca (§6 bis), ni una rama suya. No mezclar: los Hijos de la Horca son la secta ritual de los caminos (estandarte del ahorcado, trata, masacre de Mildraugh); el culto de las casas es otra cosa, ligada al poder y a la eventual captura de Seth. Pueden compartir, a lo sumo, el **eco temático** (fe/rito que justifica la atrocidad), pero son grupos separados con agendas separadas.
+- PREGUNTA ABIERTA: qué quiere el culto exactamente (¿el Clérigo como objetivo buscado, o un subproducto de otra meta?), desde cuándo está infiltrado, en cuántas casas, y si alguno de los líderes de casa llega a intuirlo.
+
+### La amenaza mayor: «unidos por el miedo» — DIRECCIÓN PREFERIDA (v0.10)
+
+> Referencia de estructura dramática: la lógica de **«unidos por el miedo»** (Halo: Covenant y humanidad, enemigos a muerte, obligados a cooperar ante los Flood / una amenaza común incomparablemente mayor). Se toma la **mecánica**, no la cosmología.
+
+- **Función narrativa:** cuando la guerra civil (las tres casas entre sí, el Barro, la Corte Dorada, y los aliados externos como los piratas del viejo continente — ver §5 bis) esté en su punto más enconado, irrumpe una **amenaza de otra escala** que vuelve pequeñas todas esas enemistades y **fuerza a cooperar a quienes se mataban entre sí**. El cambio de lenguaje narrativo hacia el horror (arriba) se vive como ese giro: de «todos contra todos» a «todos contra lo que viene».
+- **Identidad de esa amenaza — PREGUNTA ABIERTA (clave).** Dos candidatos, sin decidir:
+  1. **El propio Seth / el Clérigo.** La amenaza que une a los enemigos sería la transformación de Seth: el hombre que liberó Adoral regresa convertido en algo que ni amigos ni enemigos saben combatir. Encaja con que el Clérigo sea el antagonista central del tramo (§8, §15) y con la lobotomía/Veigar-Shockwave.
+  2. **El villano creado por la fe** (§14): una entidad engendrada por el miedo/el dolor/la creencia colectiva de un mundo roto por la guerra, **distinta** del Clérigo.
+  - También queda abierta la opción de **fundir ambos** en una sola fuerza, o de escalonarlos (primero el Clérigo; después, o por detrás, la entidad de la fe).
+- **Coherencia a vigilar (§14, §15, §20):** si la amenaza es el Clérigo, no debe «comerse la novela» ni borrar lo político; si es el villano de la fe, debe distinguirse con claridad del Clérigo. En ambos casos, la cooperación forzada **no** debe disolver las tensiones previas: los enemigos cooperan **sin dejar de ser enemigos**, y eso es parte del drama.
+
 ---
 
 ## 16. Estructura macro en cinco actos — BAJO REVISIÓN (v0.7)
@@ -971,6 +1021,11 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.9)** | **La madre de Magnus:** amante de Darius, **murió en labor de parto**. Darius no soportaba mirar a Magnus porque tenía los ojos de ella. Razón profunda (no solo política) de los años sin bajar a la celda. | **§5 (sucesión) ampliada.** |
 | **31 oct 2026 (v0.9)** | **La carta de Darius a Jerah:** testamento emocional (no político). Magnus la lee y se rompe; contenido completo se revela al lector con la muerte de Magnus. Tres capas: la madre, «se fue porque verlo le recordaba a ella», y la frase de las manos = palabras de la madre (flores). | **§5 (nueva subsección).** |
 | **31 oct 2026 (v0.9)** | **Magnicidio justificado:** Darius sin descendencia reconocida = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. Murió desprotegido por amor. | **§5 (sucesión) ampliada.** |
+| **4 nov 2026 (v0.10)** | **Arranque del Acto II (Cap. 1):** POV de apertura `# ADORAL` desde **Aldair** (Dravon), una semana tras el magnicidio. Las tres casas gestionan el desastre y se vigilan; buscan un **regente** para un trono sin heredero → consejo de regencia paritario e impotente. Inteligencia militar: ~300 fugados, motines, el Barro **organizándose**. Darius = soldado sin cuna coronado por el viejo rey tras la **Guerra del Estrecho** (invasión del viejo continente por mar), con el juramento de **preservar la corona**. | **Nuevo `manuscrito/acto-2-cap-1-adoral.md`; §5 (Guerra del Estrecho, origen de Darius).** |
+| **4 nov 2026 (v0.10)** | **Tortura/transformación de Seth (refs. Veigar + Shockwave):** buen chico altruista al que una intervención externa convierte en el monstruo esperado. Se fusiona con el sistema de magia ya canon: la experimentación le **consume las razones** del «salvar» y le deja el impulso en bruto (= lobotomía de Shockwave + monstruo-que-se-esperaba de Veigar, con la física mágica del libro). El Clérigo = «Seth al que le extirparon el porqué y le dejaron el deber». No absuelve. | **§8 (nueva subsección «La tortura y la transformación en el Clérigo»).** |
+| **4 nov 2026 (v0.10)** | **Piratas del viejo continente (ref. hermanos tipo Harald/Halfdan):** saqueadores/mercenarios, resaca de la Guerra del Estrecho. **Magnus los recluta para derrocar a las casas.** POV de dos hermanos caudillos = DIRECCIÓN PREFERIDA para más adelante; en el Cap. 1 solo se **siembra** su existencia. | **§5 bis (nueva sección).** |
+| **4 nov 2026 (v0.10)** | **El culto infiltrado en las grandes casas:** ya está dentro (consejeros, alquimistas, etc.) sin que las casas lo sepan; ellas creen usarlo y las usa a ellas. Es lo que hace posible la **captura de Seth** tras la liberación (la estructura que la victoria no desmanteló). Semilla plantada desde el Acto II. Relación con los Hijos de la Horca = PREGUNTA ABIERTA. | **§15 (nueva subsección «El culto infiltrado»).** |
+| **4 nov 2026 (v0.10)** | **Amenaza «unidos por el miedo» (ref. Halo):** cuando la guerra civil esté enconada, irrumpe una amenaza de otra escala que fuerza a cooperar a los enemigos. **Identidad PREGUNTA ABIERTA:** el propio Seth/Clérigo **o** el villano creado por la fe (§14), o ambos fundidos/escalonados. | **§15 (nueva subsección «La amenaza mayor»).** |
 
 ---
 
