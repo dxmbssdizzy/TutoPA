@@ -237,6 +237,17 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
   2. **«Se fue de la celda porque verlo a los ojos le recordaba a su madre.»** Reescribe retroactivamente los POV de Adoral y la conversación del Cap. 2: la «cobardía» de Darius (años sin bajar, el «al día siguiente» eterno del Cap. 1) no era solo miedo político — era **dolor**. No soportaba los ojos de su hijo porque eran los de ella.
   3. **La frase de las manos.** Darius le dijo a Magnus en el Cap. 2: *«cuídate las manos… un hombre que esconde las manos trama algo.»* La carta revela que **esa frase se la dijo la madre de Magnus al propio Darius cuando era joven y le llevó flores por primera vez** (las escondía a la espalda). El último consejo que el padre le da al hijo en vida son, sin que ninguno lo sepa, **las palabras de la mujer que los une y que murió dándole vida**. Darius no la eligió a propósito — le salió sola, porque es lo que ella le decía. La memoria del amor inconsciente atravesando la jaula.
 
+### Las casas menores juramentadas a Darius (Guerra del Estrecho) — BASE DE TRABAJO (v0.10)
+
+> Tras la **Guerra del Estrecho** (invasión del viejo continente, ver §5 bis y el origen de Darius), varias **casas menores** que combatieron junto a Darius le juraron lealtad. Son los «abanderados» del rey muerto. Material del arco de **Jerah** en el Acto II.
+
+- **Jerah Burdoun**, tras huir de Adoral con la carta de Darius (A35), no puede fiarse de la Corte Dorada (comprada por Dravon) y va a **reclamar esas lealtades viejas** para vengar al rey y evitar que Adoral caiga del todo en manos de las tres casas. Dinámica de referencia: **Jon Snow / Robb Stark reuniendo a los abanderados** — con el rechazo como tónica (lealtades a un rey muerto que se evaporan por miedo a las casas grandes).
+- **Casa Fenwar — CANON (v0.10):** casa menor que gobierna una ciudad propia; combatió junto a Darius en el Estrecho. Patriarca: **Harold Fenwar** (viejo, cojo, barba blanca; enterró a un hermano en el Estrecho). Su **divisa**: _«En el frío invierno, y en las aguas profundas»_ — alusión al frío que los helaba en aquella guerra y al agua que se llevó los cuerpos de muchos de los suyos. **Fenwar NO es la primera puerta:** Jerah llega a ella tras otras tres casas menores que no lo rechazaron pero le **pusieron condiciones** (tierras, garantías por escrito, «esperar a ver quién gana») — todas regatearon con la sangre del rey. Guardó a Fenwar para el final como «lo único limpio», porque Harold amaba de verdad a Darius. Y precisamente por eso su **rechazo** (juró a un Darius vivo, no a su fantasma ni a su venganza; tiene 300 almas que alimentar y ningún hijo vivo) es el que más duele y el que da peso a su consejo. Jerah parte de inmediato hacia otra casa.
+- **El consejo de Harold Fenwar — DIRECCIÓN PREFERIDA (reorienta el arco de Jerah):** _«No busque lealtad en los que amaban a Darius; búsquela en los que lo necesitan. El amor no levanta ejércitos; el hambre, a veces, sí.»_ A partir de aquí Jerah deja de buscar corazones leales (que lloran al muerto) y empieza a buscar gente con algo que perder bajo las tres casas — semilla de futuros aliados por interés/necesidad, no por amor (posible enlace con casas oportunistas, puertos estrangulados por Aurelvar, incluso los piratas).
+- **La traición y el cuervo (cierre del POV de Jerah, Cap. 1) — CANON (v0.10):** al salir de Fenwar, unos **asesinos a caballo** (6) emboscan a Jerah: una de las casas menores que lo recibieron «con vino y condiciones» lo ha **vendido** a las tres casas grandes (la lealtad convertida en denuncia = moneda de la guerra nueva). Jerah pelea en un desfiladero, cae herido en el costado, y lo salva **un cuervo** que llega en el único segundo útil de la noche y espanta los caballos de los cazadores. El cuervo trae un **pliego con el sello de la Ciudadela** (la torre inacabada en espiral — el mismo de la misión de Iliana). Jerah lo lee, le cambia la cara, **quema el pliego** y **tuerce el rumbo**: abandona la casa oportunista que pensaba visitar y cabalga hacia un **destino que el lector NO conoce**. *(Hilo del **Vidente** — §4 — sin confirmarlo en el texto: demasiado a tiempo, demasiado exacto; nadie podía saber dónde estaría Jerah esa noche. El destino es, en realidad, **Magnus y el Barro**, pero el lector queda con el vacío.)*
+- **El plan de Jerah ya está tomado** cuando llega a Fenwar: sabe qué quiere hacer contra Adoral (reunir respaldo, vengar a Darius, impedir que las tres casas se queden el reino). Lo que no sabe aún es si alguien lo seguirá. (La **entrega de la carta a Magnus** sigue pendiente — PREGUNTA ABIERTA, Cap. 3 o posterior; en este POV Jerah solo la lleva encima.)
+- PREGUNTA ABIERTA: cuántas casas menores hay, cuáles aceptan y cuáles rechazan, y si alguna acaba uniéndose (grieta de esperanza) o si Jerah termina solo y tiene que buscar aliados por otra vía (¿el propio Barro?, ¿los piratas?).
+
 ### La decisión del rey que aprieta a las casas — CANON CONFIRMADO (v0.5)
 
 - En el **Acto I, Capítulo 2 (POV «Adoral»)**, el rey Darius toma una **medida que pone en cuerdas a las tres casas** a la vez. Golpea con especial fuerza a **Aurelvar** (poder económico).
@@ -815,15 +826,33 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 - Sembrar fe, investigación, ceniza y política sin revelar a los Vigilantes.
 
 ### Acto II — Caminos, objetivos y primeros cruces
-- Seth e Iliana se encuentran: conflicto, contraste y compañerismo.
-- Hope y Eloy avanzan hacia Adoral por razones propias (por concretar).
-- Crece la guerra civil y la crisis de sucesión; rutas, recursos e instituciones afectan a los protagonistas.
-- Seth actúa como protector y empieza a definir sus convicciones.
-- La ceniza aparece como fenómeno extraño, sin explicación completa.
+- **Función del acto (v0.10):** **maduración de personajes y convergencia hacia Adoral**, NO gran batalla. El Acto II pone a todos en posición y los desarrolla para que, cuando el **asalto fallido al Barro** (evento-prisma) estalle al **inicio del Acto III**, el reparto en grupos se sienta inevitable. El acto cierra con los protagonistas **convergiendo en/hacia Adoral**, listos para que el prisma los reparta.
+- Seth e Iliana viajan juntos hacia Adoral (ya se encontraron en el Acto I): compañerismo áspero, contraste, Seth definiendo sus convicciones.
+- **Hope y Eloy (con Dorn) hacia Adoral**, divergiendo por carácter:
+  - **Dorn entrena a Hope con la espada** a lo largo del camino. La «pequeña dama» aprendiendo a matar = grieta de su arco (§11), no vocación; aprende porque el mundo acaba de enseñarle que la misericordia sola no salva a nadie.
+  - **Eloy prefiere el cuaderno/libro de Gareth** antes que la espada: mientras Hope empuña, Eloy se hunde en el conocimiento (las «preguntas verdaderas» de Gareth, el hilo de «Citadel»). Los dos amigos **divergen en el Acto II** —ella hacia la espada, él hacia el libro—, lo que **prepara su separación** del Acto III (Hope → con Iliana; Eloy → Ciudadela).
+- **Jerah** (nuevo hilo del Acto II): huye de Adoral con la carta; peregrina entre casas menores buscando respaldo (rechazo de Fenwar); un **cuervo de la Ciudadela** lo redirige (hilo del Vidente); rumbo a Magnus.
+- Crece la guerra civil y la crisis de sucesión; el **cerco al Barro** empieza a apretarse (justificación del asalto del Acto III); rutas, recursos e instituciones afectan a los protagonistas.
+- La ceniza aparece como fenómeno extraño, sin explicación completa (reservada, ligada a Seth).
 - *(Reconciliar aquí el arco de Magnus: su relación con Seth y el camino hacia su muerte/encargo.)*
 
+### El evento-prisma: el asalto fallido al Barro — CANON (v0.10)
+
+> El acontecimiento que reparte a los protagonistas en sus grupos definitivos. **Un solo evento, cuatro efectos.** Ocurre al **inicio del Acto III** (no cierra el Acto II).
+
+- **Qué pasa:** las tres casas, presionadas por el Barro que se **organiza** (ver POV Aldair, Cap. 1) y tras asfixiarlo con un **cerco / hambre** (cierre de accesos y suministros — la vía que las casas acordaron por no poder atacarse entre sí), rompen su parálisis y lanzan un **asalto «quirúrgico» al arrabal** para descabezar al cabecilla antes de que termine sus defensas. **Les sale mal:** Magnus y el Barro lo rechazan. El **cerco es la justificación**; el **asalto fallido es el detonante**.
+- **Por qué funciona como prisma (un evento → los grupos finales):**
+  - **Magnus:** el ataque rechazado lo consagra de «cabecilla» a **líder de guerra**; necesita cuadros militares, no solo fervor → abre el hueco para Seth y Jerah.
+  - **Seth (llega con Iliana en mitad del asalto):** su bondad imprudente lo mete, sin cálculo, del lado de los masacrados (el Barro). Pelea, lo ven pelear → **entra en la órbita de Magnus por acto, no por azar** (resuelve la vieja preocupación de que no se encuentren «porque sí»).
+  - **Jerah:** redirigido por el cuervo de la Ciudadela (Cap. 1), llega persiguiendo su venganza contra las casas; el enemigo de su enemigo es el Barro → **se une a Magnus** (con la carta encima, sin saber aún que Magnus es el hijo de Darius).
+  - **Iliana:** el asalto la separa de Seth (caos / su deber de reportar a la Corte); queda del lado del orden/la ciudad, **bando distinto al de Seth** → su camino se cruza con Hope.
+  - **Hope y Eloy (llegan en la carreta con Dorn):** el asalto los parte. **Eloy sigue a la Ciudadela** (su carta de traslado, su propósito). **Hope queda con las víctimas civiles**, donde la encuentra Iliana.
+- **Grupos resultantes (CANON v0.10):** **Seth + Jerah + Magnus** · **Iliana + Hope** · **Eloy + la Ciudadela**.
+- **Escala:** este asalto fallido es el **ensayo** que escala al **asalto mayor / liberación de Adoral** del Acto III (§16).
+
 ### Acto III — Asalto, liberación y desaparición
-- Hope y Eloy están juntos en Adoral al comenzar el asalto.
+- **Arranca con el asalto fallido al Barro** (evento-prisma, arriba) → reparte a todos en sus grupos y escala a la liberación.
+- Hope y Eloy llegaron juntos a Adoral pero **se separan aquí** (Eloy → Ciudadela; Hope → con Iliana).
 - Convergencia por la guerra; momento exacto por fijar.
 - **Muerte de Magnus y su encargo a Seth.** *(NUEVO eje — por escaletar.)*
 - Seth participa decisivamente en la liberación; el pueblo lo nombra Rey del Barro.
