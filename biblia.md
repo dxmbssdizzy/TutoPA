@@ -564,9 +564,25 @@ El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central
 - **Eloy y Hope ya habían escapado** del pueblo hacia Adoral: no estaban en la mina. El Vidente, al sacar a Eloy de Mildraugh, lo **salva de la masacre y lo condena a sobrevivir a sus padres** (culpa futura de Eloy).
 - **Iliana y Seth ven la explosión desde lejos** y **deciden volver** —por recursos y por la herida de Iliana—, no por heroísmo: nadie llega a tiempo de impedir nada. La tragedia ocurre sin testigos que pudieran evitarla.
 
+### Referencias e identidad de Iliana — DIRECCIÓN PREFERIDA (v0.11)
+
+> Base de personaje: **Brienne de Tarth** (ASOIAF) + **Fiora Laurent** (LoL). De Brienne: el ideal caballeresco en un mundo que lo desprecia; honor y lealtad a prueba de burla; alguien que lucha por *pertenecer* a una orden que no la quiere. De Fiora: la nobleza caída que recupera el nombre de su casa por mérito propio, con orgullo y precisión; identidad ligada a restaurar un apellido manchado (el Valebrand).
+
+- **La grieta sobre la Corte Dorada (sembrada en el Acto II, Cap. 2):** Iliana quiere la Corte Dorada para «dejar de ser una cosa que se puede poseer» — ser *alguien* a quien la ley reconoce (§10). En el establo, Seth le planta la duda sin querer: *¿la Corte te dará eso de verdad, o solo el papel que lo dice?* Semilla de su arco: la sospecha de que la Corte es **otro amo más al que pedir permiso para existir**, y de que ser «alguien» no es algo que una orden firma, sino algo que una *hace* (bajar la ladera por una familia desconocida, meter el hombro entre un crío y un hacha). Tensión Brienne pura: el honor no es el carné de la orden, son los actos. No resuelta — alimenta su recorrido hacia (y a través de) la Corte/Fuerza Dorada.
+
+### La herida de Iliana y Hope como mentora — CANON (v0.11)
+
+> La raíz del trauma corporal de Iliana (ya sembrado en el manuscrito: se tensa si alguien se le acerca por detrás, calcula salidas) tiene nombre: **fue violada durante su etapa de esclavitud**, tras ser entregada de niña como garantía de la deuda familiar (§10).
+
+- **Siembra (Acto II, Cap. 2):** en el establo, tras salvar a una familia de los Hijos de la Horca, Seth e Iliana tienen un momento de **intimidad emocional** (NO romántica — ver nota). Seth cuenta lo que recuerda (ceniza, ruinas, el cuervo). Iliana cede a regañadientes y cuenta algo de su historia (casa caída, deuda, esclavitud), pero **corta en seco** al rozar la herida que no nombra. El lector percibe que hay algo peor sin que se diga.
+- **Pago (Actos VI–X, grupo Iliana + Hope):** la verdad se descubre cuando **Iliana es la mentora final de Hope**. Lo es porque **Hope le recuerda a ella de pequeña** — dos supervivientes de violencia (el convento masacrado / la esclavitud) reconociéndose. El trauma de Iliana se revela en ese vínculo de mentora-discípula.
+- **NOTA DE OFICIO (tono):** la violación se trata con la regla del proyecto (§3, §6 bis): se **sugiere**, no se describe con gráfica sexual; el peso está en la consecuencia y en el silencio, no en el acto.
+
 ### Voz y contraste con Seth
 
 Veterana endurecida que sabe que el mundo no es justo ni sencillo, frente al idealista que se lanza a proteger. Ella entiende mejor los peligros; él ve con más claridad a quién merece proteger. No simplificarla como cínica ni a él como ingenuo perpetuo.
+
+> **NOTA DE CONTINUIDAD — Seth e Iliana NO son pareja romántica.** Su vínculo es de compañerismo/hermandad forjado en el camino (ref. Arya y el Perro, §3). El amor trágico central de Seth es con **Hope**. La «intimidad» de sus escenas es emocional (confianza, bajar la guardia), nunca romance — reforzado por el trauma de Iliana. Iliana tiene agencia propia y no existe para curar a Seth (§10, §20).
 
 ### Agencia propia
 
