@@ -498,9 +498,34 @@ Magnus es el **hijo bastardo del rey Darius de Adoral**: no heredero legítimo, 
 - Relación entre la muerte de Magnus y el asesinato del rey Darius (orden causal).
 - ¿Qué sabe Magnus del Barro que Seth hereda, y qué no?
 
+### El arco de Magnus como líder — DIRECCIÓN PREFERIDA (v0.11)
+
+> El nacimiento del líder y la semilla, lentísima, de su caída. Referencia tonal: **Sylas** (el cautivo que incendia un orden). Clave de dosificación: en el Acto II Magnus es un **líder legítimo y luminoso**; la deriva (mesianismo → autoritarismo) se planta **mínima** y se cobra mucho más tarde.
+
+- **El mesianismo como veneno lento (no activar aún):** Magnus deja de luchar *contra* una injusticia para empezar a **encarnar** a todos los que la sufrieron. El riesgo: confundir su voluntad con la voluntad de los oprimidos → «lucho por la libertad, luego tengo derecho a decidir por todos» = semilla del autoritarismo. **Espejo de Seth** (que confunde «quiero ayudar» con «debo salvar a todos y decidir por ellos»): dos caras del mismo error, eje temático del libro.
+- **Los dos motores en tensión:** (1) *que nadie vuelva a sufrir lo que yo sufrí* (justicia); (2) *que quienes me hicieron sufrir paguen* (venganza). **La muerte de Darius lo empuja hacia la venganza.** Ironía: Darius murió amándolo (se dejó matar protegiéndolo); ese amor produce el odio del hijo.
+- **«Convertirse en lo que juró destruir»:** para derribar la estructura que lo deshumanizó, corre el riesgo de volverse como ella. Es lo bastante lúcido para intuirlo — y por eso, cuando conozca a **Seth**, verá en él (bondad sin cálculo, incapacidad de crueldad) **al buen líder que él nunca podrá ser**. Envidia y reconocimiento a la vez; recontextualiza el encargo: no «toma mi antorcha», sino «sé tú lo que yo no pude ser».
+- **El Barro es vulnerable — CANON (v0.11):** en su mayoría pobres, ancianos, niños y mujeres; NO un ejército de rebeldes. Los reclusos/marginados poderosos del sótano son minoría. Esto vuelve necesaria la ayuda externa (piratas, casas menores) y hace la victoria frágil y cara.
+- **Manuscrito Acto II, Cap. 2 (POV Magnus #1):** reparto de comida bajo el **cerco**; se mete en una revuelta y la calma **sin usar la runa**, con un discurso tipo Sylas que **redirige la rabia del Barro hacia las élites de Adoral**. Furia/duelo por Darius ardiendo debajo (brasa que se traga cada mañana). Grieta mínima: le gusta ser mirado como salvación (sembrado, no cobrado).
+
+### Aura — CANON (v0.11)
+
+> Personaje nuevo. Aliada y consejera del Barro que **acabará siendo la relación amorosa de Magnus**. De origen **privilegiado, de la casa Aurelvar** (lejana a la cúpula), que **apoya la causa del Barro**. Su función es doble: demostrar que Magnus aún puede confiar (una privilegiada que comprende el sufrimiento), y **morir para consumar la venganza de Magnus**.
+
+- **Presentación (Cap. 2, POV Magnus #1):** aparece como «una cara más» del arrabal (cede su ración a un crío). Sin relieve — el lector no debe sospechar su importancia.
+- **La secuencia del pasadizo (Cap. 2, POV Magnus #2):**
+  1. Magnus la **interroga**: ¿por qué cedió su ración si no la ha visto en los repartos de días anteriores? (desconfianza de líder que conoce a su gente).
+  2. **Detalle sutil para el lector (no para Magnus del todo):** le ve las **piernas/pies demasiado limpios** para alguien que vive en el lodo del arrabal. Magnus **intuye** algo (estilo Sylas) pero no lo resuelve.
+  3. Magnus va con la **gente «peligrosa»** (los del sótano, los que aún pueden pelear) a empezar a **organizar** la defensa, y **nota que Aura los espía**.
+  4. **La atrapa.** Ella, en vez de huir, le **da una cita** cerca de un **punto muerto**: un **pasadizo del Barro a Adoral que Magnus desconocía**, para «contarle todo».
+  5. **Cierre del POV:** Magnus decide ir (la información pesa más que el miedo), pero **la deja ir por volver a su deber** (el reparto, la gente). Cierra ahí.
+- **El reveal (Cap. 3 / Acto III):** se encuentran y **entran a la capital por el pasadizo**. Magnus se impresiona por la **abundancia que Adoral acumula y niega al Barro** (alimenta su causa). Aura le enseña el **emblema de Aurelvar** en su prenda; Magnus desconfía; ella le **demuestra ahí mismo** (acto/información verificable en el momento) que está de su lado, y le da **la información que arma el asalto** → esto es lo que desencadena el **asalto fallido** que abre el Acto III. *(Siembra ↔ pago: piernas limpias en Cap. 2 → emblema de Aurelvar en Cap. 3.)*
+- **Su muerte (Actos III–V) — CANON (v0.11):** Aura es **ejecutada públicamente (decapitada) ante todo Adoral por el líder de su propia casa (Aurelvar)**, como maniobra para **desestabilizar a Magnus o forzar su rendición** (su información había puesto en jaque a la corona y delatado la infiltración). **Seth y Magnus, infiltrados, la ven morir.** Es el detonante que **consuma la venganza total de Magnus** y lo conduce a su muerte. El sistema le mata la prueba de su humanidad y, al matarla, lo empuja a perderla (tesis del libro).
+- PREGUNTA ABIERTA: cómo llegó Aura a creer en la causa; cuánto sabe de la infiltración del culto en su casa (§15); si su ayuda es del todo limpia o la usan sin saberlo.
+
 ### Relación Magnus–Seth — PREGUNTA ABIERTA (prioridad alta)
 
-El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central** del acto III. Debe construirse con escenas concretas: cómo se conocen, qué ve Magnus en Seth, por qué le confía el encargo, y por qué el pueblo acepta la herencia del título.
+El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central** del acto III (y siguientes). Debe construirse con escenas concretas: cómo se conocen, qué ve Magnus en Seth, por qué le confía el encargo, y por qué el pueblo acepta la herencia del título. **Fijado (v0.11):** Magnus **revela públicamente su parentesco con Darius pronto** (lo vuelve amenaza existencial para las tres casas: ya no es un cabecilla, es un heredero con derecho al trono). La **carta de Darius** llega después como el **derecho/prueba formal**, pero se descubre tan tarde que ya solo sirve para que, muerto Magnus, **Seth** transforme la herencia en el Rey del Barro: *«El Príncipe del Barro murió; el Rey del Barro reinará.»*
 
 ---
 
@@ -792,9 +817,28 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 
 ---
 
-## 16. Estructura macro en cinco actos — BAJO REVISIÓN (v0.7)
+## 16. Estructura macro — REESTRUCTURADA A 10 ACTOS (v0.11)
 
-> **AVISO (v0.7):** la estructura de **5 actos × 3 capítulos** descrita abajo está **bajo revisión**: el autor prevé que la obra **crecerá más allá de 5 actos** (salto temporal considerable entre el inicio y el clímax de la guerra civil; material tardío del arco santo de Hope y del villano creado por la fe — ver §14). **El Acto I (Caps. 1–3) NO cambia** y se sigue escribiendo tal cual. El número real de actos y la redistribución de hitos se fijarán al diseñar en detalle el Acto II/III. Todo lo que sigue se mantiene como marco de trabajo hasta entonces.
+> **NUEVA MACROESTRUCTURA (v0.11): la obra tiene ~10 ACTOS.** La vieja estructura de 5 actos × 3 capítulos queda **obsoleta** como mapa completo (se conserva abajo solo como referencia histórica de hitos). Escala objetivo revisada: ~10 actos × ~3 caps. × ~20k ≈ **~600.000 palabras** (alta fantasía de gran extensión; magnitud asumida conscientemente — vigilar ritmo, nº de POV por capítulo y no inflar).
+>
+> **Anclas fijadas (v0.11):**
+> - **Acto I:** introducción coral; cierra con magnicidio + Mildraugh + fuga de Magnus. *(NO cambia; escrito.)*
+> - **Acto II:** maduración y convergencia hacia Adoral (sin gran batalla). *(En escritura.)*
+> - **Acto III:** **arranca con el asalto fallido al Barro** (evento-prisma que reparte a todos en grupos) y despliega la guerra civil.
+> - **Actos III → V:** la guerra civil. Las cinco piezas (Aura, Hope, Jerah+casas menores, piratas, + la ceniza de Seth) van cayendo en su sitio.
+> - **Final del Acto V:** **asalto final / liberación de Adoral**, exitoso. **Muere Magnus** y transfiere el «Barro» a Seth (Rey del Barro). Fin de la guerra civil.
+> - **Actos VI → X:** segunda mitad. **Salto temporal considerable.** Aquí flotan (sin numeración fija todavía) los hitos tardíos: captura y experimentación de Seth → **Clérigo**; arco guerrero-santo de **Hope** (bendición, dolor cargado, milagro, «Santa Hope»); **villano creado por la fe** (§14); la amenaza «unidos por el miedo» (§15); tragedia final y **reinicio**.
+>
+> **Las cinco piezas que vuelven exitoso el asalto final (Acto V) — CANON (v0.11):**
+> - **Aura:** información privilegiada que pone en jaque a la corona (y delata la infiltración → su ejecución).
+> - **Hope:** negocia con la Madre de los Caminos y **sana un batallón entero** a punto de caer, salvando el flanco que iba a desestabilizar el asalto (= su milagro de campo de batalla / consagración como Santa).
+> - **Jerah + casas menores:** Jerah las convierte con el argumento «la sangre de Darius vive en la revolución»; aparecen como refuerzos.
+> - **Hermanos piratas:** aportan las **tropas** que el Barro vulnerable no tiene.
+> - **(Seth:** su ceniza, hilo propio.)
+>
+> **El Acto I (Caps. 1–3) NO cambia.** La redistribución fina de los Actos VI–X se diseñará cuando lleguemos; por ahora son brújula, no canon duro.
+
+> **AVISO HISTÓRICO (v0.7, superado):** lo que sigue describía la estructura de **5 actos × 3 capítulos**. Se conserva como referencia de hitos, pero la macroestructura vigente es la de 10 actos (arriba).
 
 ### Molde de capítulos — CANON CONFIRMADO (v0.3)
 
@@ -832,6 +876,13 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
   - **Dorn entrena a Hope con la espada** a lo largo del camino. La «pequeña dama» aprendiendo a matar = grieta de su arco (§11), no vocación; aprende porque el mundo acaba de enseñarle que la misericordia sola no salva a nadie.
   - **Eloy prefiere el cuaderno/libro de Gareth** antes que la espada: mientras Hope empuña, Eloy se hunde en el conocimiento (las «preguntas verdaderas» de Gareth, el hilo de «Citadel»). Los dos amigos **divergen en el Acto II** —ella hacia la espada, él hacia el libro—, lo que **prepara su separación** del Acto III (Hope → con Iliana; Eloy → Ciudadela).
 - **Jerah** (nuevo hilo del Acto II): huye de Adoral con la carta; peregrina entre casas menores buscando respaldo (rechazo de Fenwar); un **cuervo de la Ciudadela** lo redirige (hilo del Vidente); rumbo a Magnus.
+
+> **REPARTO DE POV POR CAPÍTULO (Acto II) — TENTATIVO (v0.10), no canon duro.** No todos los POV aparecen en todos los capítulos (se permite ausencia deliberada, §16). Borrador de trabajo, a confirmar al escalar cada capítulo:
+> - **Cap. 1:** Adoral (Aldair), Seth e Iliana, Jerah, Eloy y Hope. *(Magnus NO: solo «de oídas», el «cabecilla».)*
+> - **Cap. 2:** entra el **primer POV de Magnus del Acto II** (regreso como líder del Barro, no como preso). Hope+Eloy (entrenamiento/cuaderno), Seth+Iliana (camino). **Jerah NO aparece en el Cap. 2** (su hilo descansa tras el cuervo).
+> - **Cap. 3:** convergencia hacia Adoral; se retoma Jerah; el acto cierra con todos en posición y el cerco asfixiando al Barro (gancho al evento-prisma del Acto III).
+>
+> *(Nota de método: la planificación macro va por delante de la prosa; tratar esta escaleta y los hitos de Actos II–III como brújula tentativa, dejando que la prosa los confirme o ajuste.)*
 - Crece la guerra civil y la crisis de sucesión; el **cerco al Barro** empieza a apretarse (justificación del asalto del Acto III); rutas, recursos e instituciones afectan a los protagonistas.
 - La ceniza aparece como fenómeno extraño, sin explicación completa (reservada, ligada a Seth).
 - *(Reconciliar aquí el arco de Magnus: su relación con Seth y el camino hacia su muerte/encargo.)*
