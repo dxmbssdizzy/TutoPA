@@ -237,6 +237,17 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
   2. **«Se fue de la celda porque verlo a los ojos le recordaba a su madre.»** Reescribe retroactivamente los POV de Adoral y la conversación del Cap. 2: la «cobardía» de Darius (años sin bajar, el «al día siguiente» eterno del Cap. 1) no era solo miedo político — era **dolor**. No soportaba los ojos de su hijo porque eran los de ella.
   3. **La frase de las manos.** Darius le dijo a Magnus en el Cap. 2: *«cuídate las manos… un hombre que esconde las manos trama algo.»* La carta revela que **esa frase se la dijo la madre de Magnus al propio Darius cuando era joven y le llevó flores por primera vez** (las escondía a la espalda). El último consejo que el padre le da al hijo en vida son, sin que ninguno lo sepa, **las palabras de la mujer que los une y que murió dándole vida**. Darius no la eligió a propósito — le salió sola, porque es lo que ella le decía. La memoria del amor inconsciente atravesando la jaula.
 
+### Las casas menores juramentadas a Darius (Guerra del Estrecho) — BASE DE TRABAJO (v0.10)
+
+> Tras la **Guerra del Estrecho** (invasión del viejo continente, ver §5 bis y el origen de Darius), varias **casas menores** que combatieron junto a Darius le juraron lealtad. Son los «abanderados» del rey muerto. Material del arco de **Jerah** en el Acto II.
+
+- **Jerah Burdoun**, tras huir de Adoral con la carta de Darius (A35), no puede fiarse de la Corte Dorada (comprada por Dravon) y va a **reclamar esas lealtades viejas** para vengar al rey y evitar que Adoral caiga del todo en manos de las tres casas. Dinámica de referencia: **Jon Snow / Robb Stark reuniendo a los abanderados** — con el rechazo como tónica (lealtades a un rey muerto que se evaporan por miedo a las casas grandes).
+- **Casa Fenwar — CANON (v0.10):** casa menor que gobierna una ciudad propia; combatió junto a Darius en el Estrecho. Patriarca: **Harold Fenwar** (viejo, cojo, barba blanca; enterró a un hermano en el Estrecho). Su **divisa**: _«En el frío invierno, y en las aguas profundas»_ — alusión al frío que los helaba en aquella guerra y al agua que se llevó los cuerpos de muchos de los suyos. **Fenwar NO es la primera puerta:** Jerah llega a ella tras otras tres casas menores que no lo rechazaron pero le **pusieron condiciones** (tierras, garantías por escrito, «esperar a ver quién gana») — todas regatearon con la sangre del rey. Guardó a Fenwar para el final como «lo único limpio», porque Harold amaba de verdad a Darius. Y precisamente por eso su **rechazo** (juró a un Darius vivo, no a su fantasma ni a su venganza; tiene 300 almas que alimentar y ningún hijo vivo) es el que más duele y el que da peso a su consejo. Jerah parte de inmediato hacia otra casa.
+- **El consejo de Harold Fenwar — DIRECCIÓN PREFERIDA (reorienta el arco de Jerah):** _«No busque lealtad en los que amaban a Darius; búsquela en los que lo necesitan. El amor no levanta ejércitos; el hambre, a veces, sí.»_ A partir de aquí Jerah deja de buscar corazones leales (que lloran al muerto) y empieza a buscar gente con algo que perder bajo las tres casas — semilla de futuros aliados por interés/necesidad, no por amor (posible enlace con casas oportunistas, puertos estrangulados por Aurelvar, incluso los piratas).
+- **La traición y el cuervo (cierre del POV de Jerah, Cap. 1) — CANON (v0.10):** al salir de Fenwar, unos **asesinos a caballo** (6) emboscan a Jerah: una de las casas menores que lo recibieron «con vino y condiciones» lo ha **vendido** a las tres casas grandes (la lealtad convertida en denuncia = moneda de la guerra nueva). Jerah pelea en un desfiladero, cae herido en el costado, y lo salva **un cuervo** que llega en el único segundo útil de la noche y espanta los caballos de los cazadores. El cuervo trae un **pliego con el sello de la Ciudadela** (la torre inacabada en espiral — el mismo de la misión de Iliana). Jerah lo lee, le cambia la cara, **quema el pliego** y **tuerce el rumbo**: abandona la casa oportunista que pensaba visitar y cabalga hacia un **destino que el lector NO conoce**. *(Hilo del **Vidente** — §4 — sin confirmarlo en el texto: demasiado a tiempo, demasiado exacto; nadie podía saber dónde estaría Jerah esa noche. El destino es, en realidad, **Magnus y el Barro**, pero el lector queda con el vacío.)*
+- **El plan de Jerah ya está tomado** cuando llega a Fenwar: sabe qué quiere hacer contra Adoral (reunir respaldo, vengar a Darius, impedir que las tres casas se queden el reino). Lo que no sabe aún es si alguien lo seguirá. (La **entrega de la carta a Magnus** sigue pendiente — PREGUNTA ABIERTA, Cap. 3 o posterior; en este POV Jerah solo la lleva encima.)
+- PREGUNTA ABIERTA: cuántas casas menores hay, cuáles aceptan y cuáles rechazan, y si alguna acaba uniéndose (grieta de esperanza) o si Jerah termina solo y tiene que buscar aliados por otra vía (¿el propio Barro?, ¿los piratas?).
+
 ### La decisión del rey que aprieta a las casas — CANON CONFIRMADO (v0.5)
 
 - En el **Acto I, Capítulo 2 (POV «Adoral»)**, el rey Darius toma una **medida que pone en cuerdas a las tres casas** a la vez. Golpea con especial fuerza a **Aurelvar** (poder económico).
@@ -265,6 +276,18 @@ Las tres casas se alían para asesinar a Darius **mientras cada una planea destr
 - ¿Qué significa para Seth una Adoral «liberada» o «perfecta», y qué sacrificios aceptaría?
 - ¿Cuál es el interés inmediato de Aurelvar y qué facciones internas tiene?
 - ¿Cómo se organizan los movimientos del Barro y en qué difieren sus objetivos?
+
+---
+
+## 5 bis. Fuerzas externas de la guerra civil: los piratas del viejo continente — BASE DE TRABAJO (v0.10)
+
+> Referencia de dinámica: **la fraternidad rival de reyes/caudillos nórdicos tipo Harald y Halfdan** (Vikingos) — dos hermanos que mandan juntos y chocan entre sí. Se toma la **relación fraterna y el tipo de caudillo**, no hechos ni personajes concretos.
+
+- **Qué son:** gentes del **viejo continente** —el mismo del otro lado del mar que cruzó en la **Guerra del Estrecho** (ver §5 / manuscrito Acto II)— que vuelven a cruzar el agua, ya no como invasión imperial sino como **saqueadores y mercenarios oportunistas** que huelen una guerra civil y un reino sin rey. Son la **resaca histórica** de aquella guerra: Adoral los teme por memoria, y ellos lo saben.
+- **Función confirmada en la trama (v0.10):** **Magnus los recluta como aliados** para **derrocar a las tres casas**. Son la fuerza externa que vuelve creíble que un preso fugado y un arrabal desarmado planten cara al poder militar de Adoral. Políticamente son perfectos para el Barro: extranjeros a los que la capital desprecia y teme, unidos a la gente a la que la capital abandona. Golpean además a **Aurelvar** (comercio y rutas marítimas) → alteran el equilibrio de los ases (§5).
+- **Los dos hermanos — DIRECCIÓN PREFERIDA (POV futuro):** se prevé introducir a **dos hermanos** caudillos de esos piratas, con lealtad y rivalidad entre ellos, como posible **POV nuevo**. Su vínculo fraterno rima con la tesis del libro (otra forma del amor que condiciona decisiones: hasta dónde se cubre o se traiciona un hermano). *(Nombres, número de naves, origen exacto: PREGUNTA ABIERTA.)*
+- **Cautela de oficio / dosificación:** con cinco protagonistas y molde coral ya cargado, el **POV de los hermanos no entra todavía**. En el Acto II, Cap. 1 solo se **siembra su existencia** (rumor de velas extranjeras en la costa, un parte que llega a Aldair o una preocupación de Aurelvar). El POV y la alianza plena con Magnus se desarrollan cuando la guerra civil esté caliente (final del Acto II / Acto III).
+- PREGUNTA ABIERTA: cómo contacta Magnus con ellos (¿a través del Barro portuario?, ¿de un preso fugado?); qué piden a cambio; si su lealtad es fiable o un segundo frente de traición dentro del bando del Barro.
 
 ---
 
@@ -387,6 +410,12 @@ Seth es genuinamente, incluso de forma imprudente, bondadoso: «demasiado blando
 9. **Desaparición.** Nadie sabe qué le ocurrió; se observan sus consecuencias.
 10. **Aparición del Clérigo** (acto IV).
 
+### Turpín, el caballo de Seth — CANON (v0.10)
+
+- En Mildraugh arrasado (Acto II, Cap. 1), Seth consigue su montura: un caballo grande y oscuro, superviviente del fuego pero **aterrado por él**. Iliana lo intenta montar primero y el animal la tira (lo da por «roto de la cabeza»); **Seth comprende que solo teme al fuego**, apaga/aparta las brasas a su alrededor y entonces el caballo lo acepta. Lo monta sin que nadie le enseñe (su cuerpo recuerda — §8 amnesia).
+- **El nombre:** el caballo trastabilla, torpe, y a Seth se le escapa: *«Eres un poco torpe… Turpín.»* Así lo bautiza. **Turpín.**
+- **Pago futuro — DIRECCIÓN PREFERIDA:** cuando Turpín muera, Seth —ya coronado **Rey del Barro**— **levantará / fundará la ciudad de Turpín** en su honor. Semilla de largo recorrido (una ciudad del Barro con nombre de caballo muerto: la ternura del Rey del Barro antes de la caída; candidata a objeto-eco con el Clérigo). Momento y circunstancias de la muerte de Turpín: PREGUNTA ABIERTA.
+
 ### Rey del Barro: origen del título — CANON CONFIRMADO (reformulado)
 
 - El apodo deriva del **«Príncipe del Barro»** de Magnus: el pueblo traslada a Seth el título tras recibir su encargo y ver sus actos.
@@ -402,6 +431,17 @@ Seth no se convierte en el Clérigo solo por sufrir. La tortura y la magia oscur
 ### Amnesia, recuerdos y ciclo
 
 Recuperar recuerdos trata de descubrir quién era antes de la amnesia, no de comprender el ciclo ni a los Vigilantes. La recuperación de identidad no debe resolver pronto el misterio cósmico.
+
+### La tortura y la transformación en el Clérigo — DIRECCIÓN PREFERIDA (v0.10)
+
+> Referencias de arco: **Veigar** (League of Legends) y **Shockwave / Senador Shockwave** (Transformers). Ambos empiezan siendo figuras altruistas, queridas o inofensivas, y una intervención externa sobre su mente los convierte en el monstruo que luego encarnan. Se usan como **cualidad de arco**, no como plantilla de sucesos.
+
+- **Qué se toma de Veigar:** un ser **curioso e inofensivo** al que el aislamiento y la exposición prolongada a una magia/poder que no comprende del todo le **deforman la identidad** hasta volverlo exactamente el villano que los demás proyectaban sobre él. Clave: *se convierte en el monstruo que el mundo ya esperaba que fuera.* Encaja con que las élites **necesiten** que el Clérigo exista (ver §15): no capturan a un monstruo, **fabrican** uno a partir de un buen chico.
+- **Qué se toma de Shockwave:** un **idealista** (el Senador que quería reformar el sistema desde dentro) al que, tras capturarlo, le practican una **mutilación de lo que sentía** y sale convertido en lógica fría, sin la empatía que lo hacía él. Conserva capacidad e intención; pierde el afecto que las modulaba.
+- **Fusión con el sistema de magia ya canon (§4):** este arco **no requiere inventar un mecanismo nuevo** — ya existe. Usar magia **consume la comprensión**: las razones, el «porqué», el juicio moral; deja intacto y en bruto el impulso. La tortura/experimentación del culto (§15) **no es solo dolor**: es un procedimiento que fuerza a Seth a usar/canalizar la ceniza hasta **arrancarle, capa a capa, las razones por las que quería salvar a la gente**, dejándole amplificado el puro «debo salvarlos». El resultado es, a la vez, la lobotomía emocional de Shockwave y el monstruo-que-se-esperaba de Veigar, **hechos con la propia física mágica del libro**.
+- **El Clérigo, en una frase:** *Seth al que le han extirpado el porqué y le han dejado el deber.* Ama todavía —o cree amar—, pero ya no recuerda a quién ni por qué; solo le queda la certeza de que tiene que salvarlos a todos, y nada que le frene la mano.
+- **Salvaguarda temática (coherente con §8 y §20):** la tortura y la magia **explican** la caída, no la **absuelven**. El sufrimiento deforma; no borra la responsabilidad. El Clérigo debe seguir siendo legible como deformación de Seth, no como un ser ajeno que lo sustituye.
+- PREGUNTA ABIERTA: qué parte del proceso es magia, qué parte es tortura física y qué parte es manipulación/relato (que Seth *crea* que sigue siendo bueno); grado de conciencia que conserva de su yo anterior.
 
 ---
 
@@ -458,9 +498,34 @@ Magnus es el **hijo bastardo del rey Darius de Adoral**: no heredero legítimo, 
 - Relación entre la muerte de Magnus y el asesinato del rey Darius (orden causal).
 - ¿Qué sabe Magnus del Barro que Seth hereda, y qué no?
 
+### El arco de Magnus como líder — DIRECCIÓN PREFERIDA (v0.11)
+
+> El nacimiento del líder y la semilla, lentísima, de su caída. Referencia tonal: **Sylas** (el cautivo que incendia un orden). Clave de dosificación: en el Acto II Magnus es un **líder legítimo y luminoso**; la deriva (mesianismo → autoritarismo) se planta **mínima** y se cobra mucho más tarde.
+
+- **El mesianismo como veneno lento (no activar aún):** Magnus deja de luchar *contra* una injusticia para empezar a **encarnar** a todos los que la sufrieron. El riesgo: confundir su voluntad con la voluntad de los oprimidos → «lucho por la libertad, luego tengo derecho a decidir por todos» = semilla del autoritarismo. **Espejo de Seth** (que confunde «quiero ayudar» con «debo salvar a todos y decidir por ellos»): dos caras del mismo error, eje temático del libro.
+- **Los dos motores en tensión:** (1) *que nadie vuelva a sufrir lo que yo sufrí* (justicia); (2) *que quienes me hicieron sufrir paguen* (venganza). **La muerte de Darius lo empuja hacia la venganza.** Ironía: Darius murió amándolo (se dejó matar protegiéndolo); ese amor produce el odio del hijo.
+- **«Convertirse en lo que juró destruir»:** para derribar la estructura que lo deshumanizó, corre el riesgo de volverse como ella. Es lo bastante lúcido para intuirlo — y por eso, cuando conozca a **Seth**, verá en él (bondad sin cálculo, incapacidad de crueldad) **al buen líder que él nunca podrá ser**. Envidia y reconocimiento a la vez; recontextualiza el encargo: no «toma mi antorcha», sino «sé tú lo que yo no pude ser».
+- **El Barro es vulnerable — CANON (v0.11):** en su mayoría pobres, ancianos, niños y mujeres; NO un ejército de rebeldes. Los reclusos/marginados poderosos del sótano son minoría. Esto vuelve necesaria la ayuda externa (piratas, casas menores) y hace la victoria frágil y cara.
+- **Manuscrito Acto II, Cap. 2 (POV Magnus #1):** reparto de comida bajo el **cerco**; se mete en una revuelta y la calma **sin usar la runa**, con un discurso tipo Sylas que **redirige la rabia del Barro hacia las élites de Adoral**. Furia/duelo por Darius ardiendo debajo (brasa que se traga cada mañana). Grieta mínima: le gusta ser mirado como salvación (sembrado, no cobrado).
+
+### Aura — CANON (v0.11)
+
+> Personaje nuevo. Aliada y consejera del Barro que **acabará siendo la relación amorosa de Magnus**. De origen **privilegiado, de la casa Aurelvar** (lejana a la cúpula), que **apoya la causa del Barro**. Su función es doble: demostrar que Magnus aún puede confiar (una privilegiada que comprende el sufrimiento), y **morir para consumar la venganza de Magnus**.
+
+- **Presentación (Cap. 2, POV Magnus #1):** aparece como «una cara más» del arrabal (cede su ración a un crío). Sin relieve — el lector no debe sospechar su importancia.
+- **La secuencia del pasadizo (Cap. 2, POV Magnus #2):**
+  1. Magnus la **interroga**: ¿por qué cedió su ración si no la ha visto en los repartos de días anteriores? (desconfianza de líder que conoce a su gente).
+  2. **Detalle sutil para el lector (no para Magnus del todo):** le ve las **piernas/pies demasiado limpios** para alguien que vive en el lodo del arrabal. Magnus **intuye** algo (estilo Sylas) pero no lo resuelve.
+  3. Magnus va con la **gente «peligrosa»** (los del sótano, los que aún pueden pelear) a empezar a **organizar** la defensa, y **nota que Aura los espía**.
+  4. **La atrapa.** Ella, en vez de huir, le **da una cita** cerca de un **punto muerto**: un **pasadizo del Barro a Adoral que Magnus desconocía**, para «contarle todo».
+  5. **Cierre del POV:** Magnus decide ir (la información pesa más que el miedo), pero **la deja ir por volver a su deber** (el reparto, la gente). Cierra ahí.
+- **El reveal (Cap. 3 / Acto III):** se encuentran y **entran a la capital por el pasadizo**. Magnus se impresiona por la **abundancia que Adoral acumula y niega al Barro** (alimenta su causa). Aura le enseña el **emblema de Aurelvar** en su prenda; Magnus desconfía; ella le **demuestra ahí mismo** (acto/información verificable en el momento) que está de su lado, y le da **la información que arma el asalto** → esto es lo que desencadena el **asalto fallido** que abre el Acto III. *(Siembra ↔ pago: piernas limpias en Cap. 2 → emblema de Aurelvar en Cap. 3.)*
+- **Su muerte (Actos III–V) — CANON (v0.11):** Aura es **ejecutada públicamente (decapitada) ante todo Adoral por el líder de su propia casa (Aurelvar)**, como maniobra para **desestabilizar a Magnus o forzar su rendición** (su información había puesto en jaque a la corona y delatado la infiltración). **Seth y Magnus, infiltrados, la ven morir.** Es el detonante que **consuma la venganza total de Magnus** y lo conduce a su muerte. El sistema le mata la prueba de su humanidad y, al matarla, lo empuja a perderla (tesis del libro).
+- PREGUNTA ABIERTA: cómo llegó Aura a creer en la causa; cuánto sabe de la infiltración del culto en su casa (§15); si su ayuda es del todo limpia o la usan sin saberlo.
+
 ### Relación Magnus–Seth — PREGUNTA ABIERTA (prioridad alta)
 
-El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central** del acto III. Debe construirse con escenas concretas: cómo se conocen, qué ve Magnus en Seth, por qué le confía el encargo, y por qué el pueblo acepta la herencia del título.
+El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central** del acto III (y siguientes). Debe construirse con escenas concretas: cómo se conocen, qué ve Magnus en Seth, por qué le confía el encargo, y por qué el pueblo acepta la herencia del título. **Fijado (v0.11):** Magnus **revela públicamente su parentesco con Darius pronto** (lo vuelve amenaza existencial para las tres casas: ya no es un cabecilla, es un heredero con derecho al trono). La **carta de Darius** llega después como el **derecho/prueba formal**, pero se descubre tan tarde que ya solo sirve para que, muerto Magnus, **Seth** transforme la herencia en el Rey del Barro: *«El Príncipe del Barro murió; el Rey del Barro reinará.»*
 
 ---
 
@@ -499,9 +564,25 @@ El traspaso del «Barro» de Magnus a Seth es ahora el **motor político central
 - **Eloy y Hope ya habían escapado** del pueblo hacia Adoral: no estaban en la mina. El Vidente, al sacar a Eloy de Mildraugh, lo **salva de la masacre y lo condena a sobrevivir a sus padres** (culpa futura de Eloy).
 - **Iliana y Seth ven la explosión desde lejos** y **deciden volver** —por recursos y por la herida de Iliana—, no por heroísmo: nadie llega a tiempo de impedir nada. La tragedia ocurre sin testigos que pudieran evitarla.
 
+### Referencias e identidad de Iliana — DIRECCIÓN PREFERIDA (v0.11)
+
+> Base de personaje: **Brienne de Tarth** (ASOIAF) + **Fiora Laurent** (LoL). De Brienne: el ideal caballeresco en un mundo que lo desprecia; honor y lealtad a prueba de burla; alguien que lucha por *pertenecer* a una orden que no la quiere. De Fiora: la nobleza caída que recupera el nombre de su casa por mérito propio, con orgullo y precisión; identidad ligada a restaurar un apellido manchado (el Valebrand).
+
+- **La grieta sobre la Corte Dorada (sembrada en el Acto II, Cap. 2):** Iliana quiere la Corte Dorada para «dejar de ser una cosa que se puede poseer» — ser *alguien* a quien la ley reconoce (§10). En el establo, Seth le planta la duda sin querer: *¿la Corte te dará eso de verdad, o solo el papel que lo dice?* Semilla de su arco: la sospecha de que la Corte es **otro amo más al que pedir permiso para existir**, y de que ser «alguien» no es algo que una orden firma, sino algo que una *hace* (bajar la ladera por una familia desconocida, meter el hombro entre un crío y un hacha). Tensión Brienne pura: el honor no es el carné de la orden, son los actos. No resuelta — alimenta su recorrido hacia (y a través de) la Corte/Fuerza Dorada.
+
+### La herida de Iliana y Hope como mentora — CANON (v0.11)
+
+> La raíz del trauma corporal de Iliana (ya sembrado en el manuscrito: se tensa si alguien se le acerca por detrás, calcula salidas) tiene nombre: **fue violada durante su etapa de esclavitud**, tras ser entregada de niña como garantía de la deuda familiar (§10).
+
+- **Siembra (Acto II, Cap. 2):** en el establo, tras salvar a una familia de los Hijos de la Horca, Seth e Iliana tienen un momento de **intimidad emocional** (NO romántica — ver nota). Seth cuenta lo que recuerda (ceniza, ruinas, el cuervo). Iliana cede a regañadientes y cuenta algo de su historia (casa caída, deuda, esclavitud), pero **corta en seco** al rozar la herida que no nombra. El lector percibe que hay algo peor sin que se diga.
+- **Pago (Actos VI–X, grupo Iliana + Hope):** la verdad se descubre cuando **Iliana es la mentora final de Hope**. Lo es porque **Hope le recuerda a ella de pequeña** — dos supervivientes de violencia (el convento masacrado / la esclavitud) reconociéndose. El trauma de Iliana se revela en ese vínculo de mentora-discípula.
+- **NOTA DE OFICIO (tono):** la violación se trata con la regla del proyecto (§3, §6 bis): se **sugiere**, no se describe con gráfica sexual; el peso está en la consecuencia y en el silencio, no en el acto.
+
 ### Voz y contraste con Seth
 
 Veterana endurecida que sabe que el mundo no es justo ni sencillo, frente al idealista que se lanza a proteger. Ella entiende mejor los peligros; él ve con más claridad a quién merece proteger. No simplificarla como cínica ni a él como ingenuo perpetuo.
+
+> **NOTA DE CONTINUIDAD — Seth e Iliana NO son pareja romántica.** Su vínculo es de compañerismo/hermandad forjado en el camino (ref. Arya y el Perro, §3). El amor trágico central de Seth es con **Hope**. La «intimidad» de sus escenas es emocional (confianza, bajar la guardia), nunca romance — reforzado por el trauma de Iliana. Iliana tiene agencia propia y no existe para curar a Seth (§10, §20).
 
 ### Agencia propia
 
@@ -637,6 +718,17 @@ Investigador/erudito. Curiosidad insaciable; quiere **comprender** la magia, no 
 
 > **NO CONFUNDIR.** «La muerte de Hope es el ultimátum» no fija quién la causa ni cómo. Ese mecanismo sigue abierto.
 
+### El poder de Eloy: golems de sentimiento y el plano de los padres — DIRECCIÓN PREFERIDA (v0.11)
+
+> El hechicero en que se convertirá Eloy. Reverso temático de Seth y de Hope: donde Seth se consume **a sí mismo** salvando, y Hope **carga** el dolor ajeno, Eloy transforma **el amor de sus muertos** en arma — y los gasta. Su «amor que justifica la atrocidad», a su escala. Refs. tonales: Viktor / Blitzcrank (creación de autómatas), sin copiar su lore.
+
+- **El plano de los padres — CANON (v0.11):** Eloy aprende (de la mano del jefe de la Ciudadela) a **visitar a Bron y Yiel en otro plano**. No es metáfora: es un lugar al que accede. Allí están sus padres, de algún modo, y de ahí saca lo que anima su magia (su amor, su calor, su recuerdo hecho materia).
+- **Golems de sentimiento — CANON (v0.11):** Eloy anima cuerpos de materia transmutada con **emoción/sentimiento** (no con mecanismos). Un golem «vive» mientras le dura la emoción que lo anima; al agotarse, se desploma. Son la **forma visible de un precio invisible**: p. ej. un golem animado con «el recuerdo del abrazo de su madre» — y cuando cae, Eloy ya no recuerda ese abrazo. (Evita el riesgo «ejército de autómatas que gana solo»: cada golem cuesta un pedazo irrecuperable de sus padres.)
+- **El precio, atado a la ley mágica (CANON v0.11):** rige la equivalencia del libro — **la materia se transforma, no se destruye… pero transformarla sin fin la reduce, al final, a CENIZA** (§4). Por tanto: cada vez que Eloy usa lo que sus padres le dan, **los transforma, y nada vuelve a ser lo que era**; uso tras uso, Bron y Yiel se van **consumiendo hasta la ceniza**, hasta desaparecer. Eloy, para poder luchar, **convierte a sus padres en ceniza, despacio, hasta perderlos del todo** — una segunda muerte, esta a sus propias manos. Conecta su arco con el núcleo de la ceniza (§4) y con la tesis del libro.
+- **Eloy, primera línea contra el Clérigo — sentido temático:** Eloy puede enfrentar al Clérigo porque **hablan el mismo idioma maldito**: ambos usan magia-que-consume. Seth se vació a sí mismo; Eloy se vacía a sus muertos. El horror de su arco es que, al combatir al monstruo, **se va pareciendo a él**.
+- **PREGUNTA MUY ABIERTA (sin cerrar, el autor NO está convencido):** la idea de que Eloy «pague con lo ajeno» (sentimientos de otros, no solo de sus padres). **No canonizar.** Por ahora el único «combustible ajeno» confirmado son **sus padres, en el plano, y se gastan**; si el mecanismo se extiende o no a otras fuentes, queda abierto.
+- **Dosificación (Acto II, Cap. 2):** Eloy solo **estudia el cuaderno de Gareth** y comprende el **principio** (magia = comprensión; usarla cuesta comprensión). Semilla mínima: topa con la **pregunta herética** —*¿se podría pagar el precio con algo que no fueras tú?*— mirando la anomalía del relicario que reparó. No la resuelve; lo asusta y lo fascina. Todo el poder real (plano, golems) es descubrimiento posterior en la Ciudadela.
+
 ### Preguntas abiertas de Eloy
 
 - Qué sabe de la ceniza antes del acto I y por qué la estudia.
@@ -729,11 +821,90 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 - Los indicios crecen en gravedad en los actos III–IV. La aparición formal del Clérigo es el acto IV.
 - **El horror como cambio de lenguaje narrativo:** a partir del Clérigo, el mundo muestra consecuencias que las herramientas humanas no bastan para comprender. El horror no anula lo político: lo vuelve más difícil, urgente e incontrolable.
 
+### El culto infiltrado en las grandes casas — BASE DE TRABAJO (v0.10)
+
+> Mecanismo que convierte la **victoria** de liberar Adoral en la **trampa** que captura a Seth. El culto no es una facción aparte que aparece al final: **ya está dentro**, en el presente de la guerra civil, operando desde las entrañas de las tres casas sin que ellas lo sepan.
+
+- **La semilla se planta pronto** (Acto II en adelante): antes de cualquier captura, el culto **hace acto de presencia** de forma oblicua — un consejero, un alquimista, un capellán, un prestamista, alguien colocado **dentro** de una o varias de las grandes casas. El lector percibe una presencia extraña ligada al poder mucho antes de entender qué es.
+- **La infiltración es invisible para las casas.** Cendrel, Aurelvar y Dravon creen que **usan** a ciertos aliados, especialistas o sectas (p. ej. la relación Aurelvar ↔ secta compradora de personas, §6 bis); en realidad **el culto las usa a ellas**. Las casas aportan recursos, cobertura política, acceso a la ceniza y a los presos, convencidas de servir a sus propios intereses. Ironía temática: el poder que quedó en pie tras la liberación —las casas, que la guerra no desmanteló— es precisamente el que el culto tenía ya colonizado.
+- **Por qué esto hace posible la captura (§15 raíz):** cuando Seth libera Adoral y es nombrado Rey del Barro, **no destruye la estructura profunda**: deja intactas unas casas que el culto manejaba desde dentro. Por eso «élites ligadas a un culto» pueden capturarlo tras la victoria sin que parezca llegado de la nada: estaban ahí todo el tiempo, esperando.
+- **Relación con los Hijos de la Horca — CANON (v0.10): son organizaciones DISTINTAS.** El culto infiltrado en las casas **no es** los Hijos de la Horca (§6 bis), ni una rama suya. No mezclar: los Hijos de la Horca son la secta ritual de los caminos (estandarte del ahorcado, trata, masacre de Mildraugh); el culto de las casas es otra cosa, ligada al poder y a la eventual captura de Seth. Pueden compartir, a lo sumo, el **eco temático** (fe/rito que justifica la atrocidad), pero son grupos separados con agendas separadas.
+- PREGUNTA ABIERTA: qué quiere el culto exactamente (¿el Clérigo como objetivo buscado, o un subproducto de otra meta?), desde cuándo está infiltrado, en cuántas casas, y si alguno de los líderes de casa llega a intuirlo.
+
+### La amenaza mayor: «unidos por el miedo» — DIRECCIÓN PREFERIDA (v0.10)
+
+> Referencia de estructura dramática: la lógica de **«unidos por el miedo»** (Halo: Covenant y humanidad, enemigos a muerte, obligados a cooperar ante los Flood / una amenaza común incomparablemente mayor). Se toma la **mecánica**, no la cosmología.
+
+- **Función narrativa:** cuando la guerra civil (las tres casas entre sí, el Barro, la Corte Dorada, y los aliados externos como los piratas del viejo continente — ver §5 bis) esté en su punto más enconado, irrumpe una **amenaza de otra escala** que vuelve pequeñas todas esas enemistades y **fuerza a cooperar a quienes se mataban entre sí**. El cambio de lenguaje narrativo hacia el horror (arriba) se vive como ese giro: de «todos contra todos» a «todos contra lo que viene».
+- **Identidad de esa amenaza — PREGUNTA ABIERTA (clave).** Dos candidatos, sin decidir:
+  1. **El propio Seth / el Clérigo.** La amenaza que une a los enemigos sería la transformación de Seth: el hombre que liberó Adoral regresa convertido en algo que ni amigos ni enemigos saben combatir. Encaja con que el Clérigo sea el antagonista central del tramo (§8, §15) y con la lobotomía/Veigar-Shockwave.
+  2. **El villano creado por la fe** (§14): una entidad engendrada por el miedo/el dolor/la creencia colectiva de un mundo roto por la guerra, **distinta** del Clérigo.
+  - También queda abierta la opción de **fundir ambos** en una sola fuerza, o de escalonarlos (primero el Clérigo; después, o por detrás, la entidad de la fe).
+- **Coherencia a vigilar (§14, §15, §20):** si la amenaza es el Clérigo, no debe «comerse la novela» ni borrar lo político; si es el villano de la fe, debe distinguirse con claridad del Clérigo. En ambos casos, la cooperación forzada **no** debe disolver las tensiones previas: los enemigos cooperan **sin dejar de ser enemigos**, y eso es parte del drama.
+
 ---
 
-## 16. Estructura macro en cinco actos — BAJO REVISIÓN (v0.7)
+## 16. Estructura macro — REESTRUCTURADA A 10 ACTOS (v0.11)
 
-> **AVISO (v0.7):** la estructura de **5 actos × 3 capítulos** descrita abajo está **bajo revisión**: el autor prevé que la obra **crecerá más allá de 5 actos** (salto temporal considerable entre el inicio y el clímax de la guerra civil; material tardío del arco santo de Hope y del villano creado por la fe — ver §14). **El Acto I (Caps. 1–3) NO cambia** y se sigue escribiendo tal cual. El número real de actos y la redistribución de hitos se fijarán al diseñar en detalle el Acto II/III. Todo lo que sigue se mantiene como marco de trabajo hasta entonces.
+> **NUEVA MACROESTRUCTURA (v0.11): la obra tiene ~10 ACTOS.** La vieja estructura de 5 actos × 3 capítulos queda **obsoleta** como mapa completo (se conserva abajo solo como referencia histórica de hitos). Escala objetivo revisada: ~10 actos × ~3 caps. × ~20k ≈ **~600.000 palabras** (alta fantasía de gran extensión; magnitud asumida conscientemente — vigilar ritmo, nº de POV por capítulo y no inflar).
+>
+> **Anclas fijadas (v0.11):**
+> - **Acto I:** introducción coral; cierra con magnicidio + Mildraugh + fuga de Magnus. *(NO cambia; escrito.)*
+> - **Acto II:** maduración y convergencia hacia Adoral (sin gran batalla). *(En escritura.)*
+> - **Acto III:** **arranca con el asalto fallido al Barro** (evento-prisma que reparte a todos en grupos) y despliega la guerra civil.
+> - **Actos III → V:** la guerra civil. Las cinco piezas (Aura, Hope, Jerah+casas menores, piratas, + la ceniza de Seth) van cayendo en su sitio.
+> - **Final del Acto V:** **asalto final / liberación de Adoral**, exitoso. **Muere Magnus** y transfiere el «Barro» a Seth (Rey del Barro). Fin de la guerra civil.
+> - **Actos VI → X:** segunda mitad. **Salto temporal considerable.** Aquí flotan (sin numeración fija todavía) los hitos tardíos: captura y experimentación de Seth → **Clérigo**; arco guerrero-santo de **Hope** (bendición, dolor cargado, milagro, «Santa Hope»); **villano creado por la fe** (§14); la amenaza «unidos por el miedo» (§15); tragedia final y **reinicio**.
+>
+> **Las cinco piezas que vuelven exitoso el asalto final (Acto V) — CANON (v0.11):**
+> - **Aura:** información privilegiada que pone en jaque a la corona (y delata la infiltración → su ejecución).
+> - **Hope:** negocia con la Madre de los Caminos y **sana un batallón entero** a punto de caer, salvando el flanco que iba a desestabilizar el asalto (= su milagro de campo de batalla / consagración como Santa).
+> - **Jerah + casas menores:** Jerah las convierte con el argumento «la sangre de Darius vive en la revolución»; aparecen como refuerzos.
+> - **Hermanos piratas:** aportan las **tropas** que el Barro vulnerable no tiene.
+> - **(Seth:** su ceniza, hilo propio.)
+>
+> **El Acto I (Caps. 1–3) NO cambia.** La redistribución fina de los Actos VI–X se diseñará cuando lleguemos; por ahora son brújula, no canon duro.
+
+### La Guerra del Grano (clímax de la guerra civil, Actos III–V) — CANON (v0.11)
+
+> Nombre dentro de la historia de **esta primera guerra**: la que enciende el saqueo del Barro a Aurelvar y culmina con la liberación de Adoral y la muerte de Magnus. No es «la guerra civil» en abstracto; es *esta* guerra, con nombre propio.
+
+- **El detonante (asalto fallido, inicio Acto III):** el hambre del cerco obliga al Barro a **saquear los almacenes de grano de Aurelvar**. Lo logran materialmente (comida), pero el golpe **despierta al gigante**: hiere a Aurelvar y convierte el cerco frío en **guerra abierta** en terreno de Adoral. *(Aura filtra la información que arma el saqueo — ver §9.)*
+- **Reconfiguración por la guerra:** como el combate sucede ya dentro de Adoral, **todos los protagonistas acaban arrastrados** a la guerra (justifica orgánicamente los reagrupamientos: Seth+Jerah+Magnus / Iliana+Hope / Eloy+Ciudadela). Nadie queda al margen.
+- **Aurelvar empuja; las casas se agrietan:** Aurelvar (el saqueado) presiona a Cendrel y Dravon para responder con fuerza, rompiendo la parálisis del consejo de regencia. Pero Cendrel y Dravon no quieren gastar su sangre por las pérdidas de Aurelvar → la alianza envenenada empieza a resquebrajarse en público.
+- **Aldair y el Estado militar (traición ABIERTA) — CANON (v0.11):** Aldair aprovecha la guerra para imponer, **abiertamente**, un **Estado militar** con él al mando. Las otras dos casas **no se lo impiden**: les conviene por motivos distintos (tras la Guerra del Grano piensan regir juntas, y necesitan a alguien que imponga orden militar), y lo **toleran por conveniencia**, cada una planeando descabalgarlo después. Aldair da la estrategia de la guerra.
+- **Aura, contrapeso invisible de Aldair — CANON (v0.11):** cada movimiento militar de Aldair, **filtrado por Aura al Barro**, le **compra tiempo a la organización del arrabal**. El general de Adoral cree dirigir la guerra; en realidad le da oxígeno al enemigo sin saberlo. Así resiste el Barro pese a su debilidad: no por su fuerza, sino porque **tiene los planes del enemigo**.
+- **Magnus detecta a Seth:** en el **asalto fallido**, Magnus nota a **alguien esencial** por su **uso de la ceniza** (Seth ya domina su poder a estas alturas). Luego lo conoce y ve en él **al líder que él no puede ser** — y **nunca se lo dice hasta su muerte** (recontextualiza el encargo: reconocimiento guardado, no discurso).
+- **El clímax (fin Acto V):**
+  1. **Asalto final** (exitoso, con las cinco piezas). **Magnus muere.**
+  2. **La última bala de las casas:** acorraladas, juegan su carta desesperada — una **explosión desde las alcantarillas** dispuesta a **volar media capital** con tal de sepultar al Barro. Genocidio como gesto de quien prefiere destruir el tablero a perderlo.
+  3. **Seth la detiene** (ceniza + físico/heroico a la vez; su poder no le quita lo heroico). **Pierde parcialmente un brazo.**
+  4. **Reencuentro Seth↔Hope** (pago del hilo mudo del Acto I): Seth **moribundo**, mirando el cielo, ve a **Hope con el sol a su espalda** — aureola, divinidad, la idealización purísima que Seth proyecta en ella. Ella **sin un rasguño ni sangre**, pero con el **rostro cargado por el dolor de la magia** que absorbe (§11). Ella lo **cura**. Imagen-tesis: los dos altruistas extremos deformándose en direcciones opuestas, hechos un solo cuadro. *(Eco estructural de Mildraugh: otra explosión subterránea, pero esta vez Seth llega a tiempo.)*
+  5. **Coronación de facto:** Magnus muerto + antorcha pasada + el Barro que ya seguía a Seth sin que él lo viera + Adoral que ve en él **al que los salvó de volar por los aires y de la tiranía de las casas** → el pueblo (Barro y Adoral juntos) lo hace **Rey del Barro**. *«El Príncipe del Barro murió; el Rey del Barro reinará.»*
+
+### La segunda mitad (Actos VI–X): paz, la Idea del Mal y el regreso del Clérigo — DIRECCIÓN PREFERIDA (v0.11)
+
+> Tras la coronación, la estructura da un giro de dos capas (misdirection). Refs. de recurso: **Jayce regresando de la línea donde Viktor ganó** / **Bran vs. el Rey de la Noche** (un combatiente que llega desde fuera del conflicto principal con la perspectiva de un horror mayor).
+
+- **Periodo de paz** tras la Guerra del Grano, con Seth reinando. La paz es el antecedente necesario: da el tiempo para lo que viene.
+- **El enemigo nuevo — la Idea del Mal — CANON (v0.11, cumple §14 «la fe crea»):** una **entidad engendrada por el sentimiento/el miedo/el dolor colectivo** de un mundo roto — la guerra civil, los Hijos de la Horca, todo el mal acumulado se concentró y **solidificó** en un ente (ref. directa: la Idea del Mal de *Berserk*). No es un ejército ni un hombre: es sentimiento colectivo hecho entidad.
+- **Eloy frente a la Idea del Mal:** Eloy **no pelea en la Guerra del Grano**; su frente es la **Ciudadela**, y después, **la Idea del Mal**, que combate desde allí. Su descubrimiento —que los **sentimientos** son tan poderosos como los recuerdos como combustible mágico (§12)— es justo la llave para comprender y combatir a un enemigo hecho de sentimiento colectivo. La narración monta a la Idea del Mal como **el antagonista final aparente**.
+- **La misdirection / el golpe real:** Eloy **sabe todo el tiempo que Seth es el peor de todos los males** — pero eso **solo se menciona al final, cuando acaban con la Idea del Mal y aparece el Clérigo.** Justo cuando el lector cree ganada la guerra definitiva, se revela que el horror verdadero —el Clérigo, Seth transformado— acaba de entrar. **El Clérigo es el antagonista final-final.** Tesis: el mal abstracto/externo (la Idea del Mal) da menos miedo que el mal íntimo nacido del amor y la bondad (el Clérigo). El amor que justifica atrocidades es peor que el mal puro.
+- **La caída al Clérigo** (captura por el culto, §15 → experimentación → transformación, §8) ocurre **en este tramo, después de la coronación y la paz** — no antes. El Acto V termina con Seth **coronado y vivo**.
+
+- **«La otra realidad» de Eloy — CANON (v0.11):** Eloy accede a **otra realidad/línea** principalmente para **derrotar a la Idea del Mal**. El puente lo abre el **Vidente** (el anciano que mueve los hilos de la Ciudadela, §4), que **se sacrifica** para abrirlo — cierre de su arco: todo lo que movió «por Eloy» (la runa de Magnus, el cuervo de Jerah, guiar a Eloy) culmina en este sacrificio. Allí Eloy descubre, además de lo que buscaba, que **Seth/el Clérigo es el verdadero enemigo final** — y vuelve sabiéndolo (recurso Jayce / la línea donde Viktor ganó). Explica por qué Eloy sabe desde temprano que «Seth es el peor de los males».
+- **La amistad Seth↔Eloy (CANON v0.11, resuelve el problema de tiempo):** se **siembra durante la Guerra del Grano**, por la **investigación de Eloy sobre la ceniza** (persigue el fenómeno → el que lo encarna es Seth; el erudito y el fenómeno que estudia se cruzan por necesidad). Esa misma investigación es la que luego **culmina en «la otra realidad»**. La amistad **florece en el periodo de paz** (ver abajo). Trágico: el mejor amigo de Seth será quien deba enfrentar al Clérigo (§12).
+- **El periodo de paz = al menos 3 años (CANON v0.11):** NO un salto temporal brusco, sino un **transcurrir visible** de ~3 años tras la coronación. Descongestiona los vínculos: da tiempo a que **la amistad Seth↔Eloy** (sembrada en la guerra) y **el amor Seth↔Hope** (flechazo en el reencuentro del clímax → amor construido en la paz) echen raíces de verdad. Cuanto más sólidos el amor y la amistad, más trágica la caída al Clérigo.
+- **La batalla final contra el Clérigo — DIRECCIÓN PREFERIDA (v0.11):**
+  - **El objetivo del Clérigo:** esparcir la ceniza por el mundo para **«salvar a todos de los Vigilantes»** — su lógica de salvación pura, sin el juicio moral que la frenaba (§8: el que olvidó el porqué y conservó el deber). Cree que volver el mundo ceniza es salvarlo.
+  - **Eloy intenta convencerlo primero** (ya vio los efectos de la ceniza en «la otra realidad»): el conocimiento y la amistad intentando lo que las armas no pueden. **Falla.** Ese fracaso justifica que después tome las armas.
+  - **Eloy + Iliana + uno de los hermanos piratas lideran la batalla final** contra el Clérigo. (Iliana encaja con su mando de la Fuerza Dorada; el pirata paga la semilla de los piratas hasta el final.)
+  - **PREGUNTA ABIERTA (sin decidir — el final NO se cierra todavía): cómo muere Hope y quién da el golpe final a Seth.** Dos opciones vivas:
+    1. **Hope muere antes** (a manos del Clérigo) → su muerte da a Eloy el motivo para acabar con Seth. *(Riesgo: no paga la imagen de apertura.)*
+    2. **Hope da el golpe final / se sacrifica volviéndose ceniza con él** → **cumple el ciclo**: el cuerpo de ceniza que Seth sostenía al despertar (Acto I) ERA Hope; Seth vuelve a despertar sosteniéndola, y el ciclo recomienza. *(Paga §8, §11, §14, §17; es el final circular que la obra lleva pidiendo. Eloy cierra su arco comprendiendo el ciclo y permitiéndolo.)*
+    - NO decidir todavía. Sembrar las bases de ambas sin cerrar.
+
+> **AVISO HISTÓRICO (v0.7, superado):** lo que sigue describía la estructura de **5 actos × 3 capítulos**. Se conserva como referencia de hitos, pero la macroestructura vigente es la de 10 actos (arriba).
 
 ### Molde de capítulos — CANON CONFIRMADO (v0.3)
 
@@ -765,15 +936,40 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 - Sembrar fe, investigación, ceniza y política sin revelar a los Vigilantes.
 
 ### Acto II — Caminos, objetivos y primeros cruces
-- Seth e Iliana se encuentran: conflicto, contraste y compañerismo.
-- Hope y Eloy avanzan hacia Adoral por razones propias (por concretar).
-- Crece la guerra civil y la crisis de sucesión; rutas, recursos e instituciones afectan a los protagonistas.
-- Seth actúa como protector y empieza a definir sus convicciones.
-- La ceniza aparece como fenómeno extraño, sin explicación completa.
+- **Función del acto (v0.10):** **maduración de personajes y convergencia hacia Adoral**, NO gran batalla. El Acto II pone a todos en posición y los desarrolla para que, cuando el **asalto fallido al Barro** (evento-prisma) estalle al **inicio del Acto III**, el reparto en grupos se sienta inevitable. El acto cierra con los protagonistas **convergiendo en/hacia Adoral**, listos para que el prisma los reparta.
+- Seth e Iliana viajan juntos hacia Adoral (ya se encontraron en el Acto I): compañerismo áspero, contraste, Seth definiendo sus convicciones.
+- **Hope y Eloy (con Dorn) hacia Adoral**, divergiendo por carácter:
+  - **Dorn entrena a Hope con la espada** a lo largo del camino. La «pequeña dama» aprendiendo a matar = grieta de su arco (§11), no vocación; aprende porque el mundo acaba de enseñarle que la misericordia sola no salva a nadie.
+  - **Eloy prefiere el cuaderno/libro de Gareth** antes que la espada: mientras Hope empuña, Eloy se hunde en el conocimiento (las «preguntas verdaderas» de Gareth, el hilo de «Citadel»). Los dos amigos **divergen en el Acto II** —ella hacia la espada, él hacia el libro—, lo que **prepara su separación** del Acto III (Hope → con Iliana; Eloy → Ciudadela).
+- **Jerah** (nuevo hilo del Acto II): huye de Adoral con la carta; peregrina entre casas menores buscando respaldo (rechazo de Fenwar); un **cuervo de la Ciudadela** lo redirige (hilo del Vidente); rumbo a Magnus.
+
+> **REPARTO DE POV POR CAPÍTULO (Acto II) — TENTATIVO (v0.10), no canon duro.** No todos los POV aparecen en todos los capítulos (se permite ausencia deliberada, §16). Borrador de trabajo, a confirmar al escalar cada capítulo:
+> - **Cap. 1:** Adoral (Aldair), Seth e Iliana, Jerah, Eloy y Hope. *(Magnus NO: solo «de oídas», el «cabecilla».)*
+> - **Cap. 2:** entra el **primer POV de Magnus del Acto II** (regreso como líder del Barro, no como preso). Hope+Eloy (entrenamiento/cuaderno), Seth+Iliana (camino). **Jerah NO aparece en el Cap. 2** (su hilo descansa tras el cuervo).
+> - **Cap. 3:** convergencia hacia Adoral; se retoma Jerah; el acto cierra con todos en posición y el cerco asfixiando al Barro (gancho al evento-prisma del Acto III).
+>
+> *(Nota de método: la planificación macro va por delante de la prosa; tratar esta escaleta y los hitos de Actos II–III como brújula tentativa, dejando que la prosa los confirme o ajuste.)*
+- Crece la guerra civil y la crisis de sucesión; el **cerco al Barro** empieza a apretarse (justificación del asalto del Acto III); rutas, recursos e instituciones afectan a los protagonistas.
+- La ceniza aparece como fenómeno extraño, sin explicación completa (reservada, ligada a Seth).
 - *(Reconciliar aquí el arco de Magnus: su relación con Seth y el camino hacia su muerte/encargo.)*
 
+### El evento-prisma: el asalto fallido al Barro — CANON (v0.10)
+
+> El acontecimiento que reparte a los protagonistas en sus grupos definitivos. **Un solo evento, cuatro efectos.** Ocurre al **inicio del Acto III** (no cierra el Acto II).
+
+- **Qué pasa:** las tres casas, presionadas por el Barro que se **organiza** (ver POV Aldair, Cap. 1) y tras asfixiarlo con un **cerco / hambre** (cierre de accesos y suministros — la vía que las casas acordaron por no poder atacarse entre sí), rompen su parálisis y lanzan un **asalto «quirúrgico» al arrabal** para descabezar al cabecilla antes de que termine sus defensas. **Les sale mal:** Magnus y el Barro lo rechazan. El **cerco es la justificación**; el **asalto fallido es el detonante**.
+- **Por qué funciona como prisma (un evento → los grupos finales):**
+  - **Magnus:** el ataque rechazado lo consagra de «cabecilla» a **líder de guerra**; necesita cuadros militares, no solo fervor → abre el hueco para Seth y Jerah.
+  - **Seth (llega con Iliana en mitad del asalto):** su bondad imprudente lo mete, sin cálculo, del lado de los masacrados (el Barro). Pelea, lo ven pelear → **entra en la órbita de Magnus por acto, no por azar** (resuelve la vieja preocupación de que no se encuentren «porque sí»).
+  - **Jerah:** redirigido por el cuervo de la Ciudadela (Cap. 1), llega persiguiendo su venganza contra las casas; el enemigo de su enemigo es el Barro → **se une a Magnus** (con la carta encima, sin saber aún que Magnus es el hijo de Darius).
+  - **Iliana:** el asalto la separa de Seth (caos / su deber de reportar a la Corte); queda del lado del orden/la ciudad, **bando distinto al de Seth** → su camino se cruza con Hope.
+  - **Hope y Eloy (llegan en la carreta con Dorn):** el asalto los parte. **Eloy sigue a la Ciudadela** (su carta de traslado, su propósito). **Hope queda con las víctimas civiles**, donde la encuentra Iliana.
+- **Grupos resultantes (CANON v0.10):** **Seth + Jerah + Magnus** · **Iliana + Hope** · **Eloy + la Ciudadela**.
+- **Escala:** este asalto fallido es el **ensayo** que escala al **asalto mayor / liberación de Adoral** del Acto III (§16).
+
 ### Acto III — Asalto, liberación y desaparición
-- Hope y Eloy están juntos en Adoral al comenzar el asalto.
+- **Arranca con el asalto fallido al Barro** (evento-prisma, arriba) → reparte a todos en sus grupos y escala a la liberación.
+- Hope y Eloy llegaron juntos a Adoral pero **se separan aquí** (Eloy → Ciudadela; Hope → con Iliana).
 - Convergencia por la guerra; momento exacto por fijar.
 - **Muerte de Magnus y su encargo a Seth.** *(NUEVO eje — por escaletar.)*
 - Seth participa decisivamente en la liberación; el pueblo lo nombra Rey del Barro.
@@ -971,6 +1167,11 @@ Reglas de prioridad al retomar el proyecto:
 | **31 oct 2026 (v0.9)** | **La madre de Magnus:** amante de Darius, **murió en labor de parto**. Darius no soportaba mirar a Magnus porque tenía los ojos de ella. Razón profunda (no solo política) de los años sin bajar a la celda. | **§5 (sucesión) ampliada.** |
 | **31 oct 2026 (v0.9)** | **La carta de Darius a Jerah:** testamento emocional (no político). Magnus la lee y se rompe; contenido completo se revela al lector con la muerte de Magnus. Tres capas: la madre, «se fue porque verlo le recordaba a ella», y la frase de las manos = palabras de la madre (flores). | **§5 (nueva subsección).** |
 | **31 oct 2026 (v0.9)** | **Magnicidio justificado:** Darius sin descendencia reconocida = trono vacío limpio. Ironía: escondió a Magnus tan bien que perdió el escudo de tener heredero. Murió desprotegido por amor. | **§5 (sucesión) ampliada.** |
+| **4 nov 2026 (v0.10)** | **Arranque del Acto II (Cap. 1):** POV de apertura `# ADORAL` desde **Aldair** (Dravon), una semana tras el magnicidio. Las tres casas gestionan el desastre y se vigilan; buscan un **regente** para un trono sin heredero → consejo de regencia paritario e impotente. Inteligencia militar: ~300 fugados, motines, el Barro **organizándose**. Darius = soldado sin cuna coronado por el viejo rey tras la **Guerra del Estrecho** (invasión del viejo continente por mar), con el juramento de **preservar la corona**. | **Nuevo `manuscrito/acto-2-cap-1-adoral.md`; §5 (Guerra del Estrecho, origen de Darius).** |
+| **4 nov 2026 (v0.10)** | **Tortura/transformación de Seth (refs. Veigar + Shockwave):** buen chico altruista al que una intervención externa convierte en el monstruo esperado. Se fusiona con el sistema de magia ya canon: la experimentación le **consume las razones** del «salvar» y le deja el impulso en bruto (= lobotomía de Shockwave + monstruo-que-se-esperaba de Veigar, con la física mágica del libro). El Clérigo = «Seth al que le extirparon el porqué y le dejaron el deber». No absuelve. | **§8 (nueva subsección «La tortura y la transformación en el Clérigo»).** |
+| **4 nov 2026 (v0.10)** | **Piratas del viejo continente (ref. hermanos tipo Harald/Halfdan):** saqueadores/mercenarios, resaca de la Guerra del Estrecho. **Magnus los recluta para derrocar a las casas.** POV de dos hermanos caudillos = DIRECCIÓN PREFERIDA para más adelante; en el Cap. 1 solo se **siembra** su existencia. | **§5 bis (nueva sección).** |
+| **4 nov 2026 (v0.10)** | **El culto infiltrado en las grandes casas:** ya está dentro (consejeros, alquimistas, etc.) sin que las casas lo sepan; ellas creen usarlo y las usa a ellas. Es lo que hace posible la **captura de Seth** tras la liberación (la estructura que la victoria no desmanteló). Semilla plantada desde el Acto II. Relación con los Hijos de la Horca = PREGUNTA ABIERTA. | **§15 (nueva subsección «El culto infiltrado»).** |
+| **4 nov 2026 (v0.10)** | **Amenaza «unidos por el miedo» (ref. Halo):** cuando la guerra civil esté enconada, irrumpe una amenaza de otra escala que fuerza a cooperar a los enemigos. **Identidad PREGUNTA ABIERTA:** el propio Seth/Clérigo **o** el villano creado por la fe (§14), o ambos fundidos/escalonados. | **§15 (nueva subsección «La amenaza mayor»).** |
 
 ---
 
