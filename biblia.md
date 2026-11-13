@@ -718,6 +718,17 @@ Investigador/erudito. Curiosidad insaciable; quiere **comprender** la magia, no 
 
 > **NO CONFUNDIR.** «La muerte de Hope es el ultimátum» no fija quién la causa ni cómo. Ese mecanismo sigue abierto.
 
+### El poder de Eloy: golems de sentimiento y el plano de los padres — DIRECCIÓN PREFERIDA (v0.11)
+
+> El hechicero en que se convertirá Eloy. Reverso temático de Seth y de Hope: donde Seth se consume **a sí mismo** salvando, y Hope **carga** el dolor ajeno, Eloy transforma **el amor de sus muertos** en arma — y los gasta. Su «amor que justifica la atrocidad», a su escala. Refs. tonales: Viktor / Blitzcrank (creación de autómatas), sin copiar su lore.
+
+- **El plano de los padres — CANON (v0.11):** Eloy aprende (de la mano del jefe de la Ciudadela) a **visitar a Bron y Yiel en otro plano**. No es metáfora: es un lugar al que accede. Allí están sus padres, de algún modo, y de ahí saca lo que anima su magia (su amor, su calor, su recuerdo hecho materia).
+- **Golems de sentimiento — CANON (v0.11):** Eloy anima cuerpos de materia transmutada con **emoción/sentimiento** (no con mecanismos). Un golem «vive» mientras le dura la emoción que lo anima; al agotarse, se desploma. Son la **forma visible de un precio invisible**: p. ej. un golem animado con «el recuerdo del abrazo de su madre» — y cuando cae, Eloy ya no recuerda ese abrazo. (Evita el riesgo «ejército de autómatas que gana solo»: cada golem cuesta un pedazo irrecuperable de sus padres.)
+- **El precio, atado a la ley mágica (CANON v0.11):** rige la equivalencia del libro — **la materia se transforma, no se destruye… pero transformarla sin fin la reduce, al final, a CENIZA** (§4). Por tanto: cada vez que Eloy usa lo que sus padres le dan, **los transforma, y nada vuelve a ser lo que era**; uso tras uso, Bron y Yiel se van **consumiendo hasta la ceniza**, hasta desaparecer. Eloy, para poder luchar, **convierte a sus padres en ceniza, despacio, hasta perderlos del todo** — una segunda muerte, esta a sus propias manos. Conecta su arco con el núcleo de la ceniza (§4) y con la tesis del libro.
+- **Eloy, primera línea contra el Clérigo — sentido temático:** Eloy puede enfrentar al Clérigo porque **hablan el mismo idioma maldito**: ambos usan magia-que-consume. Seth se vació a sí mismo; Eloy se vacía a sus muertos. El horror de su arco es que, al combatir al monstruo, **se va pareciendo a él**.
+- **PREGUNTA MUY ABIERTA (sin cerrar, el autor NO está convencido):** la idea de que Eloy «pague con lo ajeno» (sentimientos de otros, no solo de sus padres). **No canonizar.** Por ahora el único «combustible ajeno» confirmado son **sus padres, en el plano, y se gastan**; si el mecanismo se extiende o no a otras fuentes, queda abierto.
+- **Dosificación (Acto II, Cap. 2):** Eloy solo **estudia el cuaderno de Gareth** y comprende el **principio** (magia = comprensión; usarla cuesta comprensión). Semilla mínima: topa con la **pregunta herética** —*¿se podría pagar el precio con algo que no fueras tú?*— mirando la anomalía del relicario que reparó. No la resuelve; lo asusta y lo fascina. Todo el poder real (plano, golems) es descubrimiento posterior en la Ciudadela.
+
 ### Preguntas abiertas de Eloy
 
 - Qué sabe de la ceniza antes del acto I y por qué la estudia.
