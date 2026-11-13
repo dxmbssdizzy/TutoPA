@@ -865,6 +865,33 @@ Principio cosmológico que unifica la divinidad de Hope, el misterio de los Vigi
 >
 > **El Acto I (Caps. 1–3) NO cambia.** La redistribución fina de los Actos VI–X se diseñará cuando lleguemos; por ahora son brújula, no canon duro.
 
+### La Guerra del Grano (clímax de la guerra civil, Actos III–V) — CANON (v0.11)
+
+> Nombre dentro de la historia de **esta primera guerra**: la que enciende el saqueo del Barro a Aurelvar y culmina con la liberación de Adoral y la muerte de Magnus. No es «la guerra civil» en abstracto; es *esta* guerra, con nombre propio.
+
+- **El detonante (asalto fallido, inicio Acto III):** el hambre del cerco obliga al Barro a **saquear los almacenes de grano de Aurelvar**. Lo logran materialmente (comida), pero el golpe **despierta al gigante**: hiere a Aurelvar y convierte el cerco frío en **guerra abierta** en terreno de Adoral. *(Aura filtra la información que arma el saqueo — ver §9.)*
+- **Reconfiguración por la guerra:** como el combate sucede ya dentro de Adoral, **todos los protagonistas acaban arrastrados** a la guerra (justifica orgánicamente los reagrupamientos: Seth+Jerah+Magnus / Iliana+Hope / Eloy+Ciudadela). Nadie queda al margen.
+- **Aurelvar empuja; las casas se agrietan:** Aurelvar (el saqueado) presiona a Cendrel y Dravon para responder con fuerza, rompiendo la parálisis del consejo de regencia. Pero Cendrel y Dravon no quieren gastar su sangre por las pérdidas de Aurelvar → la alianza envenenada empieza a resquebrajarse en público.
+- **Aldair y el Estado militar (traición ABIERTA) — CANON (v0.11):** Aldair aprovecha la guerra para imponer, **abiertamente**, un **Estado militar** con él al mando. Las otras dos casas **no se lo impiden**: les conviene por motivos distintos (tras la Guerra del Grano piensan regir juntas, y necesitan a alguien que imponga orden militar), y lo **toleran por conveniencia**, cada una planeando descabalgarlo después. Aldair da la estrategia de la guerra.
+- **Aura, contrapeso invisible de Aldair — CANON (v0.11):** cada movimiento militar de Aldair, **filtrado por Aura al Barro**, le **compra tiempo a la organización del arrabal**. El general de Adoral cree dirigir la guerra; en realidad le da oxígeno al enemigo sin saberlo. Así resiste el Barro pese a su debilidad: no por su fuerza, sino porque **tiene los planes del enemigo**.
+- **Magnus detecta a Seth:** en el **asalto fallido**, Magnus nota a **alguien esencial** por su **uso de la ceniza** (Seth ya domina su poder a estas alturas). Luego lo conoce y ve en él **al líder que él no puede ser** — y **nunca se lo dice hasta su muerte** (recontextualiza el encargo: reconocimiento guardado, no discurso).
+- **El clímax (fin Acto V):**
+  1. **Asalto final** (exitoso, con las cinco piezas). **Magnus muere.**
+  2. **La última bala de las casas:** acorraladas, juegan su carta desesperada — una **explosión desde las alcantarillas** dispuesta a **volar media capital** con tal de sepultar al Barro. Genocidio como gesto de quien prefiere destruir el tablero a perderlo.
+  3. **Seth la detiene** (ceniza + físico/heroico a la vez; su poder no le quita lo heroico). **Pierde parcialmente un brazo.**
+  4. **Reencuentro Seth↔Hope** (pago del hilo mudo del Acto I): Seth **moribundo**, mirando el cielo, ve a **Hope con el sol a su espalda** — aureola, divinidad, la idealización purísima que Seth proyecta en ella. Ella **sin un rasguño ni sangre**, pero con el **rostro cargado por el dolor de la magia** que absorbe (§11). Ella lo **cura**. Imagen-tesis: los dos altruistas extremos deformándose en direcciones opuestas, hechos un solo cuadro. *(Eco estructural de Mildraugh: otra explosión subterránea, pero esta vez Seth llega a tiempo.)*
+  5. **Coronación de facto:** Magnus muerto + antorcha pasada + el Barro que ya seguía a Seth sin que él lo viera + Adoral que ve en él **al que los salvó de volar por los aires y de la tiranía de las casas** → el pueblo (Barro y Adoral juntos) lo hace **Rey del Barro**. *«El Príncipe del Barro murió; el Rey del Barro reinará.»*
+
+### La segunda mitad (Actos VI–X): paz, la Idea del Mal y el regreso del Clérigo — DIRECCIÓN PREFERIDA (v0.11)
+
+> Tras la coronación, la estructura da un giro de dos capas (misdirection). Refs. de recurso: **Jayce regresando de la línea donde Viktor ganó** / **Bran vs. el Rey de la Noche** (un combatiente que llega desde fuera del conflicto principal con la perspectiva de un horror mayor).
+
+- **Periodo de paz** tras la Guerra del Grano, con Seth reinando. La paz es el antecedente necesario: da el tiempo para lo que viene.
+- **El enemigo nuevo — la Idea del Mal — CANON (v0.11, cumple §14 «la fe crea»):** una **entidad engendrada por el sentimiento/el miedo/el dolor colectivo** de un mundo roto — la guerra civil, los Hijos de la Horca, todo el mal acumulado se concentró y **solidificó** en un ente (ref. directa: la Idea del Mal de *Berserk*). No es un ejército ni un hombre: es sentimiento colectivo hecho entidad.
+- **Eloy frente a la Idea del Mal:** Eloy **no pelea en la Guerra del Grano**; su frente es la **Ciudadela**, y después, **la Idea del Mal**, que combate desde allí. Su descubrimiento —que los **sentimientos** son tan poderosos como los recuerdos como combustible mágico (§12)— es justo la llave para comprender y combatir a un enemigo hecho de sentimiento colectivo. La narración monta a la Idea del Mal como **el antagonista final aparente**.
+- **La misdirection / el golpe real:** Eloy **sabe todo el tiempo que Seth es el peor de todos los males** — pero eso **solo se menciona al final, cuando acaban con la Idea del Mal y aparece el Clérigo.** Justo cuando el lector cree ganada la guerra definitiva, se revela que el horror verdadero —el Clérigo, Seth transformado— acaba de entrar. **El Clérigo es el antagonista final-final.** Tesis: el mal abstracto/externo (la Idea del Mal) da menos miedo que el mal íntimo nacido del amor y la bondad (el Clérigo). El amor que justifica atrocidades es peor que el mal puro.
+- **La caída al Clérigo** (captura por el culto, §15 → experimentación → transformación, §8) ocurre **en este tramo, después de la coronación y la paz** — no antes. El Acto V termina con Seth **coronado y vivo**.
+
 > **AVISO HISTÓRICO (v0.7, superado):** lo que sigue describía la estructura de **5 actos × 3 capítulos**. Se conserva como referencia de hitos, pero la macroestructura vigente es la de 10 actos (arriba).
 
 ### Molde de capítulos — CANON CONFIRMADO (v0.3)
